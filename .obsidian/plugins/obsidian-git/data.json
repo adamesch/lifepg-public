@@ -1,7 +1,7 @@
 {
-  "commitMessage": "vault backup: {{date}}",
-  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 0,
+  "commitMessage": "vault commit {{date}}",
+  "commitDateFormat": "YYYYDDDDHHmmss",
+  "autoSaveInterval": 20,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": false,
@@ -21,7 +21,7 @@
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": true,
   "showedMobileNotice": true,
-  "refreshSourceControlTimer": 7000,
+  "refreshSourceControlTimer": 6000,
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
@@ -54,5 +54,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "vault backup: {{date}}"
+  "autoCommitMessage": "vault commit {{date}}"
 }

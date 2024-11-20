@@ -11,15 +11,10 @@
             "id": "9988b9d894e36127",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ Encounters/2024324230714.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024324230714"
+              "title": "New tab"
             }
           }
         ]
@@ -88,7 +83,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/2024324230714.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -116,7 +110,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2024324230714"
+              "title": "Graph view"
             }
           }
         ]
@@ -243,7 +237,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9988b9d894e36127",
+  "active": "e0d99b930e02ff26",
   "lastOpenFiles": [
     "+ Encounters/2024324230714.md",
     "Special Interests/01 Projects/terror-11D/terror-11D-2024275124509.md",
