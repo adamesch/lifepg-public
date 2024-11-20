@@ -1,4 +1,7 @@
 {
   "promptDelete": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "+ Encounters",
+  "showUnsupportedFiles": true
 }
