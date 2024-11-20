@@ -4,6 +4,7 @@ aliases:
   - Tiago Forte
 tags:
   - person
+related: "[[source-channel-youtube-tiagoforte-2024325013935]]"
 ---
 
 

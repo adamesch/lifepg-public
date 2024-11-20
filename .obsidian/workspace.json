@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/source-channel-youtube-2024325012714.md",
+                "file": "Sources/source-channel-youtube-linkingyourthinking-2024325012714.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "source-channel-youtube-2024325012714"
+              "title": "source-channel-youtube-linkingyourthinking-2024325012714"
             }
           },
           {
@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/source-channel-2024325013935.md",
+                "file": "+ Encounters/helloworld-2024275132515.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "source-channel-2024325013935"
+              "title": "helloworld-2024275132515"
             }
           }
         ],
@@ -149,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/source-channel-2024325013935.md",
+                "file": "+ Encounters/helloworld-2024275132515.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of source-channel-2024325013935"
+              "title": "Graph of helloworld-2024275132515"
             }
           }
         ]
@@ -316,11 +316,12 @@
   },
   "active": "fdf82089df8beaad",
   "lastOpenFiles": [
-    "+ Encounters/source-channel-2024325013935.md",
-    "Cards/person-nickmilo-2024325012820.md",
-    "Cards/person-tiagoforte-2024325013812.md",
+    "Special Interests/Special Interests.canvas",
     "+ Encounters/helloworld-2024275132515.md",
-    "Sources/source-channel-youtube-2024325012714.md",
+    "Cards/person-tiagoforte-2024325013812.md",
+    "Cards/person-nickmilo-2024325012820.md",
+    "Sources/source-channel-youtube-linkingyourthinking-2024325012714.md",
+    "Sources/source-channel-youtube-tiagoforte-2024325013935.md",
     "Sources/source-post-reddit-2024324234256.md",
     "+ Encounters/+ Encounters.md",
     "Calendar/Calendar.md",
@@ -347,7 +348,6 @@
     "Extras/Screenshots/screenshot-20241119234730.png",
     "Extras/Screenshots",
     "Special Interests/01 Projects/dream-00@/dream-00@-2024276131549.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-2024275124509.md",
     "LICENSE",
     "Special Interests/01 Projects/dream-00@",
     "Special Interests/03 Resources/Spellbook",
