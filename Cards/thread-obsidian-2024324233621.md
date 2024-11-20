@@ -14,13 +14,13 @@ you configured the Git community plugin
   
 	`git@github.com permission denied (publickey)`
 
-- the instructions in 
+- the instructions in [[source-post-2024324234256]] resolved this, and commit-and-sync now works properly
 
 ***
 
 up:: 
 back:: 
 forward:: 
-layer:: [[layer-099]]
+layer:: [[mindofevil|layer-111]]
 
 ***

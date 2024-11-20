@@ -4,71 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "5b09528674b5e497",
-        "type": "tabs",
+        "id": "1d5be94bf28431ae",
+        "type": "split",
         "children": [
           {
-            "id": "9988b9d894e36127",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Special Interests/01 Projects/dream-00@/dream-00@-2024276131549.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "dream-00@-2024276131549"
-            }
+            "id": "20d383014f0a8233",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e5e43842ac43b5fc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Home.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Home"
+                }
+              }
+            ]
           },
           {
-            "id": "e5e43842ac43b5fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/wellsofdarkness.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "wellsofdarkness"
-            }
-          },
-          {
-            "id": "1fd8428e0f220f63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ Encounters/thread-obsidian-2024324233621.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "thread-obsidian-2024324233621"
-            }
-          },
-          {
-            "id": "0edd705fb6415e98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/source-post-2024324234256.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "source-post-2024324234256"
-            }
+            "id": "5b09528674b5e497",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0edd705fb6415e98",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Atlas/layer-099.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "layer-099"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -134,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Atlas/wellsofdarkness.md",
+                "file": "Atlas/layer-099.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -157,12 +139,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9221079114817272,
+                  "scale": 0.5745686763561866,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of wellsofdarkness"
+              "title": "Graph of layer-099"
             }
           }
         ]
@@ -270,13 +252,23 @@
               "icon": "history",
               "title": "History"
             }
+          },
+          {
+            "id": "aba4d8e3371721dd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 473.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -289,21 +281,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e5e43842ac43b5fc",
+  "active": "0edd705fb6415e98",
   "lastOpenFiles": [
+    "Sources/source-post-2024324234256.md",
+    "Atlas/layer-099.md",
+    "Home.md",
+    "Atlas/wellsofdarkness.md",
     "Atlas/voorzzt.md",
     "Atlas/realmofamillioneyes.md",
     "Atlas/plainofinfiniteportals.md",
     "Atlas/mansionoftherake.md",
-    "Atlas/layer-500.md",
-    "Atlas/layer-099.md",
     "Atlas/brokenscale.md",
+    "Cards/thread-obsidian-2024324233621.md",
+    "Cards/thread-github-2024324233136.md",
+    "Atlas/layer-500.md",
+    "Atlas/mindofevil.md",
     "Extras/Pictures/terror-11D-sigil.png",
-    "Sources/source-post-2024324234256.md",
     "Extras/Screenshots/screenshot-20241119234730.png",
     "Extras/Screenshots",
-    "+ Encounters/thread-obsidian-2024324233621.md",
-    "+ Encounters/thread-github-2024324233136.md",
     "Special Interests/01 Projects/dream-00@/dream-00@-2024276131549.md",
     "Special Interests/01 Projects/terror-11D/terror-11D-2024275124509.md",
     "Special Interests/03 Resources/Spellbook/spell-debtboundresurrection-2024275142130.md",
@@ -316,11 +311,8 @@
     "README.md",
     "LICENSE",
     "Sources/video-youtube-2024275131845.md",
-    "Atlas/wellsofdarkness.md",
     "Cards/pkm-zettlekasten-2024275121755.md",
     "Cards/pkm-para-2024275121839.md",
-    "Cards/pkm-eaccess-2024275122812.md",
-    "Home.md",
     "Special Interests/01 Projects/dream-00@",
     "Special Interests/03 Resources/Spellbook",
     "Special Interests/03 Resources/Bestiary",
