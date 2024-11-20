@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "db6b2a64df3736db",
+        "id": "d80ef6e44703c65a",
         "type": "tabs",
         "children": [
           {
-            "id": "2b89dc5c4551aed6",
+            "id": "b4ddc8b67453f916",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": true
+                "file": ".obsidian/workspace.json",
+                "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (data.json)"
+              "title": "Diff View (workspace.json)"
             }
           }
         ]
@@ -230,7 +230,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b89dc5c4551aed6",
+  "active": "b4ddc8b67453f916",
   "lastOpenFiles": [
     "Special Interests/01 Projects/terror-11D/terror-11D-2024275124509.md",
     "README.md",
