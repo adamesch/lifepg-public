@@ -13,6 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Sources/source-post-reddit-2024324234256.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "source-post-reddit-2024324234256"
+            }
+          },
+          {
+            "id": "55b15951b63f80fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/source-channel-youtube-2024325012714.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "source-channel-youtube-2024325012714"
+            }
+          },
+          {
+            "id": "99846d8fda4c5070",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "+ Encounters/helloworld-2024275132515.md",
                 "mode": "source",
                 "backlinks": true,
@@ -21,8 +51,39 @@
               "icon": "lucide-file",
               "title": "helloworld-2024275132515"
             }
+          },
+          {
+            "id": "a1f611a8176fed47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/person-nickmilo-2024325012820.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "person-nickmilo-2024325012820"
+            }
+          },
+          {
+            "id": "fdf82089df8beaad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ Encounters/source-channel-2024325013935.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "source-channel-2024325013935"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -88,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/helloworld-2024275132515.md",
+                "file": "+ Encounters/source-channel-2024325013935.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -116,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of helloworld-2024275132515"
+              "title": "Graph of source-channel-2024325013935"
             }
           }
         ]
@@ -236,7 +297,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -253,10 +314,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e5e43842ac43b5fc",
+  "active": "fdf82089df8beaad",
   "lastOpenFiles": [
-    "Special Interests/03 Resources/Bestiary/monster-adhddæmon-2024325002507.md",
+    "+ Encounters/source-channel-2024325013935.md",
+    "Cards/person-nickmilo-2024325012820.md",
+    "Cards/person-tiagoforte-2024325013812.md",
     "+ Encounters/helloworld-2024275132515.md",
+    "Sources/source-channel-youtube-2024325012714.md",
+    "Sources/source-post-reddit-2024324234256.md",
+    "+ Encounters/+ Encounters.md",
+    "Calendar/Calendar.md",
+    "Atlas/Atlas.canvas",
+    "Special Interests/03 Resources/Bestiary/monster-adhddæmon-2024325002507.md",
     "Atlas/mansionoftherake.md",
     "Extras/Pictures/barlgura.png",
     "Extras/Pictures/its-dangerous-to-go-alone.png",
@@ -267,7 +336,6 @@
     "Atlas/gutteringgrove.md",
     "Atlas/wellsofdarkness.md",
     "Atlas/brokenscale.md",
-    "Sources/source-post-2024324234256.md",
     "Atlas/voorzzt.md",
     "Atlas/realmofamillioneyes.md",
     "Atlas/plainofinfiniteportals.md",
@@ -280,11 +348,6 @@
     "Extras/Screenshots",
     "Special Interests/01 Projects/dream-00@/dream-00@-2024276131549.md",
     "Special Interests/01 Projects/terror-11D/terror-11D-2024275124509.md",
-    "Special Interests/03 Resources/Spellbook/spell-debtboundresurrection-2024275142130.md",
-    "Special Interests/03 Resources/Bestiary/monster-debtrevenant-2024275142603.md",
-    "Special Interests/03 Resources/Bestiary/monster-mandythelich-2024275142807.md",
-    "Extras/Templates/template-uniquenote.md",
-    "+ Encounters/2024324230714.md",
     "LICENSE",
     "Special Interests/01 Projects/dream-00@",
     "Special Interests/03 Resources/Spellbook",
