@@ -208,6 +208,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "fb803209f6f0b076",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
         "currentTab": 5
@@ -227,7 +237,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9988b9d894e36127",
+  "active": "fb803209f6f0b076",
   "lastOpenFiles": [
     "Special Interests/01 Projects/terror-11D/terror-11D-2024275124509.md",
     "README.md",
