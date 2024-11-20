@@ -4,53 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "1d5be94bf28431ae",
-        "type": "split",
+        "id": "20d383014f0a8233",
+        "type": "tabs",
         "children": [
           {
-            "id": "20d383014f0a8233",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e5e43842ac43b5fc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Home.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Home"
-                }
-              }
-            ]
-          },
-          {
-            "id": "5b09528674b5e497",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0edd705fb6415e98",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Atlas/layer-099.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "layer-099"
-                }
-              }
-            ]
+            "id": "e5e43842ac43b5fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ Encounters/helloworld-2024275132515.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "helloworld-2024275132515"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Atlas/layer-099.md",
+                "file": "+ Encounters/helloworld-2024275132515.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -144,7 +116,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of layer-099"
+              "title": "Graph of helloworld-2024275132515"
             }
           }
         ]
@@ -281,17 +253,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0edd705fb6415e98",
+  "active": "e5e43842ac43b5fc",
   "lastOpenFiles": [
-    "Sources/source-post-2024324234256.md",
+    "+ Encounters/monster-adhddæmon-2024325002507.md",
     "Atlas/layer-099.md",
+    "Special Interests/03 Resources/Bestiary/monster-greatgelatinouscube-2024276130707.md",
     "Home.md",
+    "Atlas/rottingplain.md",
+    "Atlas/gutteringgrove.md",
+    "Extras/+ Unsorted/Barlgura.png",
     "Atlas/wellsofdarkness.md",
+    "Atlas/brokenscale.md",
+    "Sources/source-post-2024324234256.md",
     "Atlas/voorzzt.md",
     "Atlas/realmofamillioneyes.md",
     "Atlas/plainofinfiniteportals.md",
     "Atlas/mansionoftherake.md",
-    "Atlas/brokenscale.md",
     "Cards/thread-obsidian-2024324233621.md",
     "Cards/thread-github-2024324233136.md",
     "Atlas/layer-500.md",
@@ -304,15 +281,11 @@
     "Special Interests/03 Resources/Spellbook/spell-debtboundresurrection-2024275142130.md",
     "Special Interests/03 Resources/Bestiary/monster-debtrevenant-2024275142603.md",
     "Special Interests/03 Resources/Bestiary/monster-mandythelich-2024275142807.md",
-    "Special Interests/03 Resources/Bestiary/monster-greatgelatinouscube-2024276130707.md",
     "Extras/Templates/template-uniquenote.md",
     "+ Encounters/helloworld-2024275132515.md",
     "+ Encounters/2024324230714.md",
     "README.md",
     "LICENSE",
-    "Sources/video-youtube-2024275131845.md",
-    "Cards/pkm-zettlekasten-2024275121755.md",
-    "Cards/pkm-para-2024275121839.md",
     "Special Interests/01 Projects/dream-00@",
     "Special Interests/03 Resources/Spellbook",
     "Special Interests/03 Resources/Bestiary",

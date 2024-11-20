@@ -4,5 +4,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "+ Encounters",
   "showUnsupportedFiles": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Extras/+ Unsorted"
 }
