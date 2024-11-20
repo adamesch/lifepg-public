@@ -4,3 +4,12 @@ aliases:
 tags:
   - monster
 ---
+
+***
+
+up:: 
+back:: 
+forward:: 
+layer:: [[layer-099]]
+
+***
