@@ -4,7 +4,7 @@ aliases:
 tags:
   - source
   - quote
-related:
+related: "[[person-elonmusk-2024325111801|Elon Musk]]"
 ---
 # quote
 

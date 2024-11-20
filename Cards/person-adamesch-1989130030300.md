@@ -1,12 +1,12 @@
 ---
 aliases:
-  - "2024325111801"
-  - Elon Musk
+  - Adam Esch
+  - "1989130030300"
 tags:
   - person
 ---
 
-
+Who's this chucklefuck?
 
 ***
 

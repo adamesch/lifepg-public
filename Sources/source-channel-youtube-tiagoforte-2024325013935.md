@@ -1,6 +1,7 @@
 ---
 aliases:
   - "2024325013935"
+  - Tiago Forte
 tags: 
 url: https://www.youtube.com/@TiagoForte
 ---
@@ -12,6 +13,6 @@ url: https://www.youtube.com/@TiagoForte
 up:: 
 back:: 
 forward:: 
-layer:: [[layer-099]]
+layer:: [[wellsofdarkness|layer-073]]
 
 ***
