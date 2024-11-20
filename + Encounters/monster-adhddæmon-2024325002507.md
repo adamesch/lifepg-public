@@ -4,7 +4,7 @@ aliases:
 tags:
 ---
 
-![[Barlgura.png]]
+![[barlgura.png]]
 
 ***
 

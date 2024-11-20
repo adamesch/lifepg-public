@@ -1,7 +1,8 @@
 ---
 aliases:
-  - Lair of the Beast and Mansion of the Rake
   - layer-487
+  - Lair of the Beast
+  - Mansion of the Rake
 tags:
   - moc
 ---
