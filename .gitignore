@@ -2,3 +2,5 @@
 .DS_Store
 Thumbs.db
 
+# Ignore workspace.json
+.obsidian/workspace.json
