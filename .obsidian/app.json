@@ -3,5 +3,6 @@
   "showLineNumber": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "+ Encounters",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true
 }

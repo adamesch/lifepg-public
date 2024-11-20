@@ -26,10 +26,15 @@
             "id": "e5e43842ac43b5fc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/wellsofdarkness.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "wellsofdarkness"
             }
           },
           {
@@ -46,9 +51,24 @@
               "icon": "lucide-file",
               "title": "thread-obsidian-2024324233621"
             }
+          },
+          {
+            "id": "0edd705fb6415e98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/source-post-2024324234256.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "source-post-2024324234256"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/thread-obsidian-2024324233621.md",
+                "file": "Atlas/wellsofdarkness.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -142,7 +162,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of thread-obsidian-2024324233621"
+              "title": "Graph of wellsofdarkness"
             }
           }
         ]
@@ -269,16 +289,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1fd8428e0f220f63",
+  "active": "e5e43842ac43b5fc",
   "lastOpenFiles": [
-    "+ Encounters/thread-github-2024324233136.md",
+    "Atlas/voorzzt.md",
+    "Atlas/realmofamillioneyes.md",
+    "Atlas/plainofinfiniteportals.md",
+    "Atlas/mansionoftherake.md",
+    "Atlas/layer-500.md",
+    "Atlas/layer-099.md",
+    "Atlas/brokenscale.md",
+    "Extras/Pictures/terror-11D-sigil.png",
+    "Sources/source-post-2024324234256.md",
+    "Extras/Screenshots/screenshot-20241119234730.png",
+    "Extras/Screenshots",
     "+ Encounters/thread-obsidian-2024324233621.md",
+    "+ Encounters/thread-github-2024324233136.md",
     "Special Interests/01 Projects/dream-00@/dream-00@-2024276131549.md",
     "Special Interests/01 Projects/terror-11D/terror-11D-2024275124509.md",
     "Special Interests/03 Resources/Spellbook/spell-debtboundresurrection-2024275142130.md",
     "Special Interests/03 Resources/Bestiary/monster-debtrevenant-2024275142603.md",
     "Special Interests/03 Resources/Bestiary/monster-mandythelich-2024275142807.md",
-    "Atlas/brokenscale.md",
     "Special Interests/03 Resources/Bestiary/monster-greatgelatinouscube-2024276130707.md",
     "Extras/Templates/template-uniquenote.md",
     "+ Encounters/helloworld-2024275132515.md",
@@ -286,19 +316,11 @@
     "README.md",
     "LICENSE",
     "Sources/video-youtube-2024275131845.md",
-    "Extras/Pictures/terror-11D.png",
     "Atlas/wellsofdarkness.md",
     "Cards/pkm-zettlekasten-2024275121755.md",
     "Cards/pkm-para-2024275121839.md",
     "Cards/pkm-eaccess-2024275122812.md",
-    "Atlas/mansionoftherake.md",
     "Home.md",
-    "Atlas/voorzzt.md",
-    "Atlas/realmofamillioneyes.md",
-    "Atlas/plainofinfiniteportals.md",
-    "Atlas/layer-500.md",
-    "Atlas/layer-099.md",
-    "+ Encounters/productivity-eisenhowermatrix-2024276112415.md",
     "Special Interests/01 Projects/dream-00@",
     "Special Interests/03 Resources/Spellbook",
     "Special Interests/03 Resources/Bestiary",
@@ -306,7 +328,6 @@
     "Extras/Pictures",
     "Extras/+ Unsorted",
     "Extras/Documents",
-    "Special Interests/02 Areas/terror-05X",
-    "Special Interests/02 Areas/terror-09I"
+    "Special Interests/02 Areas/terror-05X"
   ]
 }
