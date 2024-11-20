@@ -11,15 +11,13 @@
             "id": "2b89dc5c4551aed6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Special Interests/01 Projects/terror-11D/terror-11D-2024275124509.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": ".obsidian/plugins/obsidian-git/data.json",
+                "staged": true
               },
-              "icon": "lucide-file",
-              "title": "terror-11D-2024275124509"
+              "icon": "git-pull-request",
+              "title": "Diff View (data.json)"
             }
           }
         ]
@@ -88,7 +86,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Special Interests/01 Projects/terror-11D/terror-11D-2024275124509.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -116,7 +113,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of terror-11D-2024275124509"
+              "title": "Graph view"
             }
           }
         ]
@@ -204,9 +201,19 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "e0d99b930e02ff26",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -225,6 +232,9 @@
   },
   "active": "2b89dc5c4551aed6",
   "lastOpenFiles": [
+    "Special Interests/01 Projects/terror-11D/terror-11D-2024275124509.md",
+    "README.md",
+    "LICENSE",
     "Special Interests/01 Projects/dream-00@/dream-00@-2024276131549.md",
     "Sources/video-youtube-2024275131845.md",
     "Extras/Pictures/terror-11D.png",
@@ -247,7 +257,6 @@
     "Atlas/brokenscale.md",
     "+ Encounters/productivity-eisenhowermatrix-2024276112415.md",
     "+ Encounters/2024276132802.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-2024275124509.md",
     "Special Interests/01 Projects/dream-00@",
     "Special Interests/03 Resources/Bestiary/monster-mandythelich-2024275142807.md",
     "Special Interests/03 Resources/Spellbook",
@@ -259,7 +268,6 @@
     "Extras/Documents",
     "Cards/creditcard-apple-3472-2024218160217.md",
     "Special Interests/02 Areas/terror-05X",
-    "Special Interests/02 Areas/terror-09I",
-    "Special Interests/02 Areas/terror-12U"
+    "Special Interests/02 Areas/terror-09I"
   ]
 }

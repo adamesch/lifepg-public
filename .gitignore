@@ -1,0 +1,32 @@
+# Ignore Obsidian-specific files that should not be versioned
+/.obsidian/
+
+# Ignore the trash folder (files marked as deleted in Obsidian)
+/.trash/
+
+# Ignore backup files created by Obsidian (if any)
+/.backup/
+
+# Ignore workspace settings, since this is specific to the user's local environment
+workspace.json
+data.json
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.swp
+*.swo
+*.bak
+
+# Ignore Obsidian plugin data
+/.obsidian/plugins/
+
+# Ignore any personal configuration files (these may include sensitive data)
+.obsidian/config
+
+# Ignore system files that are specific to MacOS or Windows
+.DS_Store
+Thumbs.db
+
+# Ignore personal notes that may be sensitive (if using a shared vault with others)
