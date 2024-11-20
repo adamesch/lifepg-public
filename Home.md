@@ -19,6 +19,7 @@ tags:
 | [[rottingplain\|layer-181]]           | [[rottingplain\|Rotting Plain]]                                 |               |
 | [[brokenscale\|layer-333]]            | [[brokenscale\|Broken Scale]]                                   |               |
 | [[mansionoftherake\|layer-487]]       | [[mansionoftherake\|Lair of the Beast and Mansion of the Rake]] |               |
+| [[noisomevale\|layer-489]]            | [[noisomevale\|Noisome Vale]]                                   |               |
 | [[layer-500]]                         |                                                                 |               |
 
 
