@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "be9a18923712b61b",
+    "type": "split",
+    "children": [
+      {
+        "id": "db6b2a64df3736db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b89dc5c4551aed6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Special Interests/01 Projects/terror-11D/terror-11D-2024275124509.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "terror-11D-2024275124509"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f1116b99a838136",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c077ef0e51669d8",
+        "type": "tabs",
+        "dimension": 71.07942973523421,
+        "children": [
+          {
+            "id": "df50364d9a50475f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "03fc829838342152",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8e3f4b6f7e69a3dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0dfd3d2f4f325f2d",
+        "type": "tabs",
+        "dimension": 28.920570264765782,
+        "children": [
+          {
+            "id": "8f27936decbe75ea",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Special Interests/01 Projects/terror-11D/terror-11D-2024275124509.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.9221079114817272,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of terror-11D-2024275124509"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 467.5
+  },
+  "right": {
+    "id": "90a8e7babffe5ce9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5ea48f4e8769818",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17be45f238bdc339",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Special Interests/01 Projects/terror-11D/terror-11D-2024275124509.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for terror-11D-2024275124509"
+            }
+          },
+          {
+            "id": "e62c57312303586d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Special Interests/01 Projects/terror-11D/terror-11D-2024275124509.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from terror-11D-2024275124509"
+            }
+          },
+          {
+            "id": "70dffb593c7cec62",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "884b650ffa30a142",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Special Interests/01 Projects/terror-11D/terror-11D-2024275124509.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of terror-11D-2024275124509"
+            }
+          },
+          {
+            "id": "7ff2cc928602f0c8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "2b89dc5c4551aed6",
+  "lastOpenFiles": [
+    "Special Interests/01 Projects/dream-00@/dream-00@-2024276131549.md",
+    "Sources/video-youtube-2024275131845.md",
+    "Extras/Pictures/terror-11D.png",
+    "Special Interests/03 Resources/Spellbook/spell-debtboundresurrection-2024275142130.md",
+    "Extras/Templates/template-uniquenote.md",
+    "Special Interests/03 Resources/Bestiary/monster-debtrevenant-2024275142603.md",
+    "Special Interests/03 Resources/Bestiary/monster-greatgelatinouscube-2024276130707.md",
+    "Atlas/wellsofdarkness.md",
+    "Cards/pkm-zettlekasten-2024275121755.md",
+    "Cards/pkm-para-2024275121839.md",
+    "Cards/pkm-eaccess-2024275122812.md",
+    "Atlas/mansionoftherake.md",
+    "+ Encounters/helloworld-2024275132515.md",
+    "Home.md",
+    "Atlas/voorzzt.md",
+    "Atlas/realmofamillioneyes.md",
+    "Atlas/plainofinfiniteportals.md",
+    "Atlas/layer-500.md",
+    "Atlas/layer-099.md",
+    "Atlas/brokenscale.md",
+    "+ Encounters/productivity-eisenhowermatrix-2024276112415.md",
+    "+ Encounters/2024276132802.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-2024275124509.md",
+    "Special Interests/01 Projects/dream-00@",
+    "Special Interests/03 Resources/Bestiary/monster-mandythelich-2024275142807.md",
+    "Special Interests/03 Resources/Spellbook",
+    "Special Interests/03 Resources/Bestiary",
+    "+ Encounters/2024275131845.md",
+    "Special Interests/01 Projects/terror-11D",
+    "Extras/Pictures",
+    "Extras/+ Unsorted",
+    "Extras/Documents",
+    "Cards/creditcard-apple-3472-2024218160217.md",
+    "Special Interests/02 Areas/terror-05X",
+    "Special Interests/02 Areas/terror-09I",
+    "Special Interests/02 Areas/terror-12U"
+  ]
+}
