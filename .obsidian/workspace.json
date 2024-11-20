@@ -126,9 +126,24 @@
               "icon": "lucide-file",
               "title": "helloworld-2024275132515"
             }
+          },
+          {
+            "id": "f77cb3e209ffbac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ Encounters/spell-wordoflinking-2024325132558.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "spell-wordoflinking-2024325132558"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -194,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/helloworld-2024275132515.md",
+                "file": "+ Encounters/spell-wordoflinking-2024325132558.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,7 +237,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of helloworld-2024275132515"
+              "title": "Graph of spell-wordoflinking-2024325132558"
             }
           }
         ]
@@ -342,7 +357,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -359,10 +374,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e50c32fe6e572876",
+  "active": "f77cb3e209ffbac2",
   "lastOpenFiles": [
-    "Home.md",
+    "Special Interests/03 Resources/Spellbook/spell-debtboundresurrection-2024275142130.md",
+    "+ Encounters/spell-wordoflinking-2024325132558.md",
     "+ Encounters/helloworld-2024275132515.md",
+    "Home.md",
     "Extras/Pictures/porque-no-los-dos.png",
     "Cards/pkm-eaccess-2024325115416.md",
     "Cards/pkm-para-2024325115507.md",
@@ -392,7 +409,6 @@
     "Special Interests/03 Resources/Bestiary/monster-greatgelatinouscube-2024276130707.md",
     "Atlas/rottingplain.md",
     "Atlas/gutteringgrove.md",
-    "Atlas/wellsofdarkness.md",
     "Extras/Pictures/terror-11D-sigil.png",
     "Extras/Screenshots/screenshot-20241119234730.png",
     "Extras/Screenshots",
