@@ -126,21 +126,6 @@
               "icon": "lucide-file",
               "title": "helloworld-2024275132515"
             }
-          },
-          {
-            "id": "202cebb0fd729997",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            }
           }
         ],
         "currentTab": 7
@@ -374,11 +359,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df50364d9a50475f",
+  "active": "e50c32fe6e572876",
   "lastOpenFiles": [
-    "Extras/Pictures/porque-no-los-dos.png",
     "Home.md",
     "+ Encounters/helloworld-2024275132515.md",
+    "Extras/Pictures/porque-no-los-dos.png",
     "Cards/pkm-eaccess-2024325115416.md",
     "Cards/pkm-para-2024325115507.md",
     "Cards/pkm-zettlekasten-2024325115546.md",
