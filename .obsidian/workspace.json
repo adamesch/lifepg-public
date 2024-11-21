@@ -47,10 +47,10 @@
                 "id": "000b651583c5ef46",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
+                  "type": "graph",
                   "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
                 }
               },
               {
@@ -59,13 +59,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Extras/Templates/template-uniquenote.md",
+                    "file": "+ Encounters/2024326185326.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "template-uniquenote"
+                  "title": "2024326185326"
                 }
               }
             ],
@@ -81,13 +81,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "+ Encounters/2024326183325.md",
+                    "file": "+ Encounters/terror-11D-057-2024326184553.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "2024326183325"
+                  "title": "terror-11D-057-2024326184553"
                 }
               }
             ]
@@ -125,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#terror/12U",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/2024326183325.md",
+                "file": "+ Encounters/2024326185326.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -187,7 +187,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2024326183325"
+              "title": "Graph of 2024326185326"
             }
           }
         ]
@@ -243,8 +243,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": false
+                "sortOrder": "frequency",
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -256,10 +256,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Special Interests/01 Projects/terror-11D/terror-11D-2024275124509.md"
+                "file": "+ Encounters/2024326185326.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of terror-11D-2024275124509"
+              "title": "Outline of 2024326185326"
             }
           },
           {
@@ -311,7 +311,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 401.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -324,37 +324,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4b7e74fb485407f",
+  "active": "acd66c6389dd2319",
   "lastOpenFiles": [
+    "+ Encounters/terror-11D-061-2024326185321.md",
+    "+ Encounters/2024326185326.md",
+    "+ Encounters/terror-11D-060-2024326185315.md",
+    "+ Encounters/terror-11D-059-2024326184927.md",
     "Extras/Templates/template-uniquenote.md",
-    "+ Encounters/2024326183325.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-2024275124509.md",
-    "Sources/source-chapter-fingerprintsofthegods-01-2024325215620.md",
-    "Sources/source-book-grahamhancock-fingerprintsofthegods-2024325214431.md",
-    "Sources/source-chapter-fingerprintsofthegods-03-2024325215808.md",
-    "Sources/source-chapter-fingerprintsofthegods-02-2024325215713.md",
-    "Home.md",
-    "Cards/person-grahamhancock-2024325214920.md",
-    "+ Encounters/helloworld-2024275132515.md",
-    "Special Interests/03 Resources/Spellbook/spell-wordoflinking-2024325132558.md",
-    "conflict-files-obsidian-git.md",
-    "Special Interests/03 Resources/Spellbook/spell-debtboundresurrection-2024275142130.md",
+    "+ Encounters/2024326184937.md",
+    "+ Encounters/terror-11D-057-2024326184553.md",
+    "+ Encounters/terror-11D-058-2024326184632.md",
+    "+ Encounters/2024326184700.md",
+    "+ Encounters/terror-11D-056-2024326184548.md",
+    "+ Encounters/terror-11D-055-2024326184543.md",
+    "+ Encounters/terror-11D-054-2024326184458.md",
+    "+ Encounters/terror-11D-053-2024326184455.md",
+    "+ Encounters/terror-11D-052-2024326184447.md",
+    "+ Encounters/terror-11D-051-2024326184441.md",
+    "+ Encounters/terror-11D-050-2024326184435.md",
+    "+ Encounters/terror-11D-049-2024326184427.md",
+    "+ Encounters/terror-11D-048-2024326184420.md",
+    "+ Encounters/terror-11D-047-2024326184413.md",
+    "+ Encounters/terror-11D-046-2024326184407.md",
+    "+ Encounters/terror-11D-045-2024326184401.md",
+    "+ Encounters/terror-11D-044-2024326184350.md",
+    "+ Encounters/terror-11D-043-2024326184345.md",
+    "+ Encounters/terror-11D-042-2024326184339.md",
+    "+ Encounters/terror-11D-041-2024326184333.md",
+    "+ Encounters/terror-11D-040-2024326184220.md",
     "Extras/Pictures/porque-no-los-dos.png",
-    "Cards/pkm-eaccess-2024325115416.md",
-    "Cards/pkm-para-2024325115507.md",
-    "Cards/pkm-zettlekasten-2024325115546.md",
-    "Atlas/mansionoftherake.md",
-    "Cards/person-adamesch-1989130030300.md",
     "Extras/Pictures/creation-of-adam.png",
-    "Cards/location-abyss-2024325113505.md",
     "Extras/Pictures/abyss.png",
-    "Atlas/layer-099.md",
-    "Sources/source-channel-youtube-tiagoforte-2024325013935.md",
-    "Sources/source-channel-youtube-linkingyourthinking-2024325012714.md",
-    "Cards/person-elonmusk-2024325111801.md",
-    "Cards/person-nickmilo-2024325012820.md",
-    "Cards/person-tiagoforte-2024325013812.md",
-    "Sources/source-quote-elonmusk-2024325111648.md",
     "Special Interests/Special Interests.canvas",
     "Atlas/Atlas.canvas",
     "Extras/Pictures/barlgura.png",
