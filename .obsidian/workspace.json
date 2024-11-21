@@ -200,7 +200,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sources/source-chapter-fingerprintsofthegods-01-2024325215620.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,7 +227,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of source-chapter-fingerprintsofthegods-01-2024325215620"
+              "title": "Graph view"
             }
           }
         ]
@@ -365,10 +364,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2aa4464976d54725",
+  "active": "acd66c6389dd2319",
   "lastOpenFiles": [
-    "Sources/source-book-grahamhancock-fingerprintsofthegods-2024325214431.md",
     "Sources/source-chapter-fingerprintsofthegods-01-2024325215620.md",
+    "Sources/source-book-grahamhancock-fingerprintsofthegods-2024325214431.md",
     "Sources/source-chapter-fingerprintsofthegods-03-2024325215808.md",
     "Sources/source-chapter-fingerprintsofthegods-02-2024325215713.md",
     "Home.md",
