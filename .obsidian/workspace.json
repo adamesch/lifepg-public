@@ -4,144 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "20d383014f0a8233",
-        "type": "tabs",
+        "id": "4cb4da36ac5fbf07",
+        "type": "split",
         "children": [
           {
-            "id": "e5e43842ac43b5fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/source-post-reddit-2024324234256.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "20d383014f0a8233",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2572a4cf8495d599",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Home.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Home"
+                }
               },
-              "icon": "lucide-file",
-              "title": "source-post-reddit-2024324234256"
-            }
+              {
+                "id": "e50c32fe6e572876",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "+ Encounters/helloworld-2024275132515.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "helloworld-2024275132515"
+                }
+              },
+              {
+                "id": "000b651583c5ef46",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ],
+            "currentTab": 2
           },
           {
-            "id": "55b15951b63f80fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/source-channel-youtube-linkingyourthinking-2024325012714.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "source-channel-youtube-linkingyourthinking-2024325012714"
-            }
-          },
-          {
-            "id": "99846d8fda4c5070",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ Encounters/helloworld-2024275132515.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "helloworld-2024275132515"
-            }
-          },
-          {
-            "id": "a1f611a8176fed47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/person-nickmilo-2024325012820.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "person-nickmilo-2024325012820"
-            }
-          },
-          {
-            "id": "fdf82089df8beaad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ Encounters/helloworld-2024275132515.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "helloworld-2024275132515"
-            }
-          },
-          {
-            "id": "541566f4f7bb9a81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ Encounters/helloworld-2024275132515.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "helloworld-2024275132515"
-            }
-          },
-          {
-            "id": "7e641719b261f7f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ Encounters/helloworld-2024275132515.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "helloworld-2024275132515"
-            }
-          },
-          {
-            "id": "e50c32fe6e572876",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ Encounters/helloworld-2024275132515.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "helloworld-2024275132515"
-            }
-          },
-          {
-            "id": "f77cb3e209ffbac2",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
-            }
+            "id": "dc74634e289c9834",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3713a092a3f9abe7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "+ Encounters/source-book-gr2024325214431.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "source-book-gr2024325214431"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 8
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -207,6 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "+ Encounters/source-book-gr2024325214431.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,7 +172,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of source-book-gr2024325214431"
             }
           }
         ]
@@ -358,7 +296,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 473.5
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -371,13 +309,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f77cb3e209ffbac2",
+  "active": "3713a092a3f9abe7",
   "lastOpenFiles": [
+    "+ Encounters/source-book-gr2024325214431.md",
+    "Home.md",
+    "+ Encounters/helloworld-2024275132515.md",
     "+ Encounters/spell-wordoflinking-2024325132558.md",
     "conflict-files-obsidian-git.md",
     "Special Interests/03 Resources/Spellbook/spell-debtboundresurrection-2024275142130.md",
-    "+ Encounters/helloworld-2024275132515.md",
-    "Home.md",
     "Extras/Pictures/porque-no-los-dos.png",
     "Cards/pkm-eaccess-2024325115416.md",
     "Cards/pkm-para-2024325115507.md",
@@ -405,7 +344,6 @@
     "Extras/Pictures/barlgura.png",
     "Extras/Pictures/its-dangerous-to-go-alone.png",
     "Special Interests/03 Resources/Bestiary/monster-greatgelatinouscube-2024276130707.md",
-    "Atlas/rottingplain.md",
     "Extras/Pictures/terror-11D-sigil.png",
     "Extras/Screenshots/screenshot-20241119234730.png",
     "Extras/Screenshots",
