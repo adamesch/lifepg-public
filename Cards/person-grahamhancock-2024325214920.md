@@ -1,6 +1,7 @@
 ---
 aliases:
-  - "2024325214431"
+  - "2024325214920"
+  - Graham Hancock
 tags:
 ---
 
@@ -11,6 +12,6 @@ tags:
 up:: 
 back:: 
 forward:: 
-layer:: [[layer-099]]
+layer:: 
 
 ***
