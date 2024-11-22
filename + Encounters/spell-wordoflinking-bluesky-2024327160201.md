@@ -9,7 +9,7 @@ related:
 redirect: https://adamesch.online/bluesky
 ---
 
-
+`adamesch.online/bluesky` redirects to [[dream-00@-bluesky-adameschonline-2024327141116]]
 
 ***
 

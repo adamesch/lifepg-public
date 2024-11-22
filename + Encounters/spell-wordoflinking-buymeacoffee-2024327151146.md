@@ -9,7 +9,7 @@ related:
 redirect: https://adamesch.online/buymeacoffee
 ---
 
-
+`adamesch.online/buymeacoffee` redirects to [[dream-00@-kofi-adamesch-2024327143639]]
 
 ***
 

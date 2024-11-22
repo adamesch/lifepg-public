@@ -5,7 +5,10 @@ tags:
   - spell
   - wordoflinking
   - weekendwednesday
-related: 
+related:
+  - "[[spell-wordoflinking-adhddaemon-2024327154407]]"
+  - "[[spell-wordoflinking-aromamancer-2024327154309]]"
+  - "[[spell-wordoflinking-youtube-2024327150627]]"
 redirect: https://adamesch.online/weekendwednesday
 ---
 

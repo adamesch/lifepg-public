@@ -5,11 +5,14 @@ tags:
   - spell
   - wordoflinking
   - aromamancer
-related: 
+related:
+  - "[[spell-wordoflinking-adhddaemon-2024327154407]]"
+  - "[[spell-wordoflinking-weekendwednesday-2024327153034]]"
+  - "[[spell-wordoflinking-youtube-2024327150627]]"
 redirect: https://adamesch.online/aromamancer
 ---
 
-
+`adamesch.online/aromamancer` redirects to [[dream-00@-youtube-aromamancer-2024327135425]]
 
 ***
 

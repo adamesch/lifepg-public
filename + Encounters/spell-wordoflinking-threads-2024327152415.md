@@ -9,7 +9,7 @@ related:
 redirect: https://adamesch.online/threads
 ---
 
-
+`adamesch.online/threads` redirects to [[dream-00@-meta-threads-adamesch-2024327142020]]
 
 ***
 

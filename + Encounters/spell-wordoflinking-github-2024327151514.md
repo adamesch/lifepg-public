@@ -8,8 +8,7 @@ tags:
 related: 
 redirect: https://adamesch.online/github
 ---
-
-
+`adamesch.online/github` redirects to [[dream-00@-github-adamesch-2024327151534]]
 
 ***
 

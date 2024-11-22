@@ -9,7 +9,7 @@ related:
 redirect: https://adamesch.online/substack
 ---
 
-
+`adamesch.online/substack` redirects to [[dream-00@-substack-adamesch-2024327143033]]
 
 ***
 

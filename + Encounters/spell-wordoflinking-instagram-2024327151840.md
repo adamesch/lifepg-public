@@ -9,7 +9,7 @@ related:
 redirect: https://adamesch.online/instagram
 ---
 
-
+`adamesch.online/instagram` redirects to [[dream-00@-meta-instagram-adamesch-2024327141935]]
 
 ***
 

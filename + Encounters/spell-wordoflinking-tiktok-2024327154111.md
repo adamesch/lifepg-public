@@ -9,7 +9,7 @@ related:
 redirect: https://adamesch.online/tiktok
 ---
 
-`adamesch.online/tiktok` redirects to [[dream-00@-tik]]
+`adamesch.online/tiktok` redirects to [[dream-00@-tiktok-adamesch-2024327141515]]
 
 ***
 

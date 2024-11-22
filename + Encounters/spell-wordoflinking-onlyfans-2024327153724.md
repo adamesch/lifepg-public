@@ -9,7 +9,9 @@ related:
 redirect: https://adamesch.online/onlyfans
 ---
 
+because someone will try this...
 
+`adamesch.online/onlyfans` redirects to `adamesch.online/horny-jail`
 
 ***
 

@@ -8,7 +8,7 @@ related:
 redirect: https://adamesch.online/hireme
 ---
 
-
+`adamesch.online/hireme` redirects to `adamesch.online/services`
 
 ***
 

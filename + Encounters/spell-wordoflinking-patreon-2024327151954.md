@@ -9,7 +9,7 @@ related:
 redirect: https://adamesch.online/patreon
 ---
 
-
+`adamesch.online/patreon` redirects to [[dream-00@-patreon-adamesch-2024327143306]]
 
 ***
 

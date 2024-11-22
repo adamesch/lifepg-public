@@ -9,7 +9,7 @@ related:
 redirect: https://adamesch.online/linkedin
 ---
 
-
+`adamesch.online/linkedin` redirects to [[dream-00@-linkedin-adamesch-2024327142350]]
 
 ***
 

@@ -9,7 +9,7 @@ related:
 redirect: https://adamesch.online/cashapp
 ---
 
-
+`adamesch.online/cashapp` redirects to [[person-adamesch-1989130030300|Adam]]'s Cash App profile
 
 ***
 

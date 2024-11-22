@@ -8,7 +8,7 @@ related:
 redirect: https://adamesch.online/shop
 ---
 
-
+`adamesch.online/shop` redirects to `adamesch.online/products`
 
 ***
 

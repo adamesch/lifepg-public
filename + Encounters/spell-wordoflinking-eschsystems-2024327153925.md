@@ -9,7 +9,7 @@ related:
 redirect: https://adamesch.online/eschsystems
 ---
 
-
+`adamesch.online/eschsystems` redirects to the `esch.systems` website (currently nonexistent)
 
 ***
 
