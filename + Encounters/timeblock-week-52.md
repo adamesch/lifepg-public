@@ -11,9 +11,9 @@ tags:
 
 ***
 
-up:: 
+up:: [[timeblock-quarter-4]]
 back:: [[timeblock-week-51]]
-forward:: 
+forward:: [[timeblock-week-01]], [[timeblock-week-53]]
 layer:: 
 
 ***

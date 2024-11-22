@@ -1,10 +1,11 @@
 ---
 aliases:
-  - "2024327103510"
-  - W50
+  - "2024327125050"
+  - W42
 tags:
   - timeblock/week
   - temporalanchor
+related:
 ---
 
 
@@ -12,8 +13,8 @@ tags:
 ***
 
 up:: [[timeblock-quarter-4]]
-back:: [[timeblock-week-49]]
-forward:: [[timeblock-week-51]]
+back:: [[timeblock-week-41]]
+forward:: [[timeblock-week-43]]
 layer:: 
 
 ***
