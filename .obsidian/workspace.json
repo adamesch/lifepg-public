@@ -4,96 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "92698bd86f6549a3",
-        "type": "split",
+        "id": "20d383014f0a8233",
+        "type": "tabs",
         "children": [
           {
-            "id": "20d383014f0a8233",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2572a4cf8495d599",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Home.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Home"
-                }
+            "id": "2572a4cf8495d599",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              {
-                "id": "e50c32fe6e572876",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "+ Encounters/helloworld-2024275132515.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "helloworld-2024275132515"
-                }
-              },
-              {
-                "id": "000b651583c5ef46",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              },
-              {
-                "id": "acd66c6389dd2319",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "+ Encounters/2024326185326.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2024326185326"
-                }
-              }
-            ],
-            "currentTab": 3
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
           },
           {
-            "id": "36203c97facbaa2a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c4b7e74fb485407f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "+ Encounters/terror-11D-057-2024326184553.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "terror-11D-057-2024326184553"
-                }
-              }
-            ]
+            "id": "e50c32fe6e572876",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ Encounters/helloworld-2024275132515.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "helloworld-2024275132515"
+            }
+          },
+          {
+            "id": "000b651583c5ef46",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "acd66c6389dd2319",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Special Interests/01 Projects/terror-11D/terror-11D-017-2024326183809.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "terror-11D-017-2024326183809"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/2024326185326.md",
+                "file": "Special Interests/01 Projects/terror-11D/terror-11D-017-2024326183809.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -187,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2024326185326"
+              "title": "Graph of terror-11D-017-2024326183809"
             }
           }
         ]
@@ -256,10 +228,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Encounters/2024326185326.md"
+                "file": "Special Interests/01 Projects/terror-11D/terror-11D-017-2024326183809.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024326185326"
+              "title": "Outline of terror-11D-017-2024326183809"
             }
           },
           {
@@ -326,32 +298,32 @@
   },
   "active": "acd66c6389dd2319",
   "lastOpenFiles": [
-    "+ Encounters/terror-11D-061-2024326185321.md",
-    "+ Encounters/2024326185326.md",
-    "+ Encounters/terror-11D-060-2024326185315.md",
-    "+ Encounters/terror-11D-059-2024326184927.md",
-    "Extras/Templates/template-uniquenote.md",
-    "+ Encounters/2024326184937.md",
-    "+ Encounters/terror-11D-057-2024326184553.md",
-    "+ Encounters/terror-11D-058-2024326184632.md",
-    "+ Encounters/2024326184700.md",
-    "+ Encounters/terror-11D-056-2024326184548.md",
-    "+ Encounters/terror-11D-055-2024326184543.md",
-    "+ Encounters/terror-11D-054-2024326184458.md",
-    "+ Encounters/terror-11D-053-2024326184455.md",
-    "+ Encounters/terror-11D-052-2024326184447.md",
-    "+ Encounters/terror-11D-051-2024326184441.md",
-    "+ Encounters/terror-11D-050-2024326184435.md",
-    "+ Encounters/terror-11D-049-2024326184427.md",
-    "+ Encounters/terror-11D-048-2024326184420.md",
-    "+ Encounters/terror-11D-047-2024326184413.md",
-    "+ Encounters/terror-11D-046-2024326184407.md",
-    "+ Encounters/terror-11D-045-2024326184401.md",
-    "+ Encounters/terror-11D-044-2024326184350.md",
-    "+ Encounters/terror-11D-043-2024326184345.md",
-    "+ Encounters/terror-11D-042-2024326184339.md",
-    "+ Encounters/terror-11D-041-2024326184333.md",
-    "+ Encounters/terror-11D-040-2024326184220.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-016-2024326183803.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-015-2024326183741.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-014-2024326183734.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-013-2024326183712.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-012-2024326183704.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-011-2024326183655.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-010-2024326183632.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-009-2024326183543.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-008-2024326183530.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-007-2024326183524.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-006-2024326183414.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-005-2024326183409.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-004-2024326183403.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-003-2024326183357.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-002-2024326183350.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-001-2024326183325.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-039-2024326184213.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-038-2024326184159.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-037-2024326184151.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-036-2024326184144.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-035-2024326184139.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-034-2024326184129.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-033-2024326184124.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-032-2024326184117.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-031-2024326184108.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-030-2024326184014.md",
     "Extras/Pictures/porque-no-los-dos.png",
     "Extras/Pictures/creation-of-adam.png",
     "Extras/Pictures/abyss.png",
