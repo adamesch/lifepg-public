@@ -4,6 +4,7 @@ aliases:
 tags:
   - timeblock/date
   - temporalanchor
+related: "[[timeblock-monthday-27]]"
 ---
 
 

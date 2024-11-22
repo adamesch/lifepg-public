@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extras/Templates/template-uniquenote.md",
+                "file": "+ Encounters/timeblock-date-dec31.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "template-uniquenote"
+              "title": "timeblock-date-dec31"
             }
           },
           {
@@ -58,15 +58,10 @@
             "id": "b4f4d8e720ddd7ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extras/Templates/template-spatialnavigation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "template-spatialnavigation"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -75,13 +70,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/2024327112005.md",
+                "file": "+ Encounters/timeblock-date-nov30.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024327112005"
+              "title": "timeblock-date-nov30"
             }
           },
           {
@@ -145,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/2024327112005.md",
+                "file": "+ Encounters/timeblock-date-dec31.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,7 +234,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2024327112005"
+              "title": "Graph of timeblock-date-dec31"
             }
           }
         ]
@@ -308,10 +303,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Encounters/2024327112005.md"
+                "file": "+ Encounters/timeblock-date-dec31.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024327112005"
+              "title": "Outline of timeblock-date-dec31"
             }
           },
           {
@@ -376,34 +371,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae74249d1ed0895e",
+  "active": "000b651583c5ef46",
   "lastOpenFiles": [
-    "+ Encounters/timeblock-monthday-15.md",
-    "+ Encounters/2024327112005.md",
-    "+ Encounters/timeblock-monthday-14.md",
-    "+ Encounters/timeblock-monthday-13.md",
-    "+ Encounters/timeblock-monthday-12.md",
-    "+ Encounters/timeblock-monthday-11.md",
-    "+ Encounters/timeblock-monthday-10.md",
-    "+ Encounters/timeblock-monthday-09.md",
-    "+ Encounters/timeblock-monthday-08.md",
-    "+ Encounters/timeblock-monthday-07.md",
-    "+ Encounters/timeblock-monthday-06.md",
-    "+ Encounters/timeblock-monthday-05.md",
-    "+ Encounters/timeblock-monthday-04.md",
-    "+ Encounters/timeblock-monthday-03.md",
-    "+ Encounters/timeblock-monthday-02.md",
-    "+ Encounters/timeblock-monthday-01.md",
-    "Extras/Templates/template-uniquenote.md",
-    "+ Encounters/timeblock-quarter-4.md",
-    "+ Encounters/timeblock-quarter-3.md",
-    "+ Encounters/timeblock-quarter-2.md",
-    "+ Encounters/timeblock-quarter-1.md",
-    "Home.md",
-    "Atlas/torremor.md",
-    "Extras/Templates/template-spatialnavigation.md",
-    "+ Encounters/timeblock-year-2024.md",
-    "+ Encounters/timeblock-year-2023.md",
+    "+ Encounters/timeblock-date-dec30.md",
+    "+ Encounters/timeblock-date-dec31.md",
+    "+ Encounters/timeblock-date-dec29.md",
+    "+ Encounters/timeblock-date-dec28.md",
+    "+ Encounters/timeblock-date-dec27.md",
+    "+ Encounters/timeblock-date-dec26.md",
+    "+ Encounters/timeblock-date-dec25.md",
+    "+ Encounters/timeblock-date-dec24.md",
+    "+ Encounters/timeblock-date-dec23.md",
+    "+ Encounters/timeblock-date-dec22.md",
+    "+ Encounters/timeblock-date-dec21.md",
+    "+ Encounters/timeblock-date-dec20.md",
+    "+ Encounters/timeblock-date-dec19.md",
+    "+ Encounters/timeblock-date-dec18.md",
+    "+ Encounters/timeblock-date-dec17.md",
+    "+ Encounters/timeblock-date-dec16.md",
+    "+ Encounters/timeblock-date-dec15.md",
+    "+ Encounters/timeblock-date-dec14.md",
+    "+ Encounters/timeblock-date-dec13.md",
+    "+ Encounters/timeblock-date-dec12.md",
+    "+ Encounters/timeblock-date-dec11.md",
+    "+ Encounters/timeblock-date-dec10.md",
+    "+ Encounters/timeblock-date-dec09.md",
+    "+ Encounters/timeblock-date-dec08.md",
+    "+ Encounters/timeblock-date-dec07.md",
+    "+ Encounters/timeblock-date-dec06.md",
+    "Special Interests/01 Projects/dream-22T",
     "Extras/+ Unsorted/ScreenFloat Shot of Mail at Nov 22, 2024 at 09_19_21.png",
     "Extras/Pictures/porque-no-los-dos.png",
     "Extras/Pictures/creation-of-adam.png",
@@ -422,7 +418,6 @@
     "Special Interests/01 Projects/terror-11D",
     "Extras/Pictures",
     "Extras/+ Unsorted",
-    "Extras/Documents",
-    "Special Interests/02 Areas/terror-05X"
+    "Extras/Documents"
   ]
 }

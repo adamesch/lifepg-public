@@ -1,9 +1,10 @@
 ---
 aliases:
-  - "2024327112005"
+  - "2024327113743"
 tags:
-  - timeblock/monthday
+  - timeblock/date
   - temporalanchor
+related:
 ---
 
 

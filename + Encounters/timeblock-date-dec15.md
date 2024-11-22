@@ -1,0 +1,20 @@
+---
+aliases:
+  - "2024327113817"
+tags:
+  - timeblock/date
+  - temporalanchor
+related:
+---
+
+
+
+***
+
+up:: 
+back:: 
+forward:: 
+layer:: 
+
+***
+
