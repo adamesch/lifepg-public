@@ -4,7 +4,9 @@ aliases:
   - "@datamancer0"
 tags:
   - twiiter
-related:
+  - x
+  - socialmedia
+related: 
 ---
 
 

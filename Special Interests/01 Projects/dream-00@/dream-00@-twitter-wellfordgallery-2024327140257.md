@@ -5,7 +5,9 @@ aliases:
 tags:
   - twiiter
   - wellfordgallery
-related:
+  - x
+  - socialmedia
+related: 
 ---
 
 

@@ -4,6 +4,7 @@ aliases:
 tags:
   - linkedin
   - eschsystems
+  - socialmedia
 related: 
 url: https://www.linkedin.com/company/eschsystems/
 ---

@@ -3,8 +3,9 @@ aliases:
   - "2024327143306"
 tags:
   - patreon
+  - socialmedia
 related: 
-url:
+url: 
 ---
 
 

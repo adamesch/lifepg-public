@@ -1,8 +1,11 @@
 ---
 aliases:
   - "2024327141935"
-tags: []
-related:
+tags:
+  - meta
+  - instagram
+  - socialmedia
+related: 
 ---
 
 

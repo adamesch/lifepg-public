@@ -1,9 +1,11 @@
 ---
 aliases:
   - "2024327141116"
-tags: 
+tags:
+  - bluesky
+  - socialmedia
 related: 
-url:
+url: 
 ---
 
 

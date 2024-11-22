@@ -1,13 +1,12 @@
 ---
 aliases:
-  - "2024327140138"
-  - "@eschsystems"
+  - "2024327144625"
 tags:
-  - twiiter
-  - eschsystems
-  - x
+  - cara
+  - wellfordgallery
   - socialmedia
 related: 
+url: 
 ---
 
 

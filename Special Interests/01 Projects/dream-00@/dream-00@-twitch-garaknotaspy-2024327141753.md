@@ -3,7 +3,8 @@ aliases:
   - "2024327141753"
 tags:
   - twitch
-related:
+  - socialmedia
+related: 
 ---
 
 

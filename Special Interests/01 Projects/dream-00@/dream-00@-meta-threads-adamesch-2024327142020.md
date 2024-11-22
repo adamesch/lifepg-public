@@ -1,8 +1,11 @@
 ---
 aliases:
   - "2024327142020"
-tags: []
-related:
+tags:
+  - meta
+  - threads
+  - socialmedia
+related: 
 ---
 
 

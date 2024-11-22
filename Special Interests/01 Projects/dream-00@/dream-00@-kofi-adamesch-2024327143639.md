@@ -1,7 +1,9 @@
 ---
 aliases:
   - "2024327143639"
-tags: 
+tags:
+  - kofi
+  - socialmedia
 related: 
 url: 
 redirect: https://adamesch.online/buymeacoffee

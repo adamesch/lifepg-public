@@ -4,7 +4,9 @@ aliases:
   - "@mcescher0"
 tags:
   - twiiter
-related:
+  - x
+  - socialmedia
+related: 
 ---
 
 

@@ -1,8 +1,10 @@
 ---
 aliases:
   - "2024327143033"
-tags: []
-related:
+tags:
+  - substack
+  - socialmedia
+related: 
 ---
 
 

@@ -3,6 +3,7 @@ aliases:
   - "2024327142350"
 tags:
   - linkedin
+  - socialmedia
 related: 
 url: https://www.linkedin.com/in/adamesch
 ---
