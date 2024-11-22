@@ -70,17 +70,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Special Interests/01 Projects/terror-11D/terror-11D-payment-099-2024326193838.md",
+                "file": "Special Interests/01 Projects/terror-11D/terror-11D-payment-065-2024326185348.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "terror-11D-payment-099-2024326193838"
+              "title": "terror-11D-payment-065-2024326185348"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Special Interests/01 Projects/terror-11D/terror-11D-payment-099-2024326193838.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +173,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of terror-11D-payment-099-2024326193838"
+              "title": "Graph view"
             }
           }
         ]
@@ -242,11 +241,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Special Interests/01 Projects/terror-11D/terror-11D-payment-099-2024326193838.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of terror-11D-payment-099-2024326193838"
+              "title": "Outline"
             }
           },
           {
@@ -311,34 +308,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df50364d9a50475f",
+  "active": "000b651583c5ef46",
   "lastOpenFiles": [
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-100-2024326193847.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-101-2024326193900.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-102-2024326193906.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-103-2024326193919.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-104-2024326193927.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-105-2024326193933.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-106-2024326193938.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-107-2024326193945.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-108-2024326193953.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-109-2024326193958.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-110-2024326194017.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-111-2024326194025.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-112-2024326194030.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-113-2024326194036.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-114-2024326194048.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-115-2024326194054.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-116-2024326194100.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-117-2024326194109.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-118-2024326194116.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-119-2024326194124.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-120-2024326194131.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-121-2024326194140.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-122-2024326194149.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-123-2024326194156.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-124-2024326194202.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-125-2024326194216.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-065-2024326185348.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-066-2024326193328.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-067-2024326193359.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-068-2024326193407.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-069-2024326193413.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-070-2024326193424.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-071-2024326193501.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-072-2024326193508.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-073-2024326193514.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-074-2024326193520.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-075-2024326193526.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-076-2024326193532.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-077-2024326193539.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-078-2024326193545.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-079-2024326193552.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-080-2024326193601.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-081-2024326193609.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-082-2024326193617.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-083-2024326193624.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-084-2024326193632.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-085-2024326193645.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-086-2024326193653.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-087-2024326193658.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-088-2024326193706.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-089-2024326193712.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-090-2024326193719.md",
     "Extras/Pictures/porque-no-los-dos.png",
     "Extras/Pictures/creation-of-adam.png",
     "Extras/Pictures/abyss.png",
