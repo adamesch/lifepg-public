@@ -1,19 +1,16 @@
 ---
 aliases:
   - "{{title}}"
-tags:
-  - terror/11D
-  - payment
-  - bankruptcy
+tags: []
 ---
 
 
 
 ***
 
-up:: [[terror-11D-2024275124509]]
+up:: 
 back:: 
 forward:: 
-layer:: [[brokenscale|layer-333]]
+layer:: [[layer-099]]
 
 ***
