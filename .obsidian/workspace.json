@@ -4,96 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "712360e4ff41aa67",
-        "type": "split",
+        "id": "20d383014f0a8233",
+        "type": "tabs",
         "children": [
           {
-            "id": "20d383014f0a8233",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2572a4cf8495d599",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Home.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Home"
-                }
+            "id": "2572a4cf8495d599",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              {
-                "id": "e50c32fe6e572876",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "+ Encounters/helloworld-2024275132515.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "helloworld-2024275132515"
-                }
-              },
-              {
-                "id": "000b651583c5ef46",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              },
-              {
-                "id": "acd66c6389dd2319",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Special Interests/01 Projects/terror-11D/terror-11D-2024275124509.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "terror-11D-2024275124509"
-                }
-              }
-            ],
-            "currentTab": 3
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
           },
           {
-            "id": "9c42e187a93ec703",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3786e1be6637af53",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "+ Encounters/2024326193328.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2024326193328"
-                }
-              }
-            ]
+            "id": "e50c32fe6e572876",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ Encounters/helloworld-2024275132515.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "helloworld-2024275132515"
+            }
+          },
+          {
+            "id": "000b651583c5ef46",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "acd66c6389dd2319",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Special Interests/01 Projects/terror-11D/terror-11D-2024275124509.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "terror-11D-2024275124509"
+            }
+          },
+          {
+            "id": "3786e1be6637af53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Special Interests/01 Projects/terror-11D/terror-11D-payment-099-2024326193838.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "terror-11D-payment-099-2024326193838"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -159,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/2024326193328.md",
+                "file": "Special Interests/01 Projects/terror-11D/terror-11D-payment-099-2024326193838.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,19 +169,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2200861092331332,
+                  "scale": 0.2754599893141754,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2024326193328"
+              "title": "Graph of terror-11D-payment-099-2024326193838"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 504.5
+    "width": 501.5
   },
   "right": {
     "id": "90a8e7babffe5ce9",
@@ -256,10 +243,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Encounters/2024326193328.md"
+                "file": "Special Interests/01 Projects/terror-11D/terror-11D-payment-099-2024326193838.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024326193328"
+              "title": "Outline of terror-11D-payment-099-2024326193838"
             }
           },
           {
@@ -324,34 +311,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3786e1be6637af53",
+  "active": "df50364d9a50475f",
   "lastOpenFiles": [
-    "+ Encounters/2024326193328.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-2024275124509.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-065-2024326185348.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-060-2024326185315.md",
-    "Extras/Templates/template-uniquenote.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-064-2024326185340.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-063-2024326185334.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-062-2024326185326.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-061-2024326185321.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-059-2024326184927.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-058-2024326184632.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-057-2024326184553.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-056-2024326184548.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-055-2024326184543.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-054-2024326184458.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-053-2024326184455.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-052-2024326184447.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-051-2024326184441.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-050-2024326184435.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-049-2024326184427.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-048-2024326184420.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-047-2024326184413.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-046-2024326184407.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-045-2024326184401.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-044-2024326184350.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-043-2024326184345.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-100-2024326193847.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-101-2024326193900.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-102-2024326193906.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-103-2024326193919.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-104-2024326193927.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-105-2024326193933.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-106-2024326193938.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-107-2024326193945.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-108-2024326193953.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-109-2024326193958.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-110-2024326194017.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-111-2024326194025.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-112-2024326194030.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-113-2024326194036.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-114-2024326194048.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-115-2024326194054.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-116-2024326194100.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-117-2024326194109.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-118-2024326194116.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-119-2024326194124.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-120-2024326194131.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-121-2024326194140.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-122-2024326194149.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-123-2024326194156.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-124-2024326194202.md",
+    "Special Interests/01 Projects/terror-11D/terror-11D-payment-125-2024326194216.md",
     "Extras/Pictures/porque-no-los-dos.png",
     "Extras/Pictures/creation-of-adam.png",
     "Extras/Pictures/abyss.png",
