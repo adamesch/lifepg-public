@@ -1,6 +1,7 @@
 ---
 aliases:
-  - "{{title}}"
+  - "2024327101803"
+  - H01
 tags:
   - timeblock/hour
   - temporalanchor

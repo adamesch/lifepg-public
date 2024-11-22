@@ -70,13 +70,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extras/Templates/template-uniquenote.md",
+                "file": "+ Encounters/timeblock-weekday-1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "template-uniquenote"
+              "title": "timeblock-weekday-1"
             }
           },
           {
@@ -85,13 +85,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/timeblock-month-11-2024327095303.md",
+                "file": "+ Encounters/timeblock-month-11.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "timeblock-month-11-2024327095303"
+              "title": "timeblock-month-11"
             }
           },
           {
@@ -100,13 +100,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/timeblock-quarter-4-2024327095604.md",
+                "file": "+ Encounters/timeblock-hour-13.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "timeblock-quarter-4-2024327095604"
+              "title": "timeblock-hour-13"
             }
           }
         ],
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/timeblock-quarter-4-2024327095604.md",
+                "file": "+ Encounters/timeblock-hour-13.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -204,14 +204,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of timeblock-quarter-4-2024327095604"
+              "title": "Graph of timeblock-hour-13"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 207.5
+    "width": 371.5
   },
   "right": {
     "id": "90a8e7babffe5ce9",
@@ -273,10 +273,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Encounters/timeblock-quarter-4-2024327095604.md"
+                "file": "+ Encounters/timeblock-hour-13.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of timeblock-quarter-4-2024327095604"
+              "title": "Outline of timeblock-hour-13"
             }
           },
           {
@@ -343,33 +343,33 @@
   },
   "active": "42e260849075bc8d",
   "lastOpenFiles": [
-    "+ Encounters/timeblock-month-12-2024327095429.md",
-    "+ Encounters/timeblock-quarter-4-2024327095604.md",
-    "+ Encounters/timeblock-month-11-2024327095303.md",
-    "+ Encounters/app-fantastical-2024327092140.md",
-    "Extras/+ Unsorted/ScreenFloat Shot of Mail at Nov 22, 2024 at 09_19_21.png",
+    "+ Encounters/timeblock-hour-12.md",
+    "+ Encounters/timeblock-hour-13.md",
+    "+ Encounters/timeblock-hour-11.md",
+    "+ Encounters/timeblock-hour-10.md",
+    "+ Encounters/timeblock-hour-09.md",
+    "+ Encounters/timeblock-hour-08.md",
+    "+ Encounters/timeblock-hour-07.md",
+    "+ Encounters/timeblock-hour-06.md",
+    "+ Encounters/timeblock-hour-05.md",
+    "+ Encounters/timeblock-hour-04.md",
+    "+ Encounters/timeblock-hour-03.md",
+    "+ Encounters/timeblock-hour-02.md",
+    "+ Encounters/timeblock-hour-01.md",
+    "+ Encounters/timeblock-hour-00.md",
     "Extras/Templates/template-uniquenote.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-065-2024326185348.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-066-2024326193328.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-067-2024326193359.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-068-2024326193407.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-069-2024326193413.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-070-2024326193424.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-071-2024326193501.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-072-2024326193508.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-073-2024326193514.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-074-2024326193520.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-075-2024326193526.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-076-2024326193532.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-077-2024326193539.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-078-2024326193545.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-079-2024326193552.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-080-2024326193601.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-081-2024326193609.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-082-2024326193617.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-083-2024326193624.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-084-2024326193632.md",
-    "Special Interests/01 Projects/terror-11D/terror-11D-payment-085-2024326193645.md",
+    "+ Encounters/timeblock-date-nov30.md",
+    "+ Encounters/timeblock-weekday-1.md",
+    "+ Encounters/timeblock-weekday-2.md",
+    "+ Encounters/timeblock-weekday-3.md",
+    "+ Encounters/timeblock-weekday-4.md",
+    "+ Encounters/timeblock-weekday-5.md",
+    "+ Encounters/timeblock-weekday-6.md",
+    "+ Encounters/timeblock-weekday-7.md",
+    "+ Encounters/timeblock-date-nov29.md",
+    "+ Encounters/timeblock-date-nov28.md",
+    "+ Encounters/timeblock-date-nov27.md",
+    "Extras/+ Unsorted/ScreenFloat Shot of Mail at Nov 22, 2024 at 09_19_21.png",
     "Extras/Pictures/porque-no-los-dos.png",
     "Extras/Pictures/creation-of-adam.png",
     "Extras/Pictures/abyss.png",
