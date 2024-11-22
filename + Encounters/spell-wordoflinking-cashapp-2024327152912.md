@@ -4,7 +4,9 @@ aliases:
 tags:
   - spell
   - wordoflinking
-related:
+  - cashapp
+related: 
+redirect: https://adamesch.online/cashapp
 ---
 
 

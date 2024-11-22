@@ -5,7 +5,8 @@ tags:
   - spell
   - wordoflinking
   - eschsystems
-related:
+related: 
+redirect: https://adamesch.online/eschsystems
 ---
 
 

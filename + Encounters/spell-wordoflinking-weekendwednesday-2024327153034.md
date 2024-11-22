@@ -1,11 +1,15 @@
 ---
 aliases:
   - "2024327153034"
-tags: []
-related:
+tags:
+  - spell
+  - wordoflinking
+  - weekendwednesday
+related: 
+redirect: https://adamesch.online/weekendwednesday
 ---
 
-
+`adamesch.online/weekendwednesday` redirects to [[dream-00@-youtube-weekendwednesday-2024327134850]]
 
 ***
 

@@ -5,7 +5,8 @@ tags:
   - spell
   - wordoflinking
   - substack
-related:
+related: 
+redirect: https://adamesch.online/substack
 ---
 
 

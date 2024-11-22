@@ -5,7 +5,8 @@ tags:
   - spell
   - wordoflinking
   - bluesky
-related:
+related: 
+redirect: https://adamesch.online/bluesky
 ---
 
 

@@ -5,7 +5,8 @@ tags:
   - spell
   - wordoflinking
   - github
-related:
+related: 
+redirect: https://adamesch.online/github
 ---
 
 

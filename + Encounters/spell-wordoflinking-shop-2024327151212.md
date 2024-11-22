@@ -4,7 +4,8 @@ aliases:
 tags:
   - spell
   - wordoflinking
-related:
+related: 
+redirect: https://adamesch.online/shop
 ---
 
 

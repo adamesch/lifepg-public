@@ -2,10 +2,11 @@
 aliases:
   - "2024327154309"
 tags:
-  - youtube
   - spell
   - wordoflinking
-related:
+  - aromamancer
+related: 
+redirect: https://adamesch.online/aromamancer
 ---
 
 

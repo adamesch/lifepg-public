@@ -5,7 +5,8 @@ tags:
   - spell
   - wordoflinking
   - patreon
-related:
+related: 
+redirect: https://adamesch.online/patreon
 ---
 
 

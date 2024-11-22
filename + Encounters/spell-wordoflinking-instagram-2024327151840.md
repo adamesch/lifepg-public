@@ -5,7 +5,8 @@ tags:
   - spell
   - wordoflinking
   - instagram
-related:
+related: 
+redirect: https://adamesch.online/instagram
 ---
 
 

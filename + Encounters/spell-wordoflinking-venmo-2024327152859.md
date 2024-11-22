@@ -1,11 +1,15 @@
 ---
 aliases:
   - "2024327152859"
-tags: []
-related:
+tags:
+  - spell
+  - wordoflinking
+  - venmo
+related: 
+redirect: https://adamesch.online/venmo
 ---
 
-
+`adamesch.online/venmo` redirects to [[person-adamesch-1989130030300|Adam]]'s Venmo profile
 
 ***
 

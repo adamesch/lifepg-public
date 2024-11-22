@@ -4,8 +4,9 @@ aliases:
 tags:
   - spell
   - wordoflinking
-  - kofi
-related:
+  - buymeacoffee
+related: 
+redirect: https://adamesch.online/buymeacoffee
 ---
 
 

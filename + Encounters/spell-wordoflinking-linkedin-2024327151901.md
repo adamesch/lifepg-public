@@ -5,7 +5,8 @@ tags:
   - spell
   - wordoflinking
   - linkedin
-related:
+related: 
+redirect: https://adamesch.online/linkedin
 ---
 
 

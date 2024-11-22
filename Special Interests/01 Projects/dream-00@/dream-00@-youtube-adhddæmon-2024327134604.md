@@ -6,6 +6,7 @@ aliases:
 tags:
   - youtube
   - socialmedia
+  - adhddaemon
 related:
   - "[[dream-00@-youtube-adamesch-2024327134943]]"
   - "[[dream-00@-youtube-aromamancer-2024327135425]]"

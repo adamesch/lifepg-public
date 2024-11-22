@@ -1,11 +1,16 @@
 ---
 aliases:
   - "2024327152644"
-tags: 
-related: "[[spell-wordoflinking-x-2024327152726]]"
+tags:
+  - spell
+  - wordoflinking
+  - twitter
+related:
+  - "[[spell-wordoflinking-x-2024327152726]]"
+redirect: https://adamesch.online/twitter
 ---
 
-
+`adamesch.online/twitter` redirects to [[dream-00@-twitter-mcescher0-2024327135833]]
 
 ***
 

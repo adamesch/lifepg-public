@@ -5,6 +5,7 @@ aliases:
 tags:
   - youtube
   - socialmedia
+  - aromamancer
 related:
   - "[[dream-00@-youtube-adamesch-2024327134943]]"
   - "[[dream-00@-youtube-adhddæmon-2024327134604]]"

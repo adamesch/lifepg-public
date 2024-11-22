@@ -5,7 +5,8 @@ tags:
   - spell
   - wordoflinking
   - onlyfans
-related:
+related: 
+redirect: https://adamesch.online/onlyfans
 ---
 
 

@@ -5,7 +5,8 @@ tags:
   - spell
   - wordoflinking
   - threads
-related:
+related: 
+redirect: https://adamesch.online/threads
 ---
 
 

@@ -1,11 +1,15 @@
 ---
 aliases:
   - "2024327154759"
-tags: []
-related:
+tags:
+  - spell
+  - wordoflinking
+  - twitch
+related: 
+redirect: https://adamesch.online/twitch
 ---
 
-
+`adamesch.online/twitch` redirects to [[dream-00@-twitch-garaknotaspy-2024327141753]]
 
 ***
 

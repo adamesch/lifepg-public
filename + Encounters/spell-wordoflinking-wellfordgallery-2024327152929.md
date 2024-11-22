@@ -1,11 +1,15 @@
 ---
 aliases:
   - "2024327152929"
-tags: []
-related:
+tags:
+  - spell
+  - wordoflinking
+  - wellfordgallery
+related: 
+redirect: https://adamesch.online/wellfordgallery
 ---
 
-
+`adamesch.online/wellfordgallery` redirects to the `wellford.gallery` website
 
 ***
 

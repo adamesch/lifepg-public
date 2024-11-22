@@ -2,10 +2,11 @@
 aliases:
   - "2024327154407"
 tags:
-  - youtube
   - spell
   - wordoflinking
-related:
+  - adhddaemon
+related: 
+redirect: https://adamesch.online/adhddaemon
 ---
 
 
