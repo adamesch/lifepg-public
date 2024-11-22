@@ -5,7 +5,8 @@ tags:
   - bluesky
   - socialmedia
 related: 
-url: 
+url: https://bsky.app/profile/adamesch.online
+redirect:
 ---
 
 

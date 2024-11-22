@@ -6,6 +6,8 @@ tags:
   - instagram
   - socialmedia
 related: 
+url: https://www.instagram.com/adamesch_
+redirect: https://adamesch.online/instagram
 ---
 
 

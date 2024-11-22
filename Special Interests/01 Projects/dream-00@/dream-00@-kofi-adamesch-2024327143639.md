@@ -5,7 +5,7 @@ tags:
   - kofi
   - socialmedia
 related: 
-url: 
+url: https://ko-fi.com/adamesch
 redirect: https://adamesch.online/buymeacoffee
 ---
 

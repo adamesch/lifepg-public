@@ -6,6 +6,7 @@ tags:
   - socialmedia
 related: 
 url: https://www.linkedin.com/in/adamesch
+redirect: https://adamesch.online/linkedin
 ---
 
 

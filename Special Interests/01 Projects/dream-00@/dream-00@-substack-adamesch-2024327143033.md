@@ -5,6 +5,8 @@ tags:
   - substack
   - socialmedia
 related: 
+url: 
+redirect:
 ---
 
 
