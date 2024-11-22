@@ -1,7 +1,9 @@
 ---
 aliases:
   - "{{title}}"
-tags: []
+tags:
+  - timeblock/month
+  - temporalanchor
 related:
 ---
 
