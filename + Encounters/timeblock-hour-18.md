@@ -1,7 +1,7 @@
 ---
 aliases:
-  - "2024327101803"
-  - H01
+  - "2024327102027"
+  - H18
 tags:
   - timeblock/hour
   - temporalanchor
@@ -12,8 +12,8 @@ tags:
 ***
 
 up:: 
-back:: [[timeblock-hour-00]]
-forward:: [[timeblock-hour-02]]
+back:: [[timeblock-hour-17]]
+forward:: [[timeblock-hour-19]]
 layer:: 
 
 ***

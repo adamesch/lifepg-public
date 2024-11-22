@@ -1,6 +1,7 @@
 ---
 aliases:
-  - "{{title}}"
+  - "2024327103510"
+  - W50
 tags:
   - timeblock/week
   - temporalanchor
@@ -11,8 +12,8 @@ tags:
 ***
 
 up:: 
-back:: 
-forward:: 
+back:: [[timeblock-week-49]]
+forward:: [[timeblock-week-51]]
 layer:: 
 
 ***

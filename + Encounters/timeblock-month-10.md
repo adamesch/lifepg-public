@@ -1,8 +1,6 @@
 ---
 aliases:
-  - "2024327095303"
-  - November
-  - M11
+  - "2024327103140"
 tags:
   - timeblock/month
   - temporalanchor
@@ -13,8 +11,8 @@ tags:
 ***
 
 up:: [[timeblock-quarter-4]]
-back:: 
-forward:: 
+back:: [[timeblock-month-09]]
+forward:: [[timeblock-month-11]]
 layer:: 
 
 ***

@@ -28,10 +28,15 @@
             "id": "000b651583c5ef46",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Extras/Templates/template-uniquenote.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "template-uniquenote"
             }
           },
           {
@@ -53,15 +58,10 @@
             "id": "b4f4d8e720ddd7ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ Encounters/app-fantastical-2024327092140.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "app-fantastical-2024327092140"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -100,13 +100,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/timeblock-hour-13.md",
+                "file": "+ Encounters/timeblock-month-12.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "timeblock-hour-13"
+              "title": "timeblock-month-12"
             }
           }
         ],
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/timeblock-hour-13.md",
+                "file": "+ Encounters/timeblock-month-12.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -204,7 +204,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of timeblock-hour-13"
+              "title": "Graph of timeblock-month-12"
             }
           }
         ]
@@ -273,10 +273,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Encounters/timeblock-hour-13.md"
+                "file": "+ Encounters/timeblock-month-12.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of timeblock-hour-13"
+              "title": "Outline of timeblock-month-12"
             }
           },
           {
@@ -343,32 +343,32 @@
   },
   "active": "42e260849075bc8d",
   "lastOpenFiles": [
-    "+ Encounters/timeblock-hour-12.md",
-    "+ Encounters/timeblock-hour-13.md",
-    "+ Encounters/timeblock-hour-11.md",
-    "+ Encounters/timeblock-hour-10.md",
-    "+ Encounters/timeblock-hour-09.md",
-    "+ Encounters/timeblock-hour-08.md",
-    "+ Encounters/timeblock-hour-07.md",
-    "+ Encounters/timeblock-hour-06.md",
-    "+ Encounters/timeblock-hour-05.md",
-    "+ Encounters/timeblock-hour-04.md",
-    "+ Encounters/timeblock-hour-03.md",
-    "+ Encounters/timeblock-hour-02.md",
-    "+ Encounters/timeblock-hour-01.md",
+    "+ Encounters/timeblock-month-11.md",
+    "+ Encounters/timeblock-week-47.md",
+    "+ Encounters/timeblock-week-48.md",
+    "+ Encounters/timeblock-week-49.md",
+    "+ Encounters/timeblock-week-50.md",
+    "+ Encounters/timeblock-week-51.md",
+    "+ Encounters/timeblock-week-52.md",
+    "+ Encounters/app-fantastical-2024327092140.md",
     "+ Encounters/timeblock-hour-00.md",
     "Extras/Templates/template-uniquenote.md",
-    "+ Encounters/timeblock-date-nov30.md",
-    "+ Encounters/timeblock-weekday-1.md",
-    "+ Encounters/timeblock-weekday-2.md",
-    "+ Encounters/timeblock-weekday-3.md",
-    "+ Encounters/timeblock-weekday-4.md",
-    "+ Encounters/timeblock-weekday-5.md",
-    "+ Encounters/timeblock-weekday-6.md",
-    "+ Encounters/timeblock-weekday-7.md",
-    "+ Encounters/timeblock-date-nov29.md",
-    "+ Encounters/timeblock-date-nov28.md",
-    "+ Encounters/timeblock-date-nov27.md",
+    "+ Encounters/timeblock-month-10.md",
+    "+ Encounters/timeblock-month-12.md",
+    "+ Encounters/timeblock-hour-23.md",
+    "+ Encounters/timeblock-hour-22.md",
+    "+ Encounters/timeblock-hour-21.md",
+    "+ Encounters/timeblock-hour-20.md",
+    "+ Encounters/timeblock-hour-19.md",
+    "+ Encounters/timeblock-hour-18.md",
+    "+ Encounters/timeblock-hour-17.md",
+    "+ Encounters/timeblock-hour-16.md",
+    "+ Encounters/timeblock-hour-15.md",
+    "+ Encounters/timeblock-hour-14.md",
+    "+ Encounters/timeblock-hour-13.md",
+    "+ Encounters/timeblock-hour-12.md",
+    "+ Encounters/timeblock-hour-11.md",
+    "+ Encounters/timeblock-hour-10.md",
     "Extras/+ Unsorted/ScreenFloat Shot of Mail at Nov 22, 2024 at 09_19_21.png",
     "Extras/Pictures/porque-no-los-dos.png",
     "Extras/Pictures/creation-of-adam.png",

@@ -1,6 +1,7 @@
 ---
 aliases:
   - "2024327101938"
+  - H09
 tags:
   - timeblock/hour
   - temporalanchor
@@ -11,8 +12,8 @@ tags:
 ***
 
 up:: 
-back:: 
-forward:: 
+back:: [[timeblock-hour-08]]
+forward:: [[timeblock-hour-10]]
 layer:: 
 
 ***

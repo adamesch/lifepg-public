@@ -12,8 +12,8 @@ tags:
 ***
 
 up:: 
-back:: 
-forward:: 
+back:: [[timeblock-hour-23]]
+forward:: [[timeblock-hour-01]]
 layer:: 
 
 ***
