@@ -4,7 +4,7 @@ aliases:
 tags:
   - tiktok
   - socialmedia
-related: 
+related: "[[dream-00@-tiktok-eschsystems-2024327141619]]"
 url: https://www.tiktok.com/@adamesch
 redirect: https://adamesch.online/tiktok
 ---

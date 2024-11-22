@@ -5,8 +5,8 @@ tags:
   - tiktok
   - eschsystems
   - socialmedia
-related: 
-url:
+related: "[[dream-00@-tiktok-adamesch-2024327141515]]"
+url: https://www.tiktok.com/@eschsystems
 ---
 
 

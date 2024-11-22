@@ -5,7 +5,10 @@ aliases:
 tags:
   - youtube
   - socialmedia
-related: 
+related:
+  - "[[dream-00@-youtube-adamesch-2024327134943]]"
+  - "[[dream-00@-youtube-adhddæmon-2024327134604]]"
+  - "[[dream-00@-youtube-weekendwednesday-2024327134850]]"
 url: https://www.youtube.com/@aromamancer
 redirect: https://adamesch.online/aromamancer
 ---

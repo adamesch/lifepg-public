@@ -1,7 +1,9 @@
 ---
 aliases:
   - "2024327152912"
-tags: []
+tags:
+  - spell
+  - wordoflinking
 related:
 ---
 

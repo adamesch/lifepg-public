@@ -1,7 +1,10 @@
 ---
 aliases:
   - "2024327154309"
-tags: []
+tags:
+  - youtube
+  - spell
+  - wordoflinking
 related:
 ---
 

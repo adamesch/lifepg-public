@@ -4,7 +4,7 @@ aliases:
 tags:
   - linkedin
   - socialmedia
-related: 
+related: "[[dream-00@-linkedin-eschsystems-2024327142606]]"
 url: https://www.linkedin.com/in/adamesch
 redirect: https://adamesch.online/linkedin
 ---

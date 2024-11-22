@@ -1,7 +1,10 @@
 ---
 aliases:
   - "2024327153925"
-tags: []
+tags:
+  - spell
+  - wordoflinking
+  - eschsystems
 related:
 ---
 

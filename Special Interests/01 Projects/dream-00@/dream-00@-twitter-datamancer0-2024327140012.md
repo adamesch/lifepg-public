@@ -6,7 +6,10 @@ tags:
   - twiiter
   - x
   - socialmedia
-related: 
+related:
+  - "[[dream-00@-twitter-mcescher0-2024327135833]]"
+  - "[[dream-00@-twitter-eschsystems-2024327140138]]"
+  - "[[dream-00@-twitter-wellfordgallery-2024327140257]]"
 url: https://x.com/datamancer0
 ---
 

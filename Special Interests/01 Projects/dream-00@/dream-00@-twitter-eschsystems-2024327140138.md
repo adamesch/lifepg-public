@@ -7,7 +7,10 @@ tags:
   - eschsystems
   - x
   - socialmedia
-related: 
+related:
+  - "[[dream-00@-twitter-wellfordgallery-2024327140257]]"
+  - "[[dream-00@-twitter-datamancer0-2024327140012]]"
+  - "[[dream-00@-twitter-mcescher0-2024327135833]]"
 url: https://x.com/eschsystems
 ---
 
