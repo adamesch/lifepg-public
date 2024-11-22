@@ -1,7 +1,10 @@
 ---
 aliases:
-  - "2024327135833"
-tags: []
+  - "2024327140138"
+  - "@eschsystems"
+tags:
+  - twiiter
+  - eschsystems
 related:
 ---
 
