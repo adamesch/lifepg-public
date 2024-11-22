@@ -4,16 +4,16 @@ aliases:
 tags:
   - timeblock/date
   - temporalanchor
-related:
+related: "[[timeblock-monthday-17]]"
 ---
 
 
 
 ***
 
-up:: 
-back:: 
-forward:: 
+up:: [[timeblock-month-12]]
+back:: [[timeblock-date-dec16]]
+forward:: [[timeblock-date-dec18]]
 layer:: 
 
 ***
