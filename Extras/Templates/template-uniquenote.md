@@ -1,9 +1,7 @@
 ---
 aliases:
   - "{{title}}"
-tags:
-  - timeblock/week
-  - temporalanchor
+tags: []
 related:
 ---
 
@@ -11,7 +9,7 @@ related:
 
 ***
 
-up:: [[timeblock-quarter-4]]
+up:: 
 back:: 
 forward:: 
 layer:: 

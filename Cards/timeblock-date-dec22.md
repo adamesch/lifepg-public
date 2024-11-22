@@ -1,6 +1,7 @@
 ---
 aliases:
   - "2024327113858"
+  - Dec 22
 tags:
   - timeblock/date
   - temporalanchor

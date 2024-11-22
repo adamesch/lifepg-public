@@ -1,6 +1,7 @@
 ---
 aliases:
   - "2024327113940"
+  - Dec 27
 tags:
   - timeblock/date
   - temporalanchor

@@ -2,6 +2,7 @@
 aliases:
   - "2024327113910"
   - Christmas Eve
+  - Dec 24
 tags:
   - timeblock/date
   - temporalanchor
