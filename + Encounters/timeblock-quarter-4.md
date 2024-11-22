@@ -12,8 +12,8 @@ tags:
 ***
 
 up:: 
-back:: 
-forward:: 
+back:: [[timeblock-quarter-3]]
+forward:: [[timeblock-quarter-1]]
 layer:: 
 
 ***

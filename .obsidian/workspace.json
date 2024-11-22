@@ -60,13 +60,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/timeblock-quarter-3.md",
+                "file": "Extras/Templates/template-spatialnavigation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "timeblock-quarter-3"
+              "title": "template-spatialnavigation"
+            }
+          },
+          {
+            "id": "ae74249d1ed0895e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ Encounters/2024327112005.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024327112005"
             }
           },
           {
@@ -130,7 +145,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -196,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/timeblock-quarter-3.md",
+                "file": "+ Encounters/2024327112005.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,7 +239,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of timeblock-quarter-3"
+              "title": "Graph of 2024327112005"
             }
           }
         ]
@@ -293,10 +308,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Encounters/timeblock-quarter-3.md"
+                "file": "+ Encounters/2024327112005.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of timeblock-quarter-3"
+              "title": "Outline of 2024327112005"
             }
           },
           {
@@ -361,34 +376,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b4f4d8e720ddd7ea",
+  "active": "ae74249d1ed0895e",
   "lastOpenFiles": [
-    "+ Encounters/timeblock-year-2024.md",
+    "+ Encounters/timeblock-monthday-15.md",
+    "+ Encounters/2024327112005.md",
+    "+ Encounters/timeblock-monthday-14.md",
+    "+ Encounters/timeblock-monthday-13.md",
+    "+ Encounters/timeblock-monthday-12.md",
+    "+ Encounters/timeblock-monthday-11.md",
+    "+ Encounters/timeblock-monthday-10.md",
+    "+ Encounters/timeblock-monthday-09.md",
+    "+ Encounters/timeblock-monthday-08.md",
+    "+ Encounters/timeblock-monthday-07.md",
+    "+ Encounters/timeblock-monthday-06.md",
+    "+ Encounters/timeblock-monthday-05.md",
+    "+ Encounters/timeblock-monthday-04.md",
+    "+ Encounters/timeblock-monthday-03.md",
+    "+ Encounters/timeblock-monthday-02.md",
+    "+ Encounters/timeblock-monthday-01.md",
+    "Extras/Templates/template-uniquenote.md",
+    "+ Encounters/timeblock-quarter-4.md",
     "+ Encounters/timeblock-quarter-3.md",
-    "+ Encounters/timeblock-year-2023.md",
+    "+ Encounters/timeblock-quarter-2.md",
+    "+ Encounters/timeblock-quarter-1.md",
     "Home.md",
     "Atlas/torremor.md",
-    "Atlas/rottingplain.md",
-    "+ Encounters/helloworld-2024275132515.md",
-    "Atlas/voorzzt.md",
-    "Extras/Templates/template-uniquenote.md",
-    "Extras/Templates/template-temporalanchor.md",
-    "+ Encounters/timeblock-month-12.md",
-    "+ Encounters/timeblock-month-11.md",
-    "+ Encounters/timeblock-week-47.md",
-    "+ Encounters/timeblock-week-48.md",
-    "+ Encounters/timeblock-week-49.md",
-    "+ Encounters/timeblock-week-50.md",
-    "+ Encounters/timeblock-week-51.md",
-    "+ Encounters/timeblock-week-52.md",
-    "+ Encounters/app-fantastical-2024327092140.md",
-    "+ Encounters/timeblock-hour-00.md",
-    "+ Encounters/timeblock-month-10.md",
-    "+ Encounters/timeblock-hour-23.md",
-    "+ Encounters/timeblock-hour-22.md",
-    "+ Encounters/timeblock-hour-21.md",
-    "+ Encounters/timeblock-hour-20.md",
-    "+ Encounters/timeblock-hour-19.md",
+    "Extras/Templates/template-spatialnavigation.md",
+    "+ Encounters/timeblock-year-2024.md",
+    "+ Encounters/timeblock-year-2023.md",
     "Extras/+ Unsorted/ScreenFloat Shot of Mail at Nov 22, 2024 at 09_19_21.png",
     "Extras/Pictures/porque-no-los-dos.png",
     "Extras/Pictures/creation-of-adam.png",

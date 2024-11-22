@@ -1,7 +1,7 @@
 ---
 aliases:
-  - "2024327105928"
-  - Q3
+  - "2024327110014"
+  - Q2
 tags:
   - timeblock/quarter
   - temporalanchor
@@ -12,8 +12,8 @@ tags:
 ***
 
 up:: 
-back:: [[timeblock-quarter-2]]
-forward:: [[timeblock-quarter-4]]
+back:: [[timeblock-quarter-1]]
+forward:: [[timeblock-quarter-3]]
 layer:: 
 
 ***

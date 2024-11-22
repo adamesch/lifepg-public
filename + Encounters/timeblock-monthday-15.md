@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "{{title}}"
+  - "2024327112001"
 tags:
   - timeblock/monthday
   - temporalanchor

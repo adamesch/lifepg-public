@@ -9,6 +9,7 @@ tags:
 # snippet templates
 
 - note temporal anchor: [[template-temporalanchor]]
+- note spatial navigation: [[template-spatialnavigation]]
 
 # note templates
 
