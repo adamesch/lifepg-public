@@ -1,6 +1,7 @@
 ---
 aliases:
   - "2024327112235"
+  - 28th
 tags:
   - timeblock/monthday
   - temporalanchor

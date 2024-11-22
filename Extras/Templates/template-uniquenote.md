@@ -1,9 +1,7 @@
 ---
 aliases:
   - "{{title}}"
-tags:
-  - timeblock/year
-  - temporalanchor
+tags: []
 related:
 ---
 
@@ -17,4 +15,3 @@ forward::
 layer:: 
 
 ***
-
