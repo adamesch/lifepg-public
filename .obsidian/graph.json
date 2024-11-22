@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -12,6 +12,13 @@
       "color": {
         "a": 1,
         "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#temporalanchor",
+      "color": {
+        "a": 1,
+        "rgb": 65280
       }
     }
   ],
@@ -25,6 +32,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.08823905998284727,
-  "close": true
+  "scale": 0.03591908365136592,
+  "close": false
 }

@@ -1,9 +1,7 @@
 ---
 aliases:
   - "{{title}}"
-tags:
-  - timeblock/week
-  - temporalanchor
+tags: []
 ---
 
 
@@ -13,6 +11,16 @@ tags:
 up:: 
 back:: 
 forward:: 
-layer:: 
+layer:: [[layer-099]]
+
+***
+
+year:: 
+quarter:: 
+month:: 
+week:: 
+date:: 
+day:: 
+hour:: 
 
 ***

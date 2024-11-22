@@ -21,6 +21,7 @@ tags:
 | [[mansionoftherake\|layer-487]]       | [[mansionoftherake\|Lair of the Beast and Mansion of the Rake]] |               |
 | [[noisomevale\|layer-489]]            | [[noisomevale\|Noisome Vale]]                                   |               |
 | [[layer-500]]                         |                                                                 |               |
+| [[torremor\|layer-503]]               | [[torremor\|Torremor]]                                          |               |
 
 
 ***
