@@ -4,71 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "43c18dc4c0db0142",
-        "type": "split",
+        "id": "20d383014f0a8233",
+        "type": "tabs",
         "children": [
           {
-            "id": "20d383014f0a8233",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2572a4cf8495d599",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Home.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Home"
-                }
+            "id": "2572a4cf8495d599",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              {
-                "id": "3a031315652b3909",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "+ Encounters/spell-wordoflinking-eschsystems-2024327153925.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "spell-wordoflinking-eschsystems-2024327153925"
-                }
-              }
-            ],
-            "currentTab": 1
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
           },
           {
-            "id": "b66c5256fd2cedaf",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e72132caa2b93b39",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "+ Encounters/spell-wordoflinking-youtube-2024327150627.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "spell-wordoflinking-youtube-2024327150627"
-                }
-              }
-            ]
+            "id": "77c7905407371a1b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
+      },
+      {
+        "id": "8be3826db7a2f14d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e72132caa2b93b39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ Encounters/spell-wordoflinking-youtube-2024327150627.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "spell-wordoflinking-youtube-2024327150627"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/spell-wordoflinking-eschsystems-2024327153925.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,7 +149,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of spell-wordoflinking-eschsystems-2024327153925"
+              "title": "Graph view"
             }
           }
         ]
@@ -185,7 +172,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Encounters/spell-wordoflinking-eschsystems-2024327153925.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for spell-wordoflinking-eschsystems-2024327153925"
+              "title": "Backlinks"
             }
           },
           {
@@ -230,11 +216,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "+ Encounters/spell-wordoflinking-eschsystems-2024327153925.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of spell-wordoflinking-eschsystems-2024327153925"
+              "title": "Outline"
             }
           },
           {
@@ -300,34 +284,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a031315652b3909",
+  "active": "77c7905407371a1b",
   "lastOpenFiles": [
-    "+ Encounters/spell-wordoflinking-onlyfans-2024327153724.md",
-    "+ Encounters/spell-wordoflinking-eschsystems-2024327153925.md",
-    "Special Interests/01 Projects/dream-00@/dream-00@-youtube-aromamancer-2024327135425.md",
-    "Special Interests/01 Projects/dream-00@/dream-00@-youtube-adhddæmon-2024327134604.md",
-    "+ Encounters/spell-wordoflinking-weekendwednesday-2024327153034.md",
+    "+ Encounters/spell-wordoflinking-youtube-2024327150627.md",
+    "+ Encounters/spell-wordoflinking-x-2024327152726.md",
     "+ Encounters/spell-wordoflinking-wellfordgallery-2024327152929.md",
-    "+ Encounters/spell-wordoflinking-cashapp-2024327152912.md",
+    "+ Encounters/spell-wordoflinking-weekendwednesday-2024327153034.md",
     "+ Encounters/spell-wordoflinking-venmo-2024327152859.md",
     "+ Encounters/spell-wordoflinking-twitter-2024327152644.md",
-    "+ Encounters/spell-wordoflinking-x-2024327152726.md",
+    "+ Encounters/spell-wordoflinking-twitch-2024327154759.md",
+    "+ Encounters/spell-wordoflinking-tiktok-2024327154111.md",
     "+ Encounters/spell-wordoflinking-threads-2024327152415.md",
-    "Special Interests/01 Projects/dream-00@/dream-00@-meta-threads-adamesch-2024327142020.md",
-    "Special Interests/01 Projects/dream-00@/dream-00@-meta-instagram-adamesch-2024327141935.md",
-    "Special Interests/01 Projects/dream-00@/dream-00@-patreon-adamesch-2024327143306.md",
-    "Special Interests/01 Projects/dream-00@/dream-00@-linkedin-adamesch-2024327142350.md",
-    "+ Encounters/spell-wordoflinking-youtube-2024327150627.md",
     "+ Encounters/spell-wordoflinking-shop-2024327151212.md",
     "+ Encounters/spell-wordoflinking-patreon-2024327151954.md",
+    "+ Encounters/spell-wordoflinking-onlyfans-2024327153724.md",
     "+ Encounters/spell-wordoflinking-linkedin-2024327151901.md",
     "+ Encounters/spell-wordoflinking-instagram-2024327151840.md",
     "+ Encounters/spell-wordoflinking-hireme-2024327151314.md",
     "+ Encounters/spell-wordoflinking-github-2024327151514.md",
+    "+ Encounters/spell-wordoflinking-eschsystems-2024327153925.md",
+    "+ Encounters/spell-wordoflinking-cashapp-2024327152912.md",
     "+ Encounters/spell-wordoflinking-buymeacoffee-2024327151146.md",
-    "+ Encounters/dream-00@-github-adamesch-2024327151534.md",
+    "+ Encounters/spell-wordoflinking-aromamancer-2024327154309.md",
+    "+ Encounters/spell-wordoflinking-adhddaemon-2024327154407.md",
     "Special Interests/03 Resources/Spellbook/spell-wordoflinking-2024325132558.md",
-    "Home.md",
+    "Special Interests/01 Projects/dream-00@/dream-00@-meta-instagram-adamesch-2024327141935.md",
+    "Special Interests/01 Projects/dream-00@/dream-00@-whatnot-adamesch-2024327143853.md",
+    "+ Encounters/dream-00@-github-adamesch-2024327151534.md",
+    "Special Interests/01 Projects/dream-00@/dream-00@-twitter-wellfordgallery-2024327140257.md",
     "Extras/Screenshots/screenshot-20241119234730.png",
     "Atlas/Atlas.canvas",
     "Extras/Pictures/year-of-our-lord.png",

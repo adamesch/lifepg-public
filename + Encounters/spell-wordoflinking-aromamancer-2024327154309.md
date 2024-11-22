@@ -1,10 +1,7 @@
 ---
 aliases:
-  - "2024327151954"
-tags:
-  - spell
-  - wordoflinking
-  - patreon
+  - "2024327154309"
+tags: []
 related:
 ---
 

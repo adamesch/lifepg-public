@@ -9,9 +9,9 @@ related: "[[spell-wordoflinking-twitter-2024327152644]]"
 
 ***
 
-up:: 
+up:: [[spell-wordoflinking-2024325132558|Adam's Word of Linking]]
 back:: 
 forward:: 
-layer:: 
+layer:: [[voorzzt|layer-047]]
 
 ***
