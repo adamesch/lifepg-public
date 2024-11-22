@@ -1,12 +1,11 @@
 ---
 aliases:
-  - "2024327150627"
+  - "2024327152415"
 tags:
   - spell
   - wordoflinking
-  - youtube
-related: 
-url:
+  - threads
+related:
 ---
 
 

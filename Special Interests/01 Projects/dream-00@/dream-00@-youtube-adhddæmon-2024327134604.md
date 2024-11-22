@@ -8,6 +8,7 @@ tags:
   - socialmedia
 related: 
 url: https://www.youtube.com/@ADHDdaemon
+redirect: https://adamesch.online/adhddaemon
 ---
 
 

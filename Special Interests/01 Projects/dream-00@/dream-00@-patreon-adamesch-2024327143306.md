@@ -5,8 +5,8 @@ tags:
   - patreon
   - socialmedia
 related: 
-url: 
-redirect:
+url: https://www.patreon.com/adamesch
+redirect: https://adamesch.online/patreon
 ---
 
 

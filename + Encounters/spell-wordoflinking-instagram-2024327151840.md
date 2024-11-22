@@ -1,7 +1,10 @@
 ---
 aliases:
   - "2024327151840"
-tags: []
+tags:
+  - spell
+  - wordoflinking
+  - instagram
 related:
 ---
 

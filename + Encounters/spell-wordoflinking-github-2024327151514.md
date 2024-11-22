@@ -1,7 +1,10 @@
 ---
 aliases:
   - "2024327151514"
-tags: []
+tags:
+  - spell
+  - wordoflinking
+  - github
 related:
 ---
 

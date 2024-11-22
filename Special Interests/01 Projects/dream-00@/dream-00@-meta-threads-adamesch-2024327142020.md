@@ -6,7 +6,8 @@ tags:
   - threads
   - socialmedia
 related: 
-url:
+url: https://www.threads.net/@adamesch_
+redirect: https://adamesch.online/threads
 ---
 
 

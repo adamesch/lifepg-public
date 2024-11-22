@@ -1,7 +1,10 @@
 ---
 aliases:
   - "2024327151901"
-tags: []
+tags:
+  - spell
+  - wordoflinking
+  - linkedin
 related:
 ---
 

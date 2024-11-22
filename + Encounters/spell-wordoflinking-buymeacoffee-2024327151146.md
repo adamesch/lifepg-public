@@ -1,7 +1,10 @@
 ---
 aliases:
   - "2024327151146"
-tags: []
+tags:
+  - spell
+  - wordoflinking
+  - kofi
 related:
 ---
 
