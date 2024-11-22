@@ -7,8 +7,8 @@ tags:
   - x
   - socialmedia
 related: 
-url: 
-redirect:
+url: https://x.com/mcescher0
+redirect: https://adamesch.online/twitter
 ---
 
 

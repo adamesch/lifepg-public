@@ -5,8 +5,8 @@ tags:
   - twitch
   - socialmedia
 related: 
-url: 
-redirect:
+url: https://www.twitch.tv/garaknotaspy
+redirect: https://adamesch.online/twitch
 ---
 
 

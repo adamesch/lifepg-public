@@ -7,7 +7,7 @@ tags:
   - x
   - socialmedia
 related: 
-url:
+url: https://x.com/datamancer0
 ---
 
 

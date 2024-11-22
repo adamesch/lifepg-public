@@ -5,8 +5,8 @@ tags:
   - substack
   - socialmedia
 related: 
-url: 
-redirect:
+url: https://adamesch.substack.com
+redirect: https://adamesch.online/substack
 ---
 
 

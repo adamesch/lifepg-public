@@ -6,7 +6,7 @@ tags:
   - socialmedia
 related: 
 url: https://bsky.app/profile/adamesch.online
-redirect:
+redirect: https://adamesch.online/bluesky
 ---
 
 

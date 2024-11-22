@@ -5,8 +5,8 @@ tags:
   - tiktok
   - socialmedia
 related: 
-url: 
-redirect:
+url: https://www.tiktok.com/@adamesch
+redirect: https://adamesch.online/tiktok
 ---
 
 
