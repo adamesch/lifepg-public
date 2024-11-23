@@ -40,13 +40,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/2024327224249.md",
+                "file": "Special Interests/03 Resources/Inventory/boardofdreamsandterrors-2024327224249.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024327224249"
+              "title": "boardofdreamsandterrors-2024327224249"
             }
           },
           {
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/2024327224249.md",
+                "file": "Special Interests/03 Resources/Inventory/boardofdreamsandterrors-2024327224249.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2024327224249"
+              "title": "Graph of boardofdreamsandterrors-2024327224249"
             }
           }
         ]
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Encounters/2024327224249.md",
+                "file": "Special Interests/03 Resources/Inventory/boardofdreamsandterrors-2024327224249.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024327224249"
+              "title": "Backlinks for boardofdreamsandterrors-2024327224249"
             }
           },
           {
@@ -258,10 +258,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Encounters/2024327224249.md"
+                "file": "Special Interests/03 Resources/Inventory/boardofdreamsandterrors-2024327224249.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024327224249"
+              "title": "Outline of boardofdreamsandterrors-2024327224249"
             }
           },
           {
@@ -313,8 +313,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -330,8 +329,10 @@
   },
   "active": "8cd1c185cfa19241",
   "lastOpenFiles": [
+    "Special Interests/03 Resources/Inventory",
+    "Special Interests/01 Projects/dream-23Y",
     "Cards/ship-titanic-2024327214930.md",
-    "+ Encounters/2024327224249.md",
+    "Special Interests/03 Resources/Inventory/boardofdreamsandterrors-2024327224249.md",
     "Special Interests/01 Projects/dream-22T/dream-22T-Nov2024-2024327214738.md",
     "Cards/person-jamescameron-2024327223034.md",
     "Extras/Pictures/james-cameron.png",
@@ -357,7 +358,6 @@
     "+ Encounters/test-templater-quarter-2024327203230.md",
     "+ Encounters/test-templater-week-2024327203624.md",
     "+ Encounters/test-templater-year-2024327203050.md",
-    "+ Encounters/test-templater-day-2024327204502.md",
     "Extras/Screenshots/screenshot-20241122202002.png",
     "Extras/Screenshots/screenshot-20241122201636.png",
     "Extras/Screenshots/screenshot-20241122200219.png",
@@ -376,7 +376,6 @@
     "Special Interests/03 Resources/Bestiary",
     "Special Interests/01 Projects/terror-11D",
     "Extras/Pictures",
-    "Extras/+ Unsorted",
-    "Extras/Documents"
+    "Extras/+ Unsorted"
   ]
 }
