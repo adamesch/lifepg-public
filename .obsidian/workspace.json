@@ -156,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.5
+    "width": 397.5
   },
   "right": {
     "id": "90a8e7babffe5ce9",
@@ -290,11 +290,17 @@
   },
   "active": "a6ec7ea7fefdc7d9",
   "lastOpenFiles": [
-    "+ Encounters/dream-01S-service-buildanemployee-2024328003630.md",
-    "+ Encounters/dream-01S-service-buildabusiness-2024328003657.md",
-    "+ Encounters/dream-13A-aiemployee-2-2024328003405.md",
+    "+ Encounters/dream-01S-service-buildaemployee-2024328010000.md",
     "+ Encounters/dream-13A-aiemployee-1-2024328003339.md",
+    "+ Encounters/dream-13A-aiemployee-2-2024328003405.md",
     "+ Encounters/dream-13A-aiemployee-3-2024328003508.md",
+    "+ Encounters/dream-01S-service-buildabusiness-2024328003657.md",
+    "Cards/document-2024328003630.md",
+    "Home.md",
+    "Atlas/grandabyss.md",
+    "Atlas/brokenscale.md",
+    "Special Interests/04 Archive/Documents/dream-01S-service-buildaemployee-foundingdoc.pdf",
+    "Special Interests/04 Archive/Documents",
     "Cards/app-obsidian-plugin-uniquenotecreator-2024327200041.md",
     "Cards/app-obsidian-plugin-templater-2024327202347.md",
     "Cards/timeblock-monthday-22.md",
@@ -312,11 +318,7 @@
     "Special Interests/01 Projects/terror-13N/terror-11D-04M-3-2024327235641.md",
     "Special Interests/01 Projects/terror-13N/terror-11D-04M-2-2024327235558.md",
     "Special Interests/01 Projects/terror-13N/terror-11D-04M-1-2024327235501.md",
-    "Special Interests/01 Projects/terror-13N/terror-11D-01F-2024327235244.md",
     "Special Interests/01 Projects/terror-13N",
-    "Cards/ship-titanic-2024327214930.md",
-    "Sources/source-quote-movie-thetitanic-2024327221940.md",
-    "Cards/person-jamescameron-2024327223034.md",
     "Special Interests/01 Projects/terror-18C",
     "Special Interests/01 Projects/terror-10K",
     "Special Interests/01 Projects/dream-02E",
@@ -332,11 +334,9 @@
     "Extras/Screenshots/screenshot-20241119234730.png",
     "Atlas/Atlas.canvas",
     "Extras/Pictures/year-of-our-lord.png",
-    "Special Interests/01 Projects/dream-22T",
     "Extras/Screenshots/screenshot-20241122091921.png",
     "Extras/Pictures/porque-no-los-dos.png",
     "Extras/Pictures/creation-of-adam.png",
-    "Special Interests/Special Interests.canvas",
-    "Extras/Screenshots"
+    "Special Interests/Special Interests.canvas"
   ]
 }

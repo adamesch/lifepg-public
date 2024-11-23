@@ -1,9 +1,10 @@
 ---
 aliases:
-  - "2024328003405"
+  - "2024328010000"
 tags:
-  - dream/13A
-  - aiemployee
+  - dream/01S
+  - service
+  - buildabusiness
 related:
 ---
 
@@ -24,6 +25,6 @@ month:: [[timeblock-month-11|November]]
 week:: [[timeblock-week-47|W47]]
 date:: [[timeblock-date-Nov23|Nov 23]]
 day:: [[timeblock-weekday-6|Saturday]] ([[timeblock-monthday-23|23rd]])
-hour:: [[timeblock-hour-00|H00]]
+hour:: [[timeblock-hour-01|H01]]
 
 ***

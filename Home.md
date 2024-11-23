@@ -10,6 +10,7 @@ tags:
 | layer number                          | layer name                                                      | layer purpose                                                   |
 | ------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- |
 | [[plainofinfiniteportals\|layer-001]] | [[plainofinfiniteportals\|Plain of Infinite Portals]]           |                                                                 |
+| [[grandabyss\|layer-004]]             | [[grandabyss\|Grand Abyss]]                                     | documents/files are linked to the [[grandabyss\|Grand Abyss]]   |
 | [[realmofamillioneyes\|layer-006]]    | [[realmofamillioneyes\|Realm of a Million Eyes]]                |                                                                 |
 | [[ironwastes\|layer-023]]             | [[ironwastes\|Iron Wastes]]                                     | app/toolset notes are linked to the [[ironwastes\|Iron Wastes]] |
 | [[voorzzt\|layer-047]]                | [[voorzzt\|Voorz'zt]]                                           |                                                                 |
