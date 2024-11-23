@@ -1,8 +1,8 @@
 {
-  "folderName": "00",
+  "folderName": "Cards",
   "fileNames": [],
-  "existingSymbol": "terror-11D-0",
-  "replacePattern": "terror-11D-payment-0",
+  "existingSymbol": "youtube-",
+  "replacePattern": "dream-00@-youtube",
   "regExpState": {
     "regExp": "",
     "flags": [],

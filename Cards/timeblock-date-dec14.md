@@ -13,8 +13,8 @@ related: "[[timeblock-monthday-14]]"
 ***
 
 up:: [[timeblock-month-12]]
-back:: [[timeblock-date-dec13]]
-forward:: [[timeblock-date-dec15]]
+back:: [[timeblock-date-Dec13]]
+forward:: [[timeblock-date-Dec15]]
 layer:: 
 
 ***
