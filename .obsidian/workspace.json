@@ -25,17 +25,16 @@
             }
           },
           {
-            "id": "39e1ecfdce654cb0",
+            "id": "63e9d898d2ad3508",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#fantastical",
+                "query": "tag:#subscription/annual",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/obsidian-plugin-uniquenotecreator-2024327200041.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -129,14 +128,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of obsidian-plugin-uniquenotecreator-2024327200041"
+              "title": "Graph of Home"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 463.5
+    "width": 490.5
   },
   "right": {
     "id": "90a8e7babffe5ce9",
@@ -152,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/obsidian-plugin-uniquenotecreator-2024327200041.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for obsidian-plugin-uniquenotecreator-2024327200041"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -198,10 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/obsidian-plugin-uniquenotecreator-2024327200041.md"
+                "file": "Home.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of obsidian-plugin-uniquenotecreator-2024327200041"
+              "title": "Outline of Home"
             }
           },
           {
@@ -267,8 +266,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "df50364d9a50475f",
+  "active": "aba4d8e3371721dd",
   "lastOpenFiles": [
+    "Cards/app-fantastical-2024327092140.md",
+    "Special Interests/01 Projects/dream-22T/dream-22T-2024327213205.md",
+    "Atlas/guttlevetch.md",
+    "Atlas/gutteringgrove.md",
+    "Extras/Pictures/20240512135651-protected-intensity-DEFAULT-V2.jpg",
+    "Special Interests/01 Projects/dream-00@/dream-00@-2024276131549.md",
+    "Home.md",
+    "Cards/obsidian-plugin-uniquenotecreator-2024327200041.md",
     "Cards/obsidian-plugin-templater-2024327202347.md",
     "Cards/pkm-uniquenote-2024327193758.md",
     "Extras/Templates/template-uniquenote.md",
@@ -276,8 +283,6 @@
     "Cards/test-templater-temporalnavigation-2024327205426.md",
     "Extras/Templates/template-block-temporalnavigation.md",
     "Atlas/indifference.md",
-    "Home.md",
-    "Atlas/gutteringgrove.md",
     "+ Encounters/test-templater-month-2024327203359.md",
     "+ Encounters/test-templater-quarter-2024327203230.md",
     "+ Encounters/test-templater-week-2024327203624.md",
@@ -290,14 +295,9 @@
     "+ Encounters/test-templater-date-linked-2024327204252.md",
     "Atlas/layer-099.md",
     "+ Encounters/test-templater-date-unlinked-2024327203836.md",
-    "Cards/obsidian-plugin-uniquenotecreator-2024327200041.md",
     "Extras/Screenshots/screenshot-20241122202002.png",
     "Extras/Screenshots/screenshot-20241122201636.png",
-    "+ Encounters/+ Encounters.md",
     "Extras/Screenshots/screenshot-20241122200219.png",
-    "Atlas/mansionoftherake.md",
-    "Cards/spell-wordoflinking-pinterest-2024327192524.md",
-    "Special Interests/01 Projects/dream-00@/dream-00@-pinterest-technicalboy89-2024327173020.md",
     "Extras/Screenshots/screenshot-20241119234730.png",
     "Atlas/Atlas.canvas",
     "Extras/Pictures/year-of-our-lord.png",
@@ -307,7 +307,6 @@
     "Extras/Pictures/creation-of-adam.png",
     "Extras/Pictures/abyss.png",
     "Special Interests/Special Interests.canvas",
-    "Extras/Pictures/barlgura.png",
     "Extras/Screenshots",
     "LICENSE",
     "Special Interests/01 Projects/dream-00@",
