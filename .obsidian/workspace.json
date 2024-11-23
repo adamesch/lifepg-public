@@ -40,87 +40,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Special Interests/03 Resources/Inventory/boardofdreamsandterrors-2024327224249.md",
+                "file": "+ Encounters/terror-21C-14W-2024328000232.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "boardofdreamsandterrors-2024327224249"
-            }
-          },
-          {
-            "id": "2b6d7c2d8db34759",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/ship-titanic-2024327214930.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ship-titanic-2024327214930"
-            }
-          },
-          {
-            "id": "b031f3f12ed200a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/source-quote-movie-thetitanic-2024327221940.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "source-quote-movie-thetitanic-2024327221940"
-            }
-          },
-          {
-            "id": "28d63a04855cf1d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/person-jamescameron-2024327223034.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "person-jamescameron-2024327223034"
-            }
-          },
-          {
-            "id": "462ce5fc128ac974",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/indifference.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "indifference"
-            }
-          },
-          {
-            "id": "9178b5f72dfa32f8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "terror-21C-14W-2024328000232"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,6 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "+ Encounters/terror-21C-14W-2024328000232.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -213,14 +144,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of terror-21C-14W-2024328000232"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 413.5
   },
   "right": {
     "id": "90a8e7babffe5ce9",
@@ -236,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "+ Encounters/terror-21C-14W-2024328000232.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +177,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for terror-21C-14W-2024328000232"
             }
           },
           {
@@ -280,9 +212,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "+ Encounters/terror-21C-14W-2024328000232.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of terror-21C-14W-2024328000232"
             }
           },
           {
@@ -334,7 +268,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 346.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -348,23 +283,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9178b5f72dfa32f8",
+  "active": "8cd1c185cfa19241",
   "lastOpenFiles": [
+    "+ Encounters/terror-21C-19H-2024328000204.md",
+    "+ Encounters/terror-21C-14W-2024328000232.md",
+    "+ Encounters/terror-21C-03S-2024328000146.md",
+    "Special Interests/01 Projects/terror-13N/terror-11D-09I-2024327235837.md",
+    "Special Interests/01 Projects/terror-13N/terror-11D-05X-1-2024327235914.md",
+    "Special Interests/01 Projects/terror-13N/terror-11D-05X-2-2024327235947.md",
+    "Special Interests/01 Projects/terror-13N/terror-11D-04M-4-2024327235732.md",
+    "Special Interests/01 Projects/terror-13N/terror-11D-04M-3-2024327235641.md",
+    "Special Interests/01 Projects/terror-13N/terror-11D-04M-2-2024327235558.md",
+    "Special Interests/01 Projects/terror-13N/terror-11D-04M-1-2024327235501.md",
+    "Special Interests/01 Projects/terror-13N/terror-11D-01F-2024327235244.md",
+    "Special Interests/01 Projects/terror-13N",
     "Special Interests/03 Resources/Inventory/boardofdreamsandterrors-2024327224249.md",
+    "Cards/ship-titanic-2024327214930.md",
+    "Sources/source-quote-movie-thetitanic-2024327221940.md",
+    "Cards/person-jamescameron-2024327223034.md",
+    "Atlas/indifference.md",
     "Special Interests/01 Projects/terror-18C",
     "Special Interests/01 Projects/terror-10K",
     "Special Interests/01 Projects/dream-02E",
     "Special Interests/01 Projects/dream-01S",
     "Special Interests/01 Projects/dream-13A",
     "Home.md",
-    "Atlas/indifference.md",
     "Special Interests/03 Resources/Inventory",
     "Special Interests/01 Projects/dream-23Y",
-    "Cards/ship-titanic-2024327214930.md",
     "Special Interests/01 Projects/dream-22T/dream-22T-Nov2024-2024327214738.md",
-    "Cards/person-jamescameron-2024327223034.md",
     "Extras/Pictures/james-cameron.png",
-    "Sources/source-quote-movie-thetitanic-2024327221940.md",
     "Sources/source-quote-elonmusk-2024325111648.md",
     "Sources/source-tv-series-thexfiles-2024327215247.md",
     "Special Interests/01 Projects/dream-22T/dream-22T-2024327213205.md",
@@ -374,16 +321,6 @@
     "Extras/Pictures/20240512135651-protected-intensity-DEFAULT-V2.jpg",
     "Special Interests/01 Projects/dream-00@/dream-00@-2024276131549.md",
     "Cards/obsidian-plugin-uniquenotecreator-2024327200041.md",
-    "Cards/obsidian-plugin-templater-2024327202347.md",
-    "Cards/pkm-uniquenote-2024327193758.md",
-    "Extras/Templates/template-uniquenote.md",
-    "Extras/Templates/template-block-spatialnavigation.md",
-    "Cards/test-templater-temporalnavigation-2024327205426.md",
-    "Extras/Templates/template-block-temporalnavigation.md",
-    "+ Encounters/test-templater-month-2024327203359.md",
-    "+ Encounters/test-templater-quarter-2024327203230.md",
-    "+ Encounters/test-templater-week-2024327203624.md",
-    "+ Encounters/test-templater-year-2024327203050.md",
     "Extras/Screenshots/screenshot-20241122202002.png",
     "Extras/Screenshots/screenshot-20241122201636.png",
     "Extras/Screenshots/screenshot-20241122200219.png",
@@ -395,7 +332,6 @@
     "Extras/Pictures/porque-no-los-dos.png",
     "Extras/Pictures/creation-of-adam.png",
     "Special Interests/Special Interests.canvas",
-    "Extras/Screenshots",
-    "LICENSE"
+    "Extras/Screenshots"
   ]
 }

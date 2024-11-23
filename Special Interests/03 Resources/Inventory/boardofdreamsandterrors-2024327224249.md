@@ -52,6 +52,11 @@ related:
 - Y
 - Z
 
+# log
+
+- 2024-10-19: collapsed financial terrors in [[terror-11D-2024275124509|terror-11D]] by declaring bankruptcy
+- 2024-11-22: redefined terror-03S
+
 ***
 
 up:: 
