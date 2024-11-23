@@ -7,6 +7,7 @@ tags:
   - pkm
   - plugin
   - templater
+  - app
 related:
 ---
 

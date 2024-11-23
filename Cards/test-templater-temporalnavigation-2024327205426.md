@@ -7,7 +7,7 @@ tags:
 related:
 ---
 
-this note was successfully linked to the year, quarter, month, week, date, day, and hour it was created using the [[obsidian-plugin-templater-2024327202347|Templater]] plugin. all notes created after this note will be pinned to time in the same way.
+this note was successfully linked to the year, quarter, month, week, date, day, and hour it was created using the [[app-obsidian-plugin-templater-2024327202347|Templater]] plugin. all notes created after this note will be pinned to time in the same way.
 
 ***
 

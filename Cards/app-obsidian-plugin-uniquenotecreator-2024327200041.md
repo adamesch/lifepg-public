@@ -13,7 +13,7 @@ related:
 
 ![[screenshot-20241122200219.png]]
 
-This is a screenshot of the settings used for the [[obsidian-plugin-uniquenotecreator-2024327200041|Unique Note Creator]] plugin:
+This is a screenshot of the settings used for the [[app-obsidian-plugin-uniquenotecreator-2024327200041|Unique Note Creator]] plugin:
 
 - newly created notes are saved to [[+ Encounters]]
 - newly created notes are made from the [[template-uniquenote]] note (saved under Extras/Templates)
