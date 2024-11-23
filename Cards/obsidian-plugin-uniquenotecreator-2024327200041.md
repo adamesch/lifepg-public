@@ -7,6 +7,7 @@ tags:
   - pkm
   - screenshot
   - plugin
+  - uniquenotecreator
 related:
 ---
 
@@ -19,7 +20,6 @@ This is a screenshot of the settings used for the [[obsidian-plugin-uniquenotecr
 - the `YYYYDDDDHHmmss` unique prefix format results in newly created notes being prefixed with a 13-digit ID
 	- `DDDD` is the moment.js token for day of the year (e.g. "123")
 	- `DDDo` is the moment.js token for the ordinal day of the year (e.g. "123rd")
-
 
 ***
 

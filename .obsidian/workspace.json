@@ -4,156 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "79f7f03c04717515",
-        "type": "split",
+        "id": "20d383014f0a8233",
+        "type": "tabs",
         "children": [
           {
-            "id": "20d383014f0a8233",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2572a4cf8495d599",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Home.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Home"
-                }
+            "id": "2572a4cf8495d599",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              {
-                "id": "77c7905407371a1b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Atlas/mansionoftherake.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "mansionoftherake"
-                }
-              },
-              {
-                "id": "98430c2a86249740",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "+ Encounters/pkm-uniquenote-2024327193758.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "pkm-uniquenote-2024327193758"
-                }
-              },
-              {
-                "id": "1f1229bd1cf25028",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "+ Encounters/obsidian-plugin-uniquenotecreator-2024327200041.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "obsidian-plugin-uniquenotecreator-2024327200041"
-                }
-              },
-              {
-                "id": "3f136d9c55a7a4ac",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "+ Encounters/obsidian-plugin-templater-2024327202347.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "obsidian-plugin-templater-2024327202347"
-                }
-              }
-            ]
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
           },
           {
-            "id": "2a68d4173d81a5a6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ff5d3c2765b0f7bc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Extras/Templates/template-uniquenote.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "template-uniquenote"
-                }
-              },
-              {
-                "id": "da7e6aba994a06f6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Extras/Templates/template-block-spatialnavigation.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "template-block-spatialnavigation"
-                }
-              },
-              {
-                "id": "1926fac7cab253ed",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "+ Encounters/test-templater-temporalnavigation-2024327205426.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "test-templater-temporalnavigation-2024327205426"
-                }
-              },
-              {
-                "id": "babaec1e34e1e335",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ],
-            "currentTab": 1
+            "id": "39e1ecfdce654cb0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Extras/Templates/template-block-spatialnavigation.md",
+                "file": "Cards/obsidian-plugin-uniquenotecreator-2024327200041.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -247,7 +129,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of template-block-spatialnavigation"
+              "title": "Graph of obsidian-plugin-uniquenotecreator-2024327200041"
             }
           }
         ]
@@ -270,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Templates/template-block-spatialnavigation.md",
+                "file": "Cards/obsidian-plugin-uniquenotecreator-2024327200041.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for template-block-spatialnavigation"
+              "title": "Backlinks for obsidian-plugin-uniquenotecreator-2024327200041"
             }
           },
           {
@@ -316,10 +198,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Templates/template-block-spatialnavigation.md"
+                "file": "Cards/obsidian-plugin-uniquenotecreator-2024327200041.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of template-block-spatialnavigation"
+              "title": "Outline of obsidian-plugin-uniquenotecreator-2024327200041"
             }
           },
           {
@@ -385,14 +267,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da7e6aba994a06f6",
+  "active": "df50364d9a50475f",
   "lastOpenFiles": [
+    "Cards/obsidian-plugin-templater-2024327202347.md",
+    "Cards/pkm-uniquenote-2024327193758.md",
+    "Extras/Templates/template-uniquenote.md",
+    "Extras/Templates/template-block-spatialnavigation.md",
+    "Cards/test-templater-temporalnavigation-2024327205426.md",
     "Extras/Templates/template-block-temporalnavigation.md",
-    "+ Encounters/test-templater-temporalnavigation-2024327205426.md",
     "Atlas/indifference.md",
     "Home.md",
     "Atlas/gutteringgrove.md",
-    "Extras/Templates/template-uniquenote.md",
     "+ Encounters/test-templater-month-2024327203359.md",
     "+ Encounters/test-templater-quarter-2024327203230.md",
     "+ Encounters/test-templater-week-2024327203624.md",
@@ -405,9 +290,7 @@
     "+ Encounters/test-templater-date-linked-2024327204252.md",
     "Atlas/layer-099.md",
     "+ Encounters/test-templater-date-unlinked-2024327203836.md",
-    "+ Encounters/pkm-uniquenote-2024327193758.md",
-    "+ Encounters/obsidian-plugin-templater-2024327202347.md",
-    "+ Encounters/obsidian-plugin-uniquenotecreator-2024327200041.md",
+    "Cards/obsidian-plugin-uniquenotecreator-2024327200041.md",
     "Extras/Screenshots/screenshot-20241122202002.png",
     "Extras/Screenshots/screenshot-20241122201636.png",
     "+ Encounters/+ Encounters.md",
@@ -415,7 +298,6 @@
     "Atlas/mansionoftherake.md",
     "Cards/spell-wordoflinking-pinterest-2024327192524.md",
     "Special Interests/01 Projects/dream-00@/dream-00@-pinterest-technicalboy89-2024327173020.md",
-    "Special Interests/03 Resources/Spellbook/spell-wordoflinking-2024325132558.md",
     "Extras/Screenshots/screenshot-20241119234730.png",
     "Atlas/Atlas.canvas",
     "Extras/Pictures/year-of-our-lord.png",

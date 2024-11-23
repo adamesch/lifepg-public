@@ -6,6 +6,7 @@ tags:
   - obsidian
   - pkm
   - plugin
+  - templater
 related:
 ---
 
