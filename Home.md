@@ -19,7 +19,7 @@ tags:
 | [[mindofevil\|layer-111]]             | [[mindofevil\|Mind of Evil]]                                    |                                                                 |
 | [[rottingplain\|layer-181]]           | [[rottingplain\|Rotting Plain]]                                 |                                                                 |
 | [[brokenscale\|layer-333]]            | [[brokenscale\|Broken Scale]]                                   |                                                                 |
-| [[layer-348]]                         | [[indifference\|Indifference]]                                  | useless notes are linked to [[indifference\|Indifference]]      |
+| [[indifference\|layer-348]]           | [[indifference\|Indifference]]                                  | useless notes are linked to [[indifference\|Indifference]]      |
 | [[guttlevetch\|layer-480]]            | [[guttlevetch\|Guttlevetch]]                                    |                                                                 |
 | [[mansionoftherake\|layer-487]]       | [[mansionoftherake\|Lair of the Beast and Mansion of the Rake]] |                                                                 |
 | [[noisomevale\|layer-489]]            | [[noisomevale\|Noisome Vale]]                                   |                                                                 |
