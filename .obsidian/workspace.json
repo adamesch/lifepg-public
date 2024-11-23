@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/obsidian-plugin-uniquenotecreator-2024327200041.md",
+                "file": "+ Encounters/pkm-uniquenote-2024327193758.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -164,14 +164,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of obsidian-plugin-uniquenotecreator-2024327200041"
+              "title": "Graph of pkm-uniquenote-2024327193758"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 695.5
   },
   "right": {
     "id": "90a8e7babffe5ce9",
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Encounters/obsidian-plugin-uniquenotecreator-2024327200041.md",
+                "file": "+ Encounters/pkm-uniquenote-2024327193758.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for obsidian-plugin-uniquenotecreator-2024327200041"
+              "title": "Backlinks for pkm-uniquenote-2024327193758"
             }
           },
           {
@@ -233,10 +233,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Encounters/obsidian-plugin-uniquenotecreator-2024327200041.md"
+                "file": "+ Encounters/pkm-uniquenote-2024327193758.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of obsidian-plugin-uniquenotecreator-2024327200041"
+              "title": "Outline of pkm-uniquenote-2024327193758"
             }
           },
           {
@@ -302,13 +302,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f1229bd1cf25028",
+  "active": "df50364d9a50475f",
   "lastOpenFiles": [
-    "Extras/+ Unsorted/ScreenFloat Shot of Obsidian at Nov 22, 2024 at 20_02_19.png",
-    "+ Encounters/obsidian-plugin-uniquenotecreator-2024327200041.md",
-    "+ Encounters/pkm-uniquenote-2024327193758.md",
-    "Atlas/mansionoftherake.md",
+    "Extras/Screenshots/screenshot-20241122202002.png",
     "Extras/Templates/template-uniquenote.md",
+    "+ Encounters/pkm-uniquenote-2024327193758.md",
+    "Extras/Screenshots/screenshot-20241122201636.png",
+    "+ Encounters/obsidian-plugin-uniquenotecreator-2024327200041.md",
+    "+ Encounters/+ Encounters.md",
+    "Extras/Screenshots/screenshot-20241122200219.png",
+    "Atlas/mansionoftherake.md",
     "Cards/spell-wordoflinking-pinterest-2024327192524.md",
     "Special Interests/01 Projects/dream-00@/dream-00@-pinterest-technicalboy89-2024327173020.md",
     "Special Interests/03 Resources/Spellbook/spell-wordoflinking-2024325132558.md",
@@ -329,7 +332,6 @@
     "Cards/spell-wordoflinking-substack-2024327161405.md",
     "Cards/spell-wordoflinking-shop-2024327151212.md",
     "Cards/spell-wordoflinking-patreon-2024327151954.md",
-    "Cards/spell-wordoflinking-onlyfans-2024327153724.md",
     "Extras/Screenshots/screenshot-20241119234730.png",
     "Atlas/Atlas.canvas",
     "Extras/Pictures/year-of-our-lord.png",
@@ -341,7 +343,6 @@
     "Special Interests/Special Interests.canvas",
     "Extras/Pictures/barlgura.png",
     "Extras/Pictures/its-dangerous-to-go-alone.png",
-    "Extras/Pictures/terror-11D-sigil.png",
     "Extras/Screenshots",
     "LICENSE",
     "Special Interests/01 Projects/dream-00@",
