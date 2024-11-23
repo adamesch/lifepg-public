@@ -25,32 +25,17 @@
             }
           },
           {
-            "id": "63e9d898d2ad3508",
+            "id": "afec2bc9bf6d42f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "8cd1c185cfa19241",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ Encounters/terror-21C-14W-2024328000232.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "terror-21C-14W-2024328000232"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +101,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/terror-21C-14W-2024328000232.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -144,14 +128,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of terror-21C-14W-2024328000232"
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 299.5
   },
   "right": {
     "id": "90a8e7babffe5ce9",
@@ -167,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Encounters/terror-21C-14W-2024328000232.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for terror-21C-14W-2024328000232"
+              "title": "Backlinks"
             }
           },
           {
@@ -212,11 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "+ Encounters/terror-21C-14W-2024328000232.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of terror-21C-14W-2024328000232"
+              "title": "Outline"
             }
           },
           {
@@ -283,11 +264,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8cd1c185cfa19241",
+  "active": "afec2bc9bf6d42f0",
   "lastOpenFiles": [
-    "+ Encounters/terror-21C-19H-2024328000204.md",
-    "+ Encounters/terror-21C-14W-2024328000232.md",
-    "+ Encounters/terror-21C-03S-2024328000146.md",
+    "Cards/timeblock-monthday-22.md",
+    "Special Interests/03 Resources/Inventory/boardofdreamsandterrors-2024327224249.md",
+    "Special Interests/01 Projects/terror-13N/terror-11D-22O-07G-2024328000550.md",
+    "+ Encounters/helloworld-2024275132515.md",
+    "Special Interests/01 Projects/terror-13N/terror-11D-22O-16J-2024328000654.md",
+    "Special Interests/01 Projects/terror-13N/terror-11D-21C-19H-2024328000204.md",
+    "Special Interests/01 Projects/terror-13N/terror-11D-21C-14W-2024328000232.md",
+    "Special Interests/01 Projects/terror-13N/terror-11D-21C-03S-2024328000146.md",
     "Special Interests/01 Projects/terror-13N/terror-11D-09I-2024327235837.md",
     "Special Interests/01 Projects/terror-13N/terror-11D-05X-1-2024327235914.md",
     "Special Interests/01 Projects/terror-13N/terror-11D-05X-2-2024327235947.md",
@@ -297,7 +283,6 @@
     "Special Interests/01 Projects/terror-13N/terror-11D-04M-1-2024327235501.md",
     "Special Interests/01 Projects/terror-13N/terror-11D-01F-2024327235244.md",
     "Special Interests/01 Projects/terror-13N",
-    "Special Interests/03 Resources/Inventory/boardofdreamsandterrors-2024327224249.md",
     "Cards/ship-titanic-2024327214930.md",
     "Sources/source-quote-movie-thetitanic-2024327221940.md",
     "Cards/person-jamescameron-2024327223034.md",
@@ -316,11 +301,7 @@
     "Sources/source-tv-series-thexfiles-2024327215247.md",
     "Special Interests/01 Projects/dream-22T/dream-22T-2024327213205.md",
     "Cards/app-fantastical-2024327092140.md",
-    "Atlas/guttlevetch.md",
-    "Atlas/gutteringgrove.md",
     "Extras/Pictures/20240512135651-protected-intensity-DEFAULT-V2.jpg",
-    "Special Interests/01 Projects/dream-00@/dream-00@-2024276131549.md",
-    "Cards/obsidian-plugin-uniquenotecreator-2024327200041.md",
     "Extras/Screenshots/screenshot-20241122202002.png",
     "Extras/Screenshots/screenshot-20241122201636.png",
     "Extras/Screenshots/screenshot-20241122200219.png",
