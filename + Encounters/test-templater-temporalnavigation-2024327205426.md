@@ -1,7 +1,9 @@
 ---
 aliases:
-  - "2024327204252"
-tags: []
+  - "2024327205426"
+tags:
+  - test
+  - templater
 related:
 ---
 
@@ -12,7 +14,7 @@ related:
 up:: 
 back:: 
 forward:: 
-layer:: [[layer-099]]
+layer:: [[indifference|layer-348]]
 
 ***
 
@@ -21,5 +23,7 @@ quarter:: [[timeblock-quarter-4|Q4]]
 month:: [[timeblock-month-11|November]]
 week:: [[timeblock-week-47|W47]]
 date:: [[timeblock-date-Nov22|Nov 22]]
+day:: [[timeblock-weekday-5|Friday]] ([[timeblock-monthday-22|22nd]])
+hour:: [[timeblock-hour-20|H20]]
 
 ***

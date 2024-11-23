@@ -8,8 +8,8 @@ tags:
 
 # snippet templates
 
-- note temporal anchor: [[template-temporalanchor]]
-- note spatial navigation: [[template-spatialnavigation]]
+- note temporal anchor: [[template-block-temporalnavigation]]
+- note spatial navigation: [[template-block-spatialnavigation]]
 
 # note templates
 
