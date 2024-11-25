@@ -29,7 +29,7 @@ related:
 | [[timeblock-monthday-20\|20th]] |                              | dream-20D                              | terror-20B                               |
 | [[timeblock-monthday-21\|21st]] |                              | dream-21Z                              | terror-21A                               |
 | [[timeblock-monthday-22\|22nd]] |                              | [[dream-22T-2024327213205\|dream-22T]] |                                          |
-| [[timeblock-monthday-23\|23rd]] |                              | dream-23Y                              | terror-23L                               |
+| [[timeblock-monthday-23\|23rd]] |                              | [[dream-23Y-2024330095857\|dream-23Y]] | terror-23L                               |
 | [[timeblock-monthday-24\|24th]] |                              | dream-24V                              | terror-24V                               |
 | [[timeblock-monthday-25\|25th]] |                              | dream-25X                              | terror-25P                               |
 | [[timeblock-monthday-26\|26th]] |                              | dream-26O                              | terror-26T                               |
