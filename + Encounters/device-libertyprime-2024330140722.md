@@ -1,10 +1,11 @@
 ---
 aliases:
-  - "2024330140522"
-  - gibson
+  - "2024330140722"
+  - Liberty Prime
 tags:
   - device
-  - gibson
+  - libertyprime
+  - ios
   - eschnet
 related:
 ---

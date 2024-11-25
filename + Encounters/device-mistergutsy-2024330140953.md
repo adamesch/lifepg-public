@@ -1,12 +1,14 @@
 ---
 aliases:
-  - "2024330140522"
-  - gibson
+  - "2024330140953"
+  - Mister Gutsy
 tags:
   - device
-  - gibson
+  - watchos
+  - apple
   - eschnet
 related:
+  - "[[device-libertyprime-2024330140722|Liberty Prime]]"
 ---
 
 

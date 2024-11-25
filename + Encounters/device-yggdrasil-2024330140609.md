@@ -1,10 +1,9 @@
 ---
 aliases:
-  - "2024330140522"
-  - gibson
+  - "2024330140609"
 tags:
   - device
-  - gibson
+  - yggdrasil
   - eschnet
 related:
 ---

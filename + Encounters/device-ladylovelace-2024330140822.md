@@ -1,10 +1,11 @@
 ---
 aliases:
-  - "2024330140522"
-  - gibson
+  - "2024330140822"
+  - Lady Lovelace
 tags:
   - device
-  - gibson
+  - ladylovelace
+  - ipados
   - eschnet
 related:
 ---

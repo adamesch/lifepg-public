@@ -1,11 +1,12 @@
 ---
 aliases:
-  - "2024330140522"
-  - gibson
+  - "2024330141308"
 tags:
   - device
-  - gibson
+  - blackbetty
+  - macos
   - eschnet
+  - apple
 related:
 ---
 

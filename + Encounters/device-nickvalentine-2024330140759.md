@@ -1,10 +1,10 @@
 ---
 aliases:
-  - "2024330140522"
-  - gibson
+  - "2024330140759"
 tags:
   - device
-  - gibson
+  - nickvalentine
+  - ipados
   - eschnet
 related:
 ---
