@@ -13,6 +13,7 @@ this reddit thread had the solution to the error you encountered in [[thread-obs
 ![[screenshot-20241119234730.png]]
 
 
+
 ***
 
 up:: 
