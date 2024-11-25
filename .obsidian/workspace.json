@@ -53,24 +53,8 @@
               "icon": "lucide-file",
               "title": "dream-01S-service-buildabusiness-2024328003657"
             }
-          },
-          {
-            "id": "cd9a4041496eab72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Special Interests/03 Resources/Inventory/boardofdreamsandterrors-2024327224249.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "boardofdreamsandterrors-2024327224249"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Special Interests/03 Resources/Inventory/boardofdreamsandterrors-2024327224249.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -164,14 +148,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of boardofdreamsandterrors-2024327224249"
+              "title": "Graph of Home"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 488.5
+    "width": 488.5,
+    "collapsed": true
   },
   "right": {
     "id": "90a8e7babffe5ce9",
@@ -283,28 +268,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cd9a4041496eab72",
+  "active": "2572a4cf8495d599",
   "lastOpenFiles": [
-    "+ Encounters/ship-koru-2024330103539.md",
+    "+ Encounters/dream-01S-service-buildabusiness-2024328003657.md",
+    "Atlas/brokenscale.md",
+    "Special Interests/01 Projects/terror-13N/terror-11D-04M-3-2024327235641.md",
+    "Atlas/layer-099.md",
+    "Special Interests/01 Projects/dream-23Y/dream-23Y-2024330095857.md",
+    "Cards/ship-koru-2024330103539.md",
+    "Cards/person-jeffbezos-2024330103553.md",
+    "Special Interests/03 Resources/Inventory/boardofdreamsandterrors-2024327224249.md",
     "Home.md",
-    "+ Encounters/dream-23Y-Nov2024-2024330100159.md",
+    "Special Interests/01 Projects/dream-23Y/dream-23Y-Nov2024-2024330100159.md",
     "Atlas/shendilavri.md",
-    "+ Encounters/person-jeffbezos-2024330103553.md",
     "Extras/Pictures/jeff-bezos.png",
     "Cards/person-jamescameron-2024327223034.md",
     "Special Interests/01 Projects/dream-22T/dream-22T-Nov2024-2024327214738.md",
     "Extras/Pictures/koru.png",
-    "Special Interests/03 Resources/Inventory/boardofdreamsandterrors-2024327224249.md",
-    "Special Interests/01 Projects/dream-23Y/dream-23Y-2024330095857.md",
     "Sources/source-post-reddit-2024324234256.md",
-    "+ Encounters/dream-01S-service-buildabusiness-2024328003657.md",
     "+ Encounters/dream-01S-service-buildaemployee-2024328010000.md",
     "+ Encounters/dream-13A-aiemployee-1-2024328003339.md",
     "+ Encounters/dream-13A-aiemployee-2-2024328003405.md",
     "+ Encounters/dream-13A-aiemployee-3-2024328003508.md",
     "Cards/document-2024328003630.md",
     "Atlas/grandabyss.md",
-    "Atlas/brokenscale.md",
     "Special Interests/04 Archive/Documents/dream-01S-service-buildaemployee-foundingdoc.pdf",
     "Special Interests/04 Archive/Documents",
     "Cards/app-obsidian-plugin-uniquenotecreator-2024327200041.md",
@@ -313,8 +300,6 @@
     "Special Interests/01 Projects/terror-13N/terror-11D-22O-07G-2024328000550.md",
     "+ Encounters/helloworld-2024275132515.md",
     "Special Interests/01 Projects/terror-13N/terror-11D-22O-16J-2024328000654.md",
-    "Special Interests/01 Projects/terror-13N/terror-11D-21C-19H-2024328000204.md",
-    "Special Interests/01 Projects/terror-13N/terror-11D-21C-14W-2024328000232.md",
     "Special Interests/01 Projects/terror-13N",
     "Special Interests/01 Projects/terror-18C",
     "Special Interests/01 Projects/terror-10K",
@@ -324,7 +309,7 @@
     "Special Interests/03 Resources/Inventory",
     "Special Interests/01 Projects/dream-23Y",
     "Extras/Pictures/james-cameron.png",
-    "Extras/Pictures/20240512135651-protected-intensity-DEFAULT-V2.jpg",
+    "Extras/Pictures/wg-bs-20240512135651.jpg",
     "Extras/Screenshots/screenshot-20241122202002.png",
     "Extras/Screenshots/screenshot-20241122201636.png",
     "Extras/Screenshots/screenshot-20241122200219.png",
