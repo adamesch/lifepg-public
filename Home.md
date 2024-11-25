@@ -15,6 +15,7 @@ tags:
 | [[ironwastes\|layer-023]]             | [[ironwastes\|Iron Wastes]]                                     | app/toolset notes are linked to the [[ironwastes\|Iron Wastes]] |                                             |
 | [[voorzzt\|layer-047]]                | [[voorzzt\|Voorz'zt]]                                           |                                                                 |                                             |
 | [[wellsofdarkness\|layer-073]]        | [[wellsofdarkness\|Wells of Darkness]]                          |                                                                 |                                             |
+| layer-089                             | Shadowsea                                                       |                                                                 | see: dream-20D                              |
 | [[gutteringgrove\|layer-090]]         | [[gutteringgrove\|Guttering Grove]]                             |                                                                 |                                             |
 | [[layer-099]]                         |                                                                 |                                                                 |                                             |
 | [[mindofevil\|layer-111]]             | [[mindofevil\|Mind of Evil]]                                    |                                                                 |                                             |
@@ -26,6 +27,7 @@ tags:
 | [[noisomevale\|layer-489]]            | [[noisomevale\|Noisome Vale]]                                   |                                                                 |                                             |
 | [[layer-500]]                         |                                                                 |                                                                 |                                             |
 | [[torremor\|layer-503]]               | [[torremor\|Torremor]]                                          |                                                                 |                                             |
+| layer-524                             | Shatterstone                                                    |                                                                 | see: dream-24V, terror-24V                  |
 | [[shendilavri\|layer-570]]            | [[shendilavri\|Shendilavri]]                                    |                                                                 | see: [[dream-23Y-2024330095857\|dream-23Y]] |
 
 
