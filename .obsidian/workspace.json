@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,6 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Cards/eschnet-interface-blackbetty-2024330141308.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -143,7 +144,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of eschnet-interface-blackbetty-2024330141308"
             }
           }
         ]
@@ -261,7 +262,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e207903fd1191b9d",
+  "active": "cc2eb4f80a0b89f5",
   "lastOpenFiles": [
     "Home.md",
     "Cards/eschnet-interface-blackbetty-2024330141308.md",
