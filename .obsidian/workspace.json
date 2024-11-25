@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "eschnet-interface-blackbetty-2024330141308"
             }
+          },
+          {
+            "id": "f543b8fd1fedcc1f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +126,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/eschnet-interface-blackbetty-2024330141308.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -144,7 +153,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of eschnet-interface-blackbetty-2024330141308"
+              "title": "Graph view"
             }
           }
         ]
@@ -262,10 +271,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cc2eb4f80a0b89f5",
+  "active": "f543b8fd1fedcc1f",
   "lastOpenFiles": [
-    "Home.md",
     "Cards/eschnet-interface-blackbetty-2024330141308.md",
+    "Home.md",
     "Cards/eschnet-server-neuromancer-2024330141838.md",
     "Atlas/Atlas.canvas",
     "+ Encounters/eschnet-interface-zora-2024330140505.md",
