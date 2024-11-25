@@ -1,14 +1,14 @@
 ---
 aliases:
-  - "2024330140953"
-  - Mister Gutsy
+  - "2024330140822"
+  - Lady Lovelace
 tags:
-  - device
-  - watchos
-  - apple
+  - ladylovelace
+  - ipados
   - eschnet
+  - interface
+  - apple
 related:
-  - "[[device-libertyprime-2024330140722|Liberty Prime]]"
 ---
 
 

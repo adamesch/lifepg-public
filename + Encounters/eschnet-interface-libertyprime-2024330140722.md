@@ -1,12 +1,13 @@
 ---
 aliases:
-  - "2024330140822"
-  - Lady Lovelace
+  - "2024330140722"
+  - Liberty Prime
 tags:
-  - device
-  - ladylovelace
-  - ipados
+  - libertyprime
+  - ios
   - eschnet
+  - interface
+  - apple
 related:
 ---
 

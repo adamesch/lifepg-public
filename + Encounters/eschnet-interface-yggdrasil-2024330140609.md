@@ -1,11 +1,11 @@
 ---
 aliases:
-  - "2024330140505"
-  - zora
+  - "2024330140609"
 tags:
-  - device
-  - zora
+  - yggdrasil
   - eschnet
+  - interface
+  - win10
 related:
 ---
 

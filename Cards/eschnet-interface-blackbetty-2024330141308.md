@@ -2,11 +2,11 @@
 aliases:
   - "2024330141308"
 tags:
-  - device
   - blackbetty
   - macos
   - eschnet
   - apple
+  - interface
 related:
 ---
 
@@ -17,7 +17,7 @@ related:
 up:: 
 back:: 
 forward:: 
-layer:: [[layer-099]]
+layer:: [[slimepits|layer-222]]
 
 ***
 

@@ -1,12 +1,13 @@
 ---
 aliases:
-  - "2024330140722"
-  - Liberty Prime
+  - "2024330140505"
+  - zora
 tags:
-  - device
-  - libertyprime
-  - ios
+  - zora
   - eschnet
+  - interface
+  - macos
+  - apple
 related:
 ---
 

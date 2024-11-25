@@ -1,12 +1,14 @@
 ---
 aliases:
-  - "2024330140759"
+  - "2024330140953"
+  - Mister Gutsy
 tags:
-  - device
-  - nickvalentine
-  - ipados
+  - watchos
+  - apple
   - eschnet
+  - interface
 related:
+  - "[[eschnet-interface-libertyprime-2024330140722|Liberty Prime]]"
 ---
 
 

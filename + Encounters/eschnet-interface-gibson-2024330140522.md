@@ -1,11 +1,12 @@
 ---
 aliases:
-  - "2024330140423"
-  - chappie
+  - "2024330140522"
+  - gibson
 tags:
-  - device
-  - chappie
+  - gibson
   - eschnet
+  - win11
+  - interface
 related:
 ---
 

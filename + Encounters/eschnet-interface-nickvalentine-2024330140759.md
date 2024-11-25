@@ -1,10 +1,11 @@
 ---
 aliases:
-  - "2024330140609"
+  - "2024330140759"
 tags:
-  - device
-  - yggdrasil
+  - nickvalentine
+  - ipados
   - eschnet
+  - interface
 related:
 ---
 
