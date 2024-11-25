@@ -53,8 +53,19 @@
               "icon": "lucide-file",
               "title": "dream-01S-service-buildabusiness-2024328003657"
             }
+          },
+          {
+            "id": "e207903fd1191b9d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +131,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -148,7 +158,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph view"
             }
           }
         ]
@@ -268,8 +278,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2572a4cf8495d599",
+  "active": "e207903fd1191b9d",
   "lastOpenFiles": [
+    "Home.md",
     "+ Encounters/dream-01S-service-buildabusiness-2024328003657.md",
     "Atlas/brokenscale.md",
     "Special Interests/01 Projects/terror-13N/terror-11D-04M-3-2024327235641.md",
@@ -278,7 +289,6 @@
     "Cards/ship-koru-2024330103539.md",
     "Cards/person-jeffbezos-2024330103553.md",
     "Special Interests/03 Resources/Inventory/boardofdreamsandterrors-2024327224249.md",
-    "Home.md",
     "Special Interests/01 Projects/dream-23Y/dream-23Y-Nov2024-2024330100159.md",
     "Atlas/shendilavri.md",
     "Extras/Pictures/jeff-bezos.png",
