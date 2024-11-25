@@ -68,9 +68,18 @@
               "icon": "lucide-file",
               "title": "boardofdreamsandterrors-2024327224249"
             }
+          },
+          {
+            "id": "4e2e800ba9b48a59",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "72399c09bfa2ab2a",
@@ -216,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/person-jeffbezos-2024330103553.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -244,7 +253,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of person-jeffbezos-2024330103553"
+              "title": "Graph of Home"
             }
           }
         ]
@@ -363,10 +372,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f89f7fad03b8b721",
+  "active": "2572a4cf8495d599",
   "lastOpenFiles": [
-    "+ Encounters/dream-23Y-Nov2024-2024330100159.md",
     "+ Encounters/person-jeffbezos-2024330103553.md",
+    "+ Encounters/dream-23Y-Nov2024-2024330100159.md",
     "+ Encounters/ship-koru-2024330103539.md",
     "Extras/Pictures/jeff-bezos.png",
     "Cards/person-jamescameron-2024327223034.md",
