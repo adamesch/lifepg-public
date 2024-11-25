@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -271,7 +271,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f543b8fd1fedcc1f",
+  "active": "e207903fd1191b9d",
   "lastOpenFiles": [
     "Cards/eschnet-interface-blackbetty-2024330141308.md",
     "Home.md",
