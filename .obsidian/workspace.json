@@ -25,37 +25,7 @@
             }
           },
           {
-            "id": "afec2bc9bf6d42f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/app-obsidian-plugin-uniquenotecreator-2024327200041.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "app-obsidian-plugin-uniquenotecreator-2024327200041"
-            }
-          },
-          {
-            "id": "a6ec7ea7fefdc7d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ Encounters/dream-01S-service-buildabusiness-2024328003657.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "dream-01S-service-buildabusiness-2024328003657"
-            }
-          },
-          {
-            "id": "cd9a4041496eab72",
+            "id": "e207903fd1191b9d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -65,22 +35,22 @@
             }
           },
           {
-            "id": "09a0219ab7569dc6",
+            "id": "cc2eb4f80a0b89f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/source-post-reddit-2024324234256.md",
+                "file": "Cards/eschnet-interface-blackbetty-2024330141308.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "source-post-reddit-2024324234256"
+              "title": "eschnet-interface-blackbetty-2024330141308"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#subscription/annual",
+                "query": "tag:#eschnet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +116,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sources/source-post-reddit-2024324234256.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,14 +143,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of source-post-reddit-2024324234256"
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 488.5
   },
   "right": {
     "id": "90a8e7babffe5ce9",
@@ -230,7 +199,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
@@ -269,17 +238,16 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,11 +261,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "df50364d9a50475f",
+  "active": "e207903fd1191b9d",
   "lastOpenFiles": [
+    "Home.md",
     "Cards/eschnet-interface-blackbetty-2024330141308.md",
     "Cards/eschnet-server-neuromancer-2024330141838.md",
-    "+ Encounters/eschnet-server-neuromancer-2024330141838.md",
+    "Atlas/Atlas.canvas",
     "+ Encounters/eschnet-interface-zora-2024330140505.md",
     "+ Encounters/eschnet-interface-yggdrasil-2024330140609.md",
     "+ Encounters/eschnet-interface-nickvalentine-2024330140759.md",
@@ -306,28 +275,22 @@
     "+ Encounters/eschnet-interface-ladylovelace-2024330140822.md",
     "+ Encounters/eschnet-interface-gibson-2024330140522.md",
     "+ Encounters/eschnet-interface-chappie-2024330140423.md",
-    "+ Encounters/eschnet-interface-blackbetty-2024330141308.md",
     "Atlas/slimepits.md",
-    "Atlas/Untitled.md",
-    "+ Encounters/server-neuromancer-2024330141838.md",
-    "+ Encounters/2024330141838.md",
-    "+ Encounters/interface-zora-2024330140505.md",
-    "+ Encounters/interface-yggdrasil-2024330140609.md",
-    "+ Encounters/interface-nickvalentine-2024330140759.md",
-    "+ Encounters/interface-mistergutsy-2024330140953.md",
-    "+ Encounters/interface-libertyprime-2024330140722.md",
-    "+ Encounters/interface-ladylovelace-2024330140822.md",
-    "+ Encounters/interface-gibson-2024330140522.md",
-    "+ Encounters/interface-chappie-2024330140423.md",
-    "+ Encounters/interface-blackbetty-2024330141308.md",
-    "+ Encounters/device-blackbetty-2024330141308.md",
-    "Extras/Pictures/wg-bs-20240512135651.jpg",
+    "+ Encounters/dream-01S-service-buildabusiness-2024328003657.md",
+    "Cards/app-obsidian-plugin-uniquenotecreator-2024327200041.md",
+    "Special Interests/01 Projects/dream-00@/dream-00@-reddit-2024330135826.md",
+    "Special Interests/01 Projects/dream-00@/dream-00@-2024276131549.md",
+    "Atlas/brokenscale.md",
+    "Special Interests/01 Projects/terror-13N/terror-11D-04M-3-2024327235641.md",
+    "Atlas/layer-099.md",
+    "Special Interests/01 Projects/dream-23Y/dream-23Y-2024330095857.md",
+    "Cards/ship-koru-2024330103539.md",
+    "Cards/person-jeffbezos-2024330103553.md",
+    "Special Interests/03 Resources/Inventory/boardofdreamsandterrors-2024327224249.md",
+    "Special Interests/01 Projects/dream-23Y/dream-23Y-Nov2024-2024330100159.md",
+    "Atlas/shendilavri.md",
     "Extras/Pictures/jeff-bezos.png",
-    "Extras/+ Unsorted/jeff-bezos.png",
-    "Extras/+ Unsorted/ScreenFloat Shot of Safari at Nov 25, 2024 at 10_38_35.png",
     "Extras/Pictures/koru.png",
-    "Extras/+ Unsorted/koru.png",
-    "Extras/+ Unsorted/ScreenFloat Shot of Safari at Nov 25, 2024 at 10_16_24.png",
     "Special Interests/04 Archive/Documents/dream-01S-service-buildaemployee-foundingdoc.pdf",
     "Special Interests/04 Archive/Documents",
     "Special Interests/01 Projects/terror-13N",
@@ -339,9 +302,13 @@
     "Special Interests/03 Resources/Inventory",
     "Special Interests/01 Projects/dream-23Y",
     "Extras/Pictures/james-cameron.png",
-    "Extras/Pictures/20240512135651-protected-intensity-DEFAULT-V2.jpg",
+    "Extras/Pictures/wg-bs-20240512135651.jpg",
     "Extras/Screenshots/screenshot-20241122202002.png",
-    "Atlas/Atlas.canvas",
+    "Extras/Screenshots/screenshot-20241122201636.png",
+    "Extras/Screenshots/screenshot-20241122200219.png",
+    "Extras/Screenshots/screenshot-20241119234730.png",
+    "Extras/Pictures/year-of-our-lord.png",
+    "Extras/Screenshots/screenshot-20241122091921.png",
     "Special Interests/Special Interests.canvas"
   ]
 }
