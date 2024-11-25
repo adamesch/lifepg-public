@@ -109,9 +109,24 @@
                   "icon": "lucide-file",
                   "title": "person-jamescameron-2024327223034"
                 }
+              },
+              {
+                "id": "f89f7fad03b8b721",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "+ Encounters/person-jeffbezos-2024330103553.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "person-jeffbezos-2024330103553"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "9207247722035361",
@@ -201,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/dream-23Y-Nov2024-2024330100159.md",
+                "file": "+ Encounters/person-jeffbezos-2024330103553.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,7 +244,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of dream-23Y-Nov2024-2024330100159"
+              "title": "Graph of person-jeffbezos-2024330103553"
             }
           }
         ]
@@ -348,10 +363,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bc3caa95c4c45212",
+  "active": "f89f7fad03b8b721",
   "lastOpenFiles": [
-    "+ Encounters/person-jeffbezos-2024330103553.md",
     "+ Encounters/dream-23Y-Nov2024-2024330100159.md",
+    "+ Encounters/person-jeffbezos-2024330103553.md",
     "+ Encounters/ship-koru-2024330103539.md",
     "Extras/Pictures/jeff-bezos.png",
     "Cards/person-jamescameron-2024327223034.md",
