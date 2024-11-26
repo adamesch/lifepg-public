@@ -38,10 +38,15 @@
             "id": "f543b8fd1fedcc1f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "+ Encounters/thread-inboxzero-2024331100531.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "thread-inboxzero-2024331100531"
             }
           }
         ],
@@ -111,6 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "+ Encounters/thread-inboxzero-2024331100531.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -138,7 +144,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of thread-inboxzero-2024331100531"
             }
           }
         ]
@@ -258,6 +264,7 @@
   },
   "active": "f543b8fd1fedcc1f",
   "lastOpenFiles": [
+    "+ Encounters/thread-inboxzero-2024331100531.md",
     "Cards/eschnet-interface-blackbetty-2024330141308.md",
     "Home.md",
     "Cards/eschnet-server-neuromancer-2024330141838.md",
