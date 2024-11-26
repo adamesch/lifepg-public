@@ -7,5 +7,6 @@
   "obsidian-bulk-rename-plugin",
   "multi-properties",
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-tasks-plugin"
 ]
