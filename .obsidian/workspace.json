@@ -40,13 +40,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Special Interests/03 Resources/Inventory/boardofdreamsandterrors-2024327224249.md",
+                "file": "Special Interests/01 Projects/dream-23Y/dream-23Y-2024330095857.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "boardofdreamsandterrors-2024327224249"
+              "title": "dream-23Y-2024330095857"
             }
           },
           {
@@ -68,14 +68,19 @@
             "id": "25c442bb886dfe21",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "+ Encounters/2024331124705.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024331124705"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -141,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Special Interests/03 Resources/Inventory/boardofdreamsandterrors-2024327224249.md",
+                "file": "+ Encounters/2024331124705.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -164,12 +169,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.1861388283332477,
+                  "scale": 0.14994142630494098,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of boardofdreamsandterrors-2024327224249"
+              "title": "Graph of 2024331124705"
             }
           }
         ]
@@ -287,14 +292,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f543b8fd1fedcc1f",
+  "active": "25c442bb886dfe21",
   "lastOpenFiles": [
+    "+ Encounters/2024331124705.md",
     "Special Interests/01 Projects/dream-23Y/dream-23Y-2024330095857.md",
+    "Special Interests/01 Projects/dream-24V",
+    "Special Interests/03 Resources/Inventory/boardofdreamsandterrors-2024327224249.md",
+    "Special Interests/01 Projects/dream-22T/dream-22T-2024327213205.md",
     "Special Interests/01 Projects/dream-23Y/dream-23Y-Nov2024-2024330100159.md",
     "+ Encounters/thread-inboxzero-2024331100531.md",
     "Home.md",
     "Atlas/belistor.md",
-    "Extras/+ Unsorted/screenshot-20241126103004.png",
+    "Extras/Screenshots/screenshot-20241126103004.png",
     "Cards/eschnet-interface-blackbetty-2024330141308.md",
     "Cards/eschnet-server-neuromancer-2024330141838.md",
     "Atlas/Atlas.canvas",
@@ -314,9 +323,6 @@
     "Atlas/brokenscale.md",
     "Special Interests/01 Projects/terror-13N/terror-11D-04M-3-2024327235641.md",
     "Atlas/layer-099.md",
-    "Cards/ship-koru-2024330103539.md",
-    "Cards/person-jeffbezos-2024330103553.md",
-    "Special Interests/03 Resources/Inventory/boardofdreamsandterrors-2024327224249.md",
     "Extras/Pictures/jeff-bezos.png",
     "Extras/Pictures/koru.png",
     "Special Interests/04 Archive/Documents/dream-01S-service-buildaemployee-foundingdoc.pdf",
@@ -328,7 +334,6 @@
     "Special Interests/01 Projects/dream-01S",
     "Special Interests/01 Projects/dream-13A",
     "Special Interests/03 Resources/Inventory",
-    "Special Interests/01 Projects/dream-23Y",
     "Extras/Pictures/james-cameron.png",
     "Extras/Pictures/wg-bs-20240512135651.jpg",
     "Extras/Screenshots/screenshot-20241122202002.png",
