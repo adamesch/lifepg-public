@@ -6,7 +6,6 @@ tags:
   - moc
 ---
 
-
 | layer number                          | layer name                                                      | layer purpose                                                            | notes                                       |
 | ------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------- |
 | [[plainofinfiniteportals\|layer-001]] | [[plainofinfiniteportals\|Plain of Infinite Portals]]           |                                                                          |                                             |
@@ -34,7 +33,6 @@ tags:
 | [[torremor\|layer-503]]               | [[torremor\|Torremor]]                                          | notes in [[torremor\|layer-503]] link to - but not from - template notes |                                             |
 | layer-524                             | Shatterstone                                                    |                                                                          | see: dream-24V, terror-24V                  |
 | [[shendilavri\|layer-570]]            | [[shendilavri\|Shendilavri]]                                    |                                                                          | see: [[dream-23Y-2024330095857\|dream-23Y]] |
-
 
 ***
 
