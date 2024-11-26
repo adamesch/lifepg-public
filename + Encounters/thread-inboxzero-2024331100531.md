@@ -17,20 +17,27 @@ The email did not include 4 steps to reset anything but included some prompts fo
 
 To address the prompt:
 
-In the spring of [[timeblock-year-2022|2022]], [[person-adamesch-1989130030300|Adam]] systematically eliminated every problem in his life, and that light feeling of not having anything to actull
+In the spring of [[timeblock-year-2022|2022]], [[person-adamesch-1989130030300|Adam]] systematically eliminated every problem in his life, and that light feeling of not having anything to worry about -- even temporarily -- fueled a certain "aliveness."
+
+To address the subject:
+
+[[person-adamesch-1989130030300|Adam]] is defining æOSv5 for [[timeblock-year-2025|2025]], and one of the things he does near the end of every year is to reorganize his digital files **everywhere** to better serve him. æOSv5 will be a distributed system, so as of the end of [[timeblock-date-Nov25|Nov 25]], [[timeblock-year-2024|2024]], all of [[person-adamesch-1989130030300|Adam]]'s files have been moved up into the cloud.
+
 
 
 
 # hemingway bridge
 
 - [ ] #task create a note for the concept of #inboxzero #pkm #productivity  [created:: 2024-11-26]
+- [ ] #task create note for #æOS v5 #pkm #productivity  [created:: 2024-11-26]
+- [ ] #task create thread note for having moved all local files to the cloud #pkm #æOS  [created:: 2024-11-26]
 
 ***
 
 up:: 
 back:: 
 forward:: 
-layer:: [[layer-099]]
+layer:: [[belistor|layer-277]]
 
 ***
 
