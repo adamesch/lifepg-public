@@ -4,6 +4,7 @@ aliases:
 tags:
   - thread
   - inboxzero
+  - "#hemingwaybridge"
 related:
 ---
 
@@ -23,14 +24,15 @@ To address the subject:
 
 [[person-adamesch-1989130030300|Adam]] is defining æOSv5 for [[timeblock-year-2025|2025]], and one of the things he does near the end of every year is to reorganize his digital files **everywhere** to better serve him. æOSv5 will be a distributed system, so as of the end of [[timeblock-date-Nov25|Nov 25]], [[timeblock-year-2024|2024]], all of [[person-adamesch-1989130030300|Adam]]'s files have been moved up into the cloud.
 
-
-
+If resetting one's digital life is a 4-step process, [[person-adamesch-1989130030300|Adam]]'s first step to doing this would be to regain a complete understanding of where every digital thing is saved.
 
 # hemingway bridge
 
 - [ ] #task create a note for the concept of #inboxzero #pkm #productivity  [created:: 2024-11-26]
 - [ ] #task create note for #æOS v5 #pkm #productivity  [created:: 2024-11-26]
 - [ ] #task create thread note for having moved all local files to the cloud #pkm #æOS  [created:: 2024-11-26]
+- [ ] #task create a note for the concept of a #hemingwaybridge #pkm #productivity  [created:: 2024-11-26]
+- [ ] #task create a 4-step process for resetting your digital life #pkm #productivity  [created:: 2024-11-26]
 
 ***
 

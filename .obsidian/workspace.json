@@ -63,6 +63,16 @@
               "icon": "lucide-file",
               "title": "belistor"
             }
+          },
+          {
+            "id": "25c442bb886dfe21",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
         "currentTab": 2
@@ -279,9 +289,9 @@
   },
   "active": "f543b8fd1fedcc1f",
   "lastOpenFiles": [
+    "+ Encounters/thread-inboxzero-2024331100531.md",
     "Home.md",
     "Atlas/belistor.md",
-    "+ Encounters/thread-inboxzero-2024331100531.md",
     "Extras/+ Unsorted/screenshot-20241126103004.png",
     "Cards/eschnet-interface-blackbetty-2024330141308.md",
     "Cards/eschnet-server-neuromancer-2024330141838.md",
