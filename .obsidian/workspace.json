@@ -88,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0dfd3d2f4f325f2d",
@@ -247,8 +246,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fe5cd0487a54f49b",
+  "active": "df50364d9a50475f",
   "lastOpenFiles": [
+    "Cards/timeblock-date-Jan14.md",
     "Home.md",
     "Cards/timeblock-date-Mar31.md",
     "Cards/timeblock-date-Apr01.md",
@@ -274,7 +274,6 @@
     "Cards/timeblock-date-Apr20.md",
     "Cards/timeblock-date-Apr21.md",
     "Cards/timeblock-date-Apr22.md",
-    "Cards/timeblock-date-Apr23.md",
     "Special Interests/01 Projects/dream-24V",
     "Extras/Screenshots/screenshot-20241126103004.png",
     "Atlas/Atlas.canvas",

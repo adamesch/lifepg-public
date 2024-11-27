@@ -12,7 +12,7 @@ related:
 
 ***
 
-up:: [[timeblock-month-1]]
+up:: [[timeblock-month-01]]
 back:: [[timeblock-date-Jan13]]
 forward:: [[timeblock-date-Jan15]]
 layer:: 
