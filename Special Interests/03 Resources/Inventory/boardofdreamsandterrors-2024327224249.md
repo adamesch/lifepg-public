@@ -32,9 +32,9 @@ related:
 | [[timeblock-monthday-21\|21st]] |                              | dream-21Z                              | terror-21A                               |
 | [[timeblock-monthday-22\|22nd]] |                              | [[dream-22T-2024327213205\|dream-22T]] |                                          |
 | [[timeblock-monthday-23\|23rd]] |                              | [[dream-23Y-2024330095857\|dream-23Y]] | terror-23L                               |
-| [[timeblock-monthday-24\|24th]] |                              | dream-24V                              | terror-24V                               |
+| [[timeblock-monthday-24\|24th]] |                              | [[dream-24V-2024332130025\|dream-24V]] | terror-24V                               |
 | [[timeblock-monthday-25\|25th]] |                              |                                        | terror-25P                               |
-| [[timeblock-monthday-26\|26th]] |                              | dream-26O                              | terror-26T                               |
+| [[timeblock-monthday-26\|26th]] |                              | [[dream-26O-2024332143213\|dream-26O]] | terror-26T                               |
 | [[timeblock-monthday-27\|27th]] | [[timeblock-weekday-1\|Mon]] | [[dream-00$-2024332112105\|dream-00$]] | [[terror-00$-2024332111810\|terror-00$]] |
 | [[timeblock-monthday-28\|28th]] | [[timeblock-weekday-2\|Tue]] | [[dream-00⌂-2024332124619\|dream-00⌂]] | [[terror-00⌂-2024332124738\|terror-00⌂]] |
 | [[timeblock-monthday-29\|29th]] | [[timeblock-weekday-5\|Fri]] | dream-00φ                              | terror-00φ                               |
