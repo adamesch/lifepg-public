@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "2024327114000"
+  - "May 31"
 tags:
   - timeblock/date
   - temporalanchor
@@ -11,10 +11,9 @@ related: "[[timeblock-monthday-31]]"
 
 ***
 
-up:: [[timeblock-month-12]]
-back:: [[timeblock-date-Dec30]]
-forward:: [[timeblock-date-Jan01]]
+up:: [[timeblock-month-05]]
+back:: [[timeblock-date-May30]]
+forward:: [[timeblock-date-Jun01]]
 layer:: 
 
 ***
-
