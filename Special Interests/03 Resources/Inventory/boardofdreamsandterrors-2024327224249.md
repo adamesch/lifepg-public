@@ -1,7 +1,9 @@
 ---
 aliases:
   - "2024327224249"
-tags: []
+  - Board of Dreams and Terrors
+  - Board of Dreams and Scares
+tags: 
 related:
 ---
 
@@ -34,12 +36,12 @@ related:
 | [[timeblock-monthday-25\|25th]] |                              |                                        | terror-25P                               |
 | [[timeblock-monthday-26\|26th]] |                              | dream-26O                              | terror-26T                               |
 | [[timeblock-monthday-27\|27th]] | [[timeblock-weekday-1\|Mon]] | [[dream-00$-2024332112105\|dream-00$]] | [[terror-00$-2024332111810\|terror-00$]] |
-| [[timeblock-monthday-28\|28th]] | [[timeblock-weekday-2\|Tue]] | [[dream-00⌂-2024332124619\|dream-00⌂]] | terror-00⌂                               |
+| [[timeblock-monthday-28\|28th]] | [[timeblock-weekday-2\|Tue]] | [[dream-00⌂-2024332124619\|dream-00⌂]] | [[terror-00⌂-2024332124738\|terror-00⌂]] |
 | [[timeblock-monthday-29\|29th]] | [[timeblock-weekday-5\|Fri]] | dream-00φ                              | terror-00φ                               |
 | [[timeblock-monthday-30\|30th]] | [[timeblock-weekday-4\|Thu]] | dream-00ε                              | terror-00ε                               |
-| [[timeblock-monthday-31\|31st]] | [[timeblock-weekday-3\|Wed]] | dream-00æ                              | terror-00æ                               |
+| [[timeblock-monthday-31\|31st]] | [[timeblock-weekday-3\|Wed]] | [[dream-00æ-2024332125627\|dream-00æ]] | [[terror-00æ-2024332125633\|terror-00æ]] |
 |                                 | [[timeblock-weekday-6\|Sat]] | dream-00⌘                              | terror-00⌘                               |
-|                                 | [[timeblock-weekday-7\|Sun]] | [[dream-00@-2024276131549\|dream-00@]] | terror-00@                               |
+|                                 | [[timeblock-weekday-7\|Sun]] | [[dream-00@-2024276131549\|dream-00@]] | [[terror-00@-2024332125136\|terror-00@]] |
 
 # unassigned dreams
 
