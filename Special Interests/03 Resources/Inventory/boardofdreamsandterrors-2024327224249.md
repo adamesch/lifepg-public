@@ -31,15 +31,20 @@ related:
 | [[timeblock-monthday-22\|22nd]] |                              | [[dream-22T-2024327213205\|dream-22T]] |                                          |
 | [[timeblock-monthday-23\|23rd]] |                              | [[dream-23Y-2024330095857\|dream-23Y]] | terror-23L                               |
 | [[timeblock-monthday-24\|24th]] |                              | dream-24V                              | terror-24V                               |
-| [[timeblock-monthday-25\|25th]] |                              | dream-25X                              | terror-25P                               |
+| [[timeblock-monthday-25\|25th]] |                              |                                        | terror-25P                               |
 | [[timeblock-monthday-26\|26th]] |                              | dream-26O                              | terror-26T                               |
-| [[timeblock-monthday-27\|27th]] | [[timeblock-weekday-1\|Mon]] | dream-00$                              | terror-00$                               |
+| [[timeblock-monthday-27\|27th]] | [[timeblock-weekday-1\|Mon]] | [[dream-00$-2024332112105\|dream-00$]] | [[terror-00$-2024332111810\|terror-00$]] |
 | [[timeblock-monthday-28\|28th]] | [[timeblock-weekday-2\|Tue]] | dream-00⌂                              | terror-00⌂                               |
 | [[timeblock-monthday-29\|29th]] | [[timeblock-weekday-5\|Fri]] | dream-00φ                              | terror-00φ                               |
 | [[timeblock-monthday-30\|30th]] | [[timeblock-weekday-4\|Thu]] | dream-00ε                              | terror-00ε                               |
 | [[timeblock-monthday-31\|31st]] | [[timeblock-weekday-3\|Wed]] | dream-00æ                              | terror-00æ                               |
 |                                 | [[timeblock-weekday-6\|Sat]] | dream-00⌘                              | terror-00⌘                               |
 |                                 | [[timeblock-weekday-7\|Sun]] | [[dream-00@-2024276131549\|dream-00@]] | terror-00@                               |
+
+# unassigned dreams
+
+- X
+
 # unassigned terrors
 
 - E
@@ -56,6 +61,7 @@ related:
 
 - 2024-10-19: collapsed financial terrors in [[terror-11D-2024275124509|terror-11D]] by declaring bankruptcy
 - 2024-11-22: redefined terror-03S
+- 2024-11-27: undefined dream-25X
 
 ***
 
