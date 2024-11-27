@@ -25,28 +25,13 @@
             }
           },
           {
-            "id": "e207903fd1191b9d",
+            "id": "fe5cd0487a54f49b",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "cf2e96f60ab207c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/timeblock-date-Jan01.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "timeblock-date-Jan01"
             }
           }
         ],
@@ -82,11 +67,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quote",
+                "query": "tag:#timeblock/date",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -103,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0dfd3d2f4f325f2d",
@@ -247,8 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,34 +247,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e207903fd1191b9d",
+  "active": "fe5cd0487a54f49b",
   "lastOpenFiles": [
-    "Cards/timeblock-date-Sep30.md",
-    "Cards/timeblock-date-Sep29.md",
-    "Cards/timeblock-date-Sep28.md",
-    "Cards/timeblock-date-Sep27.md",
-    "Cards/timeblock-date-Sep26.md",
-    "Cards/timeblock-date-Sep25.md",
-    "Cards/timeblock-date-Sep24.md",
-    "Cards/timeblock-date-Sep23.md",
-    "Cards/timeblock-date-Sep22.md",
-    "Cards/timeblock-date-Sep21.md",
-    "Cards/timeblock-date-Sep20.md",
-    "Cards/timeblock-date-Sep19.md",
-    "Cards/timeblock-date-Sep18.md",
-    "Cards/timeblock-date-Sep17.md",
-    "Cards/timeblock-date-Sep16.md",
-    "Cards/timeblock-date-Sep15.md",
-    "Cards/timeblock-date-Sep14.md",
-    "Cards/timeblock-date-Sep13.md",
-    "Cards/timeblock-date-Sep12.md",
-    "Cards/timeblock-date-Sep11.md",
-    "Cards/timeblock-date-Sep10.md",
-    "Cards/timeblock-date-Sep09.md",
-    "Cards/timeblock-date-Sep08.md",
-    "Cards/timeblock-date-Sep07.md",
-    "Cards/timeblock-date-Sep06.md",
-    "Cards/timeblock-date-Sep05.md",
+    "Home.md",
+    "Cards/timeblock-date-Mar31.md",
+    "Cards/timeblock-date-Apr01.md",
+    "+ Encounters/timeblock-date-Mar31.md",
+    "Cards/timeblock-date-Apr02.md",
+    "Cards/timeblock-date-Apr03.md",
+    "Cards/timeblock-date-Apr04.md",
+    "Cards/timeblock-date-Apr05.md",
+    "Cards/timeblock-date-Apr06.md",
+    "Cards/timeblock-date-Apr07.md",
+    "Cards/timeblock-date-Apr08.md",
+    "Cards/timeblock-date-Apr09.md",
+    "Cards/timeblock-date-Apr10.md",
+    "Cards/timeblock-date-Apr11.md",
+    "Cards/timeblock-date-Apr12.md",
+    "Cards/timeblock-date-Apr13.md",
+    "Cards/timeblock-date-Apr14.md",
+    "Cards/timeblock-date-Apr15.md",
+    "Cards/timeblock-date-Apr16.md",
+    "Cards/timeblock-date-Apr17.md",
+    "Cards/timeblock-date-Apr18.md",
+    "Cards/timeblock-date-Apr19.md",
+    "Cards/timeblock-date-Apr20.md",
+    "Cards/timeblock-date-Apr21.md",
+    "Cards/timeblock-date-Apr22.md",
+    "Cards/timeblock-date-Apr23.md",
     "Special Interests/01 Projects/dream-24V",
     "Extras/Screenshots/screenshot-20241126103004.png",
     "Atlas/Atlas.canvas",
