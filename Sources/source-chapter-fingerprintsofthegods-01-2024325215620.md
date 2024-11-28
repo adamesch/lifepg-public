@@ -18,7 +18,7 @@ tags:
 # Charles Hapgood
 
 - proposed that Antarctica was not always covered in ice and moved southward by a mechanism called "earth-crust displacement" #history/1953
-- 
+- the Piri Reis Map supports the "recent" glaciation of Antarctica following a earth-crust displacement
 
 ***
 

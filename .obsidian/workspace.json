@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/source-chapter-fingerprintsofthegods-01-2024325215620.md",
+                "file": "Sources/source-chapter-fingerprintsofthegods-02-2024325215713.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "source-chapter-fingerprintsofthegods-01-2024325215620"
+              "title": "source-chapter-fingerprintsofthegods-02-2024325215713"
             }
           },
           {
@@ -122,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sources/source-chapter-fingerprintsofthegods-01-2024325215620.md",
+                "file": "Sources/source-chapter-fingerprintsofthegods-02-2024325215713.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -150,7 +150,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of source-chapter-fingerprintsofthegods-01-2024325215620"
+              "title": "Graph of source-chapter-fingerprintsofthegods-02-2024325215713"
             }
           }
         ]
@@ -268,8 +268,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "03fc829838342152",
+  "active": "651e8e3749f75504",
   "lastOpenFiles": [
+    "Sources/source-chapter-fingerprintsofthegods-01-2024325215620.md",
     "Special Interests/01 Projects/dream-00@/dream-00@-youtube-adhddæmon-2024327134604.md",
     "Special Interests/01 Projects/dream-00@/dream-00@-youtube-adamesch-2024327134943.md",
     "Cards/youtube-adhddæmon-y2024-w48-2024332222155.md",
@@ -297,7 +298,6 @@
     "Special Interests/03 Resources/Inventory/eschnet-interface-libertyprime-2024330140722.md",
     "Special Interests/03 Resources/Inventory/eschnet-interface-mistergutsy-2024330140953.md",
     "Special Interests/03 Resources/Inventory/eschnet-interface-nickvalentine-2024330140759.md",
-    "Special Interests/03 Resources/Inventory/eschnet-interface-yggdrasil-2024330140609.md",
     "Extras/Pictures/v.png",
     "Special Interests/01 Projects/dream-26O",
     "Special Interests/01 Projects/terror-00æ",
