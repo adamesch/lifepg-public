@@ -28,55 +28,59 @@
             "id": "651e8e3749f75504",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/source-chapter-fingerprintsofthegods-01-2024325215620.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "source-chapter-fingerprintsofthegods-01-2024325215620"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "a9e06580381b4c08",
+            "id": "e1cef03daa0fb3a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Special Interests/01 Projects/dream-00@/dream-00@-youtube-adamesch-2024327134943.md",
+                "file": "+ Encounters/README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dream-00@-youtube-adamesch-2024327134943"
+              "title": "README"
+            }
+          },
+          {
+            "id": "fac61e4b1873379d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ Encounters/bookclub-2024332225010.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bookclub-2024332225010"
+            }
+          },
+          {
+            "id": "54787ee270d91945",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Special Interests/03 Resources/Inventory/boardofdreamsandterrors-2024327224249.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "boardofdreamsandterrors-2024327224249"
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "0a08701248e17106",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bb9a2af8f1015912",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/source-chapter-fingerprintsofthegods-02-2024325215713.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "source-chapter-fingerprintsofthegods-02-2024325215713"
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#history/1818",
+                "query": "let your",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -129,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0dfd3d2f4f325f2d",
@@ -143,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sources/source-chapter-fingerprintsofthegods-02-2024325215713.md",
+                "file": "+ Encounters/README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -166,19 +169,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.09534246991354282,
+                  "scale": 0.06551159168862523,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of source-chapter-fingerprintsofthegods-02-2024325215713"
+              "title": "Graph of README"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 461.5
+    "width": 272.5
   },
   "right": {
     "id": "90a8e7babffe5ce9",
@@ -269,9 +272,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "cfbe272fa1b1657f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -289,24 +302,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb9a2af8f1015912",
+  "active": "e1cef03daa0fb3a0",
   "lastOpenFiles": [
-    "Sources/source-chapter-fingerprintsofthegods-01-2024325215620.md",
-    "Sources/source-chapter-fingerprintsofthegods-02-2024325215713.md",
-    "Special Interests/01 Projects/dream-00@/dream-00@-youtube-adhddæmon-2024327134604.md",
-    "Special Interests/01 Projects/dream-00@/dream-00@-youtube-adamesch-2024327134943.md",
-    "Cards/youtube-adhddæmon-y2024-w48-2024332222155.md",
-    "Home.md",
+    "+ Encounters/README.md",
     "+ Encounters/bookclub-2024332225010.md",
-    "+ Encounters/bookshelf-2024332225010.md",
-    "+ Encounters/currentlyreading-2024332225010.md",
-    "+ Encounters/2024332225010.md",
-    "Extras/+ Unsorted/youtube-adhddæmon-y2024-w48.txt",
+    "Cards/youtube-adhddæmon-y2024-w48-2024332222155.md",
     "Extras/Pictures/youtube-ahdhdæmon-y2024-w48-thumbnail.png",
-    "+ Encounters/youtube-adhddæmon-y2024-w48-2024332222155.md",
-    "+ Encounters/2024332222155.md",
-    "Atlas/layer-099.md",
     "Special Interests/03 Resources/Inventory/boardofdreamsandterrors-2024327224249.md",
+    "Special Interests/01 Projects/dream-00@/youtube-adhddæmon-y2024-w48-2024332222155.md",
+    "Extras/+ Unsorted/youtube-adhddæmon-y2024-w48.txt",
+    "Extras/+ Unsorted/youtube-ahdhdæmon-y2024-w48-thumbnail.png",
+    "Home.md",
+    "Atlas/layer-099.md",
     "+ Encounters/productivity-eisenhowermatrix-2024331124723.md",
     "+ Encounters/helloworld-2024275132515.md",
     "Cards/pkm-uniquenote-2024327193758.md",
@@ -319,6 +326,13 @@
     "Special Interests/03 Resources/Inventory/eschnet-interface-ladylovelace-2024330140822.md",
     "Special Interests/03 Resources/Inventory/eschnet-interface-libertyprime-2024330140722.md",
     "Special Interests/03 Resources/Inventory/eschnet-interface-mistergutsy-2024330140953.md",
+    "Special Interests/03 Resources/Inventory/eschnet-interface-nickvalentine-2024330140759.md",
+    "Special Interests/03 Resources/Inventory/eschnet-interface-yggdrasil-2024330140609.md",
+    "Special Interests/03 Resources/Inventory/eschnet-interface-zora-2024330140505.md",
+    "+ Encounters/dream-13A-aiemployee-1-2024328003339.md",
+    "+ Encounters/dream-01S-service-buildabusiness-2024328003657.md",
+    "Special Interests/01 Projects/terror-00@/terror-00@-2024332125136.md",
+    "+ Encounters/dream-00⌂-2024332124619.md",
     "Extras/Pictures/v.png",
     "Special Interests/01 Projects/dream-26O",
     "Special Interests/01 Projects/terror-00æ",
@@ -337,7 +351,6 @@
     "Extras/Pictures/wg-bs-20240512135651.jpg",
     "Extras/Screenshots/screenshot-20241122202002.png",
     "Extras/Screenshots/screenshot-20241122201636.png",
-    "Extras/Screenshots/screenshot-20241122200219.png",
     "Special Interests/Special Interests.canvas"
   ]
 }
