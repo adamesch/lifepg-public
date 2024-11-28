@@ -14,6 +14,14 @@ tags:
 - map made by Oronteus Finaeus in #history/1531
 - depicts non-glacial features near the coastal regions of Antartica (e.g. mountain ranges)
 - the profile of the terrain matches Antartica's subglacial topography, like the Piri Reis Map does
+
+# Buache Map
+
+![](https://www.ancient-origins.net/sites/default/files/styles/article_image/public/field/image/Does-Buache-Map-Show-Antarctica-without-ice.jpg?itok=iPv8o_D_)
+
+- map made by Phillippe Buache in #history/1737 
+- depicts a waterway across the continent, which *would* exist if Antartica wasn't covered in ice 
+
 ***
 
 up:: [[source-book-grahamhancock-fingerprintsofthegods-2024325214431|Fingerprints of the Gods]]
