@@ -12,7 +12,11 @@ tags:
 
 - document made at Constantinople in #history/1515 
 - depicts Antarctica before Antartica was discovered in #history/1818 AND depicts it as ice-free
-- implies 
+- implies source maps Piri Reis used were inherited from much older sources
+
+# Charles Hapgood
+
+- proposed that Antarctica was not always covered in ice and moved 
 
 ***
 
