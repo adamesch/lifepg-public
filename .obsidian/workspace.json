@@ -28,10 +28,15 @@
             "id": "651e8e3749f75504",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Timeblocks/timeblock-date-Apr01.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "timeblock-date-Apr01"
             }
           },
           {
@@ -146,6 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Calendar/Timeblocks/timeblock-date-Apr01.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of timeblock-date-Apr01"
             }
           }
         ]
@@ -301,8 +307,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "651e8e3749f75504",
+  "active": "df50364d9a50475f",
   "lastOpenFiles": [
+    "Extras/Templates/template-uniquenote.md",
+    "Calendar/Timeblocks",
     "Special Interests/03 Resources/Inventory/boardofdreamsandterrors-2024327224249.md",
     "+ Encounters/bookclub-2024332225010.md",
     "Cards/youtube-adhddæmon-y2024-w48-2024332222155.md",
@@ -331,7 +339,6 @@
     "+ Encounters/dream-13A-aiemployee-1-2024328003339.md",
     "+ Encounters/dream-01S-service-buildabusiness-2024328003657.md",
     "Special Interests/01 Projects/terror-00@/terror-00@-2024332125136.md",
-    "+ Encounters/dream-00⌂-2024332124619.md",
     "Extras/Pictures/v.png",
     "Special Interests/01 Projects/dream-26O",
     "Special Interests/01 Projects/terror-00æ",
@@ -341,7 +348,6 @@
     "Special Interests/01 Projects/dream-00⌂",
     "Special Interests/01 Projects/dream-00$",
     "Special Interests/01 Projects/terror-00$",
-    "Special Interests/01 Projects/dream-24V",
     "Extras/Screenshots/screenshot-20241126103004.png",
     "Atlas/Atlas.canvas",
     "Extras/Pictures/jeff-bezos.png",
