@@ -15,7 +15,9 @@ url: https://www.youtube.com/@ADHDdaemon
 redirect: https://adamesch.online/adhddaemon
 ---
 
+# pillars of content
 
+#pkm #obsidian #dnd #adhd #productivity #chaos
 
 ***
 

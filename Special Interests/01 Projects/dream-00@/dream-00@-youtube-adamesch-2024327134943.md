@@ -13,7 +13,9 @@ url: https://www.youtube.com/@adamesch
 redirect: https://adamesch.online/youtube
 ---
 
+# pillars of content
 
+#ai #automation #cloud #business #engineer
 
 ***
 
