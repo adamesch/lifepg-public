@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#executivefunction",
+                "query": "tag:#history/1818",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -108,7 +108,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0dfd3d2f4f325f2d",
@@ -253,8 +254,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,7 +268,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "651e8e3749f75504",
+  "active": "03fc829838342152",
   "lastOpenFiles": [
     "Special Interests/01 Projects/dream-00@/dream-00@-youtube-adhddæmon-2024327134604.md",
     "Special Interests/01 Projects/dream-00@/dream-00@-youtube-adamesch-2024327134943.md",
