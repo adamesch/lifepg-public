@@ -13,7 +13,9 @@ related:
 url: https://www.youtube.com/@WeekendWednesday
 ---
 
+# content pillars
 
+#magic #metacontent #macos 
 
 ***
 
