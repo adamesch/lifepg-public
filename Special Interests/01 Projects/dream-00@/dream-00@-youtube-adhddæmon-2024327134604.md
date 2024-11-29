@@ -17,7 +17,7 @@ redirect: https://adamesch.online/adhddaemon
 
 # pillars of content
 
-#pkm #obsidian #dnd #adhd #productivity #
+#pkm #obsidian #dnd #adhd #productivity 
 
 ***
 
