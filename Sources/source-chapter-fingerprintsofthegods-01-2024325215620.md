@@ -11,7 +11,7 @@ tags:
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Piri_reis_world_map_01.jpg/1280px-Piri_reis_world_map_01.jpg)
 
 - document made at Constantinople in #history/1515 
-- depicts Antarctica before Antartica was discovered in #history/1818 AND depicts it as ice-free
+- depicts Antarctica before Antarctica was discovered in #history/1818 AND depicts it as ice-free
 - implies source maps Piri Reis used were inherited from much older sources
 	- the subglacial topography of the land beneath the ice has been hidden since 4000 BCE
 
