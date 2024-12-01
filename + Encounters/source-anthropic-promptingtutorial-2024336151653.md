@@ -4,7 +4,9 @@ aliases:
 tags:
   - anthropic
   - github
-related:
+  - source
+related: 
+url: https://github.com/anthropics/prompt-eng-interactive-tutorial
 ---
 
 
