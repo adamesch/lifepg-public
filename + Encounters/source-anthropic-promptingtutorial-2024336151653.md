@@ -27,7 +27,7 @@ Calling the Messages API requires the following:
 
 ![[ScreenFloat Shot of Obsidian at Dec 1, 2024 at 16_34_33.png]]
 
-# System Prompt
+## System Prompts
 
 A System prompt provides context, instructions, etc to #claude  before presenting it with a question or task:
 

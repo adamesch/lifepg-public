@@ -9,6 +9,10 @@ related:
   - "[[source-anthropic-promptingtutorial-2024336151653]]"
 ---
 
+# summary
+
+you completed the first 2 modules of the #anthropic prompting tutorial
+
 # log
 
 - installed #jupyter via #homebrew
@@ -26,9 +30,14 @@ related:
 
 ![[ScreenFloat Shot of Safari at Dec 1, 2024 at 16_47_54.png]]
 
-![[ScreenFloat Shot of Safari at Dec 1, 2024 at 16_49_55.png]]
+![[ScreenFloat Shot of Obsidian at Dec 1, 2024 at 16_53_42.png]]
 
+![[ScreenFloat Shot of Safari at Dec 1, 2024 at 16_52_50.png]]
 
+# hemingway bridge
+
+- [ ] #task complete `03_Being_Clear_and_Direct` of the #anthropic prompting tutorial  [created:: 2024-12-01]
+- [ ] #task complete `04_Assigning_Roles_Role_Prompting` of the #anthopic prompting tutorial  [created:: 2024-12-01]
 
 ***
 
