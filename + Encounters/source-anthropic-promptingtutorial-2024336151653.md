@@ -9,12 +9,28 @@ related:
 url: https://github.com/anthropics/prompt-eng-interactive-tutorial
 ---
 
-# APIs
+# API Documentation
 
-- Text Completion API
-- Messages API
+- [Text Completion API (legacy)](https://docs.anthropic.com/en/api/complete)
+- [Messages API](https://docs.anthropic.com/en/api/messages)
 
+## Messages API
 
+Calling the Messages API requires the following:
+
+- `model`: the name of the model you intend to call
+- `max_tokens`: the maximum number of tokens to generate before stopping
+- `messages`: an array of alternating `user` and `assistant` messages
+	- each message must be an object with a `role` and `content`
+	- messages must start with a `user` turn
+
+![[ScreenFloat Shot of Obsidian at Dec 1, 2024 at 16_34_33.png]]
+
+# System Prompt
+
+A System prompt provides context, instructions, etc to #claude  before presenting it with a question or task:
+
+- system prompts exist outside of messages
 
 ***
 

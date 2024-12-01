@@ -17,6 +17,12 @@ related:
 
 ![[ScreenFloat Shot of Safari at Dec 1, 2024 at 16_21_00.png]]
 
+- completed `01_Basic_Prompt_Structure`
+
+![[ScreenFloat Shot of Safari at Dec 1, 2024 at 16_31_32.png]]
+
+![[ScreenFloat Shot of Obsidian at Dec 1, 2024 at 16_42_45.png]]
+
 
 
 ***
