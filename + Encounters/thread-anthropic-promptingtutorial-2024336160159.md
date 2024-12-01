@@ -4,6 +4,7 @@ aliases:
 tags:
   - thread
   - anthropic
+  - screenshot
 related:
   - "[[source-anthropic-promptingtutorial-2024336151653]]"
 ---
@@ -22,6 +23,10 @@ related:
 ![[ScreenFloat Shot of Safari at Dec 1, 2024 at 16_31_32.png]]
 
 ![[ScreenFloat Shot of Obsidian at Dec 1, 2024 at 16_42_45.png]]
+
+![[ScreenFloat Shot of Safari at Dec 1, 2024 at 16_47_54.png]]
+
+![[ScreenFloat Shot of Safari at Dec 1, 2024 at 16_49_55.png]]
 
 
 

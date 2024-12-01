@@ -5,6 +5,7 @@ tags:
   - anthropic
   - github
   - source
+  - screenshot
 related: 
 url: https://github.com/anthropics/prompt-eng-interactive-tutorial
 ---
