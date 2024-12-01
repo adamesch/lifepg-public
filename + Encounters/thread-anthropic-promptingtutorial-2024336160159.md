@@ -11,7 +11,7 @@ related:
 
 # summary
 
-you completed the first 2 modules of the #anthropic prompting tutorial
+[[person-adamesch-1989130030300|Adam]] completed the first 2 modules of the #anthropic prompting tutorial
 
 # log
 
