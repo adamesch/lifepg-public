@@ -1,7 +1,11 @@
 {
 	"nodes":[
-		{"id":"68aa00cae348af70","x":533,"y":47,"width":400,"height":400,"type":"file","file":"Atlas/stinkingrealm.md"},
-		{"id":"4b5bc7ce75e0def6","type":"file","file":"Atlas/plainofinfiniteportals.md","x":-119,"y":-137,"width":400,"height":400}
+		{"id":"68aa00cae348af70","type":"file","file":"Atlas/stinkingrealm.md","x":380,"y":-137,"width":400,"height":400},
+		{"id":"1f7ad7f0e6b5767e","type":"file","file":"Atlas/plainofinfiniteportals.md","x":-80,"y":-137,"width":400,"height":400},
+		{"id":"cbd310c4df22bb5d","type":"file","file":"Atlas/steamingfen.md","x":840,"y":-137,"width":400,"height":400},
+		{"id":"508648df056a61a5","type":"file","file":"Atlas/fieldsofconsumption.md","x":1300,"y":-137,"width":400,"height":400},
+		{"id":"d02789544f4ce4ed","x":1760,"y":-137,"width":400,"height":400,"type":"file","file":"Atlas/spirac.md"},
+		{"id":"f290b56c85634b2c","x":2220,"y":340,"width":400,"height":400,"type":"file","file":"Atlas/slimepits.md"}
 	],
 	"edges":[]
 }
