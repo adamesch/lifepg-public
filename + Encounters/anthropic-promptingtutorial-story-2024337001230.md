@@ -5,11 +5,14 @@ tags:
   - anthopic
   - claude
 related:
+  - "[[thread-antropic-promptingtutorial-2024336232808]]"
 ---
 
 #claude wrote this story when prompted to write an 800+ word story (it's 765 words)
 
 # Claude's Story
+## The Lighthouse Keeper's Daughter
+
 
 > Emma stood at the edge of the rocky cliff, her eyes scanning the turbulent horizon. The wind whipped her dark hair around her face, but she remained steady, just as her father had taught her years ago. The lighthouse behind her was a silent sentinel, its white-painted walls standing in stark contrast to the gray sky and churning sea.
 > 
