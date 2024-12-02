@@ -34,6 +34,7 @@ tags:
 | [[layer-500]]                         |                                                                 | all maps of content are linked to [[layer-500]]                          | see: [[Atlas.canvas\|Atlas]]                |
 | [[torremor\|layer-503]]               | [[torremor\|Torremor]]                                          | notes in [[torremor\|layer-503]] link to - but not from - template notes |                                             |
 | layer-524                             | Shatterstone                                                    |                                                                          | see: dream-24V, terror-24V                  |
+| [[stinkingrealm\|layer-528]]          | [[stinkingrealm\|Stinking Realm]]                               |                                                                          |                                             |
 | [[shendilavri\|layer-570]]            | [[shendilavri\|Shendilavri]]                                    |                                                                          | see: [[dream-23Y-2024330095857\|dream-23Y]] |
 
 ***

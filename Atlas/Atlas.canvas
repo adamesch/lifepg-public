@@ -1,1 +1,7 @@
-{}
+{
+	"nodes":[
+		{"id":"68aa00cae348af70","x":533,"y":47,"width":400,"height":400,"type":"file","file":"Atlas/stinkingrealm.md"},
+		{"id":"4b5bc7ce75e0def6","type":"file","file":"Atlas/plainofinfiniteportals.md","x":-119,"y":-137,"width":400,"height":400}
+	],
+	"edges":[]
+}
