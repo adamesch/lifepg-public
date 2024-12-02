@@ -14,8 +14,16 @@ related:
 ![[ScreenFloat Shot of Safari at Dec 1, 2024 at 23_44_21.png]]
 	- interestingly, `claude-3.5-haiku-latest` gets the answer correct. the tutorial expects #claude go get it wrong.
 
-- completed 
+- completed `02_Being_Clear_and_Precise`
+	- when prompted to generate a story greater than 800 words long, #claude generated a story that was only 765 words, not including the title (see fyi below)
 
+# fyi
+
+- you can apparently prompt #claude in Spanish, etc
+
+![[ScreenFloat Shot of Safari at Dec 2, 2024 at 00_01_00.png]]
+
+- #claude is bad at counting
 ***
 
 up:: 
