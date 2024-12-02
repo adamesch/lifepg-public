@@ -13,7 +13,7 @@ tags:
 
 # note templates
 
-- new unique note: [[template-dailynote]]
+- new unique note: [[template-uniquenote]]
 
 ***
 
