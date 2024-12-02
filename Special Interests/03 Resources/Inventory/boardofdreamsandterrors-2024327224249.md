@@ -9,8 +9,8 @@ related:
 
 | monthday                        | weekday                      | dream                                  | terror                                   |
 | ------------------------------- | ---------------------------- | -------------------------------------- | ---------------------------------------- |
-| [[timeblock-monthday-01\|1st]]  |                              | dream-01S                              |                                          |
-| [[timeblock-monthday-02\|2nd]]  |                              | dream-02E                              |                                          |
+| [[timeblock-monthday-01\|1st]]  |                              | [[dream-01S-2024337140751\|dream-01S]] |                                          |
+| [[timeblock-monthday-02\|2nd]]  |                              | [[dream-02E-2024337140701\|dream-02E]] |                                          |
 | [[timeblock-monthday-03\|3rd]]  |                              | dream-03M                              | terror-03S                               |
 | [[timeblock-monthday-04\|4th]]  |                              | dream-04B                              |                                          |
 | [[timeblock-monthday-05\|5th]]  |                              | dream-05P                              | terror-05X                               |

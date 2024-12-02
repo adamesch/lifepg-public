@@ -28,7 +28,7 @@ If resetting one's digital life is a 4-step process, [[person-adamesch-198913003
 
 # hemingway bridge
 
-- [ ] #task create a note for the concept of #inboxzero #pkm #productivity  [created:: 2024-11-26]
+- [x] #task create a note for the concept of #inboxzero #pkm #productivity  [created:: 2024-11-26] (see: [[pkm-inboxzero-2024337134834]])  [completion:: 2024-12-02]
 - [ ] #task create note for #æOS v5 #pkm #productivity  [created:: 2024-11-26]
 - [ ] #task create thread note for having moved all local files to the cloud #pkm #æOS  [created:: 2024-11-26]
 - [ ] #task create a note for the concept of a #hemingwaybridge #pkm #productivity  [created:: 2024-11-26]
