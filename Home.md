@@ -25,6 +25,7 @@ tags:
 | [[rottingplain\|layer-181]]           | [[rottingplain\|Rotting Plain]]                                 |                                                                          |                                             |
 | [[slimepits\|layer-222]]              | [[slimepits\|Slime Pits]]                                       |                                                                          |                                             |
 | [[belistor\|layer-277]]               | [[belistor\|Belistor]]                                          | email-related notes are linked to [[belistor\|Belistor]]                 |                                             |
+| layer-303                             | Sulfanorum                                                      |                                                                          |                                             |
 | [[brokenscale\|layer-333]]            | [[brokenscale\|Broken Scale]]                                   |                                                                          |                                             |
 | [[indifference\|layer-348]]           | [[indifference\|Indifference]]                                  | useless notes are linked to [[indifference\|Indifference]]               |                                             |
 | [[arcofeternity\|layer-359]]          | [[arcofeternity\|Arc of Eternity]]                              |                                                                          |                                             |
@@ -38,6 +39,7 @@ tags:
 | layer-524                             | Shatterstone                                                    |                                                                          | see: dream-24V, terror-24V                  |
 | [[stinkingrealm\|layer-528]]          | [[stinkingrealm\|Stinking Realm]]                               |                                                                          |                                             |
 | [[shendilavri\|layer-570]]            | [[shendilavri\|Shendilavri]]                                    |                                                                          | see: [[dream-23Y-2024330095857\|dream-23Y]] |
+| [[endlessmaze\|layer-600]]            | [[endlessmaze\|Endless Maze]]                                   |                                                                          |                                             |
 
 ***
 
