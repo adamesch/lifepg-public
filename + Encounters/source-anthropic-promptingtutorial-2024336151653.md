@@ -39,7 +39,9 @@ A System prompt provides context, instructions, etc to #claude  before presentin
   
 ![[ScreenFloat Shot of Obsidian at Dec 1, 2024 at 23_35_10.png]]
 
+![[ScreenFloat Shot of Safari at Dec 1, 2024 at 23_36_54.png]]
 
+- use role prompting to have #claude emulate writing styles, speak in a particular voice, etc
 
 ***
 

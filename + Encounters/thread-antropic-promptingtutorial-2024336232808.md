@@ -7,7 +7,14 @@ related:
 
 # log
 
-- 
+- completed `04_Assigning_Roles_Role_Prompting
+
+![[ScreenFloat Shot of Safari at Dec 1, 2024 at 23_36_54.png]]
+
+![[ScreenFloat Shot of Safari at Dec 1, 2024 at 23_44_21.png]]
+	- interestingly, `claude-3.5-haiku-latest` gets the answer correct. the tutorial expects #claude go get it wrong.
+
+- completed 
 
 ***
 
