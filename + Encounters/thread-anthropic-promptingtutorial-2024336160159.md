@@ -43,7 +43,7 @@ related:
 
 up:: 
 back:: 
-forward:: 
+forward:: [[thread-antropic-promptingtutorial-2024336232808]]
 layer:: [[layer-099]]
 
 ***

@@ -15,7 +15,7 @@ url: https://github.com/anthropics/prompt-eng-interactive-tutorial
 - [Text Completion API (legacy)](https://docs.anthropic.com/en/api/complete)
 - [Messages API](https://docs.anthropic.com/en/api/messages)
 
-## Messages API
+## Messages
 
 Calling the Messages API requires the following:
 
@@ -32,6 +32,14 @@ Calling the Messages API requires the following:
 A System prompt provides context, instructions, etc to #claude  before presenting it with a question or task:
 
 - system prompts exist outside of messages
+
+# Role Prompting
+
+- #claude has no context aside from what you tell it, and giving it instructions in inhabit a specific role improve's it's performance
+  
+![[ScreenFloat Shot of Obsidian at Dec 1, 2024 at 23_35_10.png]]
+
+
 
 ***
 
