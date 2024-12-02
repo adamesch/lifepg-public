@@ -36,8 +36,8 @@ related:
 
 # hemingway bridge
 
-- [ ] #task complete `03_Being_Clear_and_Direct` of the #anthropic prompting tutorial  [created:: 2024-12-01]
-- [ ] #task complete `04_Assigning_Roles_Role_Prompting` of the #anthopic prompting tutorial  [created:: 2024-12-01]
+- [x] #task complete `03_Being_Clear_and_Direct` of the #anthropic prompting tutorial  [created:: 2024-12-01]  [completion:: 2024-12-02]
+- [x] #task complete `04_Assigning_Roles_Role_Prompting` of the #anthopic prompting tutorial  [created:: 2024-12-01]  [completion:: 2024-12-02]
 
 ***
 

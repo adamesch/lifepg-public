@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 65280
       }
+    },
+    {
+      "query": "tag:#thread  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711935
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +39,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.012614712688527218,
+  "scale": 0.015384117471157196,
   "close": true
 }
