@@ -5,7 +5,8 @@
 		{"id":"cbd310c4df22bb5d","type":"file","file":"Atlas/steamingfen.md","x":840,"y":-137,"width":400,"height":400},
 		{"id":"508648df056a61a5","type":"file","file":"Atlas/fieldsofconsumption.md","x":1300,"y":-137,"width":400,"height":400},
 		{"id":"d02789544f4ce4ed","x":1760,"y":-137,"width":400,"height":400,"type":"file","file":"Atlas/spirac.md"},
-		{"id":"f290b56c85634b2c","x":2220,"y":340,"width":400,"height":400,"type":"file","file":"Atlas/slimepits.md"}
+		{"id":"6189ef4cc934d79e","x":2240,"y":360,"width":400,"height":400,"type":"file","file":"Atlas/belistor.md"},
+		{"id":"f290b56c85634b2c","x":2720,"y":360,"width":400,"height":400,"type":"file","file":"Atlas/slimepits.md"}
 	],
 	"edges":[]
 }
