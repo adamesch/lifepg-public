@@ -25,7 +25,8 @@
 		{"id":"1edafcec0385fcd9","x":6080,"y":-160,"width":400,"height":400,"type":"file","file":"Atlas/torremor.md"},
 		{"id":"7bed2b42bff67444","x":5595,"y":-1110,"width":250,"height":60,"type":"text","text":"new notes"},
 		{"id":"70460a86031a6c60","x":7200,"y":-1280,"width":400,"height":400,"type":"file","file":"Atlas/voorzzt.md"},
-		{"id":"eef5fce2571f2656","x":7200,"y":-160,"width":400,"height":400,"type":"file","file":"Atlas/garavond.md"}
+		{"id":"eef5fce2571f2656","x":7200,"y":-160,"width":400,"height":400,"type":"file","file":"Atlas/garavond.md"},
+		{"id":"de3a3f5bd3a02660","x":5595,"y":-550,"width":250,"height":60,"type":"text","text":"you are here"}
 	],
 	"edges":[
 		{"id":"28588c81154ad75b","fromNode":"77057a7aea8b5d2c","fromSide":"right","toNode":"142614e7bb4a276e","toSide":"left","color":"3"},
@@ -60,6 +61,8 @@
 		{"id":"edd6a34e6379d9ab","fromNode":"1edafcec0385fcd9","fromSide":"right","toNode":"130040ed46c8bc34","toSide":"left"},
 		{"id":"c7366a4f496cdfe4","fromNode":"a21db394719b4158","fromSide":"top","toNode":"70460a86031a6c60","toSide":"bottom"},
 		{"id":"1fa4dcc83b3bbd4c","fromNode":"a21db394719b4158","fromSide":"bottom","toNode":"eef5fce2571f2656","toSide":"top"},
-		{"id":"3e1ff3e73519ce64","fromNode":"eef5fce2571f2656","fromSide":"left","toNode":"130040ed46c8bc34","toSide":"right"}
+		{"id":"3e1ff3e73519ce64","fromNode":"eef5fce2571f2656","fromSide":"left","toNode":"130040ed46c8bc34","toSide":"right"},
+		{"id":"9258f51fccedea25","fromNode":"25e5d3d7bfb76c41","fromSide":"top","toNode":"b2b73608f5cc2285","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"778d51055d7a9b99","fromNode":"de3a3f5bd3a02660","fromSide":"right","toNode":"25e5d3d7bfb76c41","toSide":"left"}
 	]
 }
