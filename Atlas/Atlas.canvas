@@ -14,8 +14,8 @@
 		{"id":"b2b73608f5cc2285","type":"file","file":"Atlas/mansionoftherake.md","x":6640,"y":-1280,"width":400,"height":400},
 		{"id":"a21db394719b4158","type":"file","file":"Atlas/mindofevil.md","x":6640,"y":-720,"width":400,"height":400},
 		{"id":"05ba666be2985456","type":"file","file":"Atlas/realmofamillioneyes.md","x":7200,"y":-3480,"width":400,"height":400},
-		{"id":"9f908caaa3c81319","x":3840,"y":-4502,"width":400,"height":400,"type":"file","file":"Atlas/rottingplain.md"},
-		{"id":"fe5a8596bf704f12","x":3294,"y":-4502,"width":400,"height":400,"type":"file","file":"Atlas/demonwing.md"}
+		{"id":"fe5a8596bf704f12","x":7760,"y":-2400,"width":400,"height":400,"type":"file","file":"Atlas/demonwing.md"},
+		{"id":"9f908caaa3c81319","x":7760,"y":-1840,"width":400,"height":400,"type":"file","file":"Atlas/rottingplain.md"}
 	],
 	"edges":[
 		{"id":"28588c81154ad75b","fromNode":"77057a7aea8b5d2c","fromSide":"right","toNode":"142614e7bb4a276e","toSide":"left","color":"3"},
@@ -38,6 +38,7 @@
 		{"id":"1734f5fcb5836621","fromNode":"7d49f926df45a6dd","fromSide":"top","toNode":"05ba666be2985456","toSide":"bottom","color":"3"},
 		{"id":"13416f0e51525067","fromNode":"56f5979158d8e725","fromSide":"bottom","toNode":"142614e7bb4a276e","toSide":"bottom","fromEnd":"arrow"},
 		{"id":"a6e03bb33ea9b2f4","fromNode":"bdc54764f1eb4513","fromSide":"bottom","toNode":"142614e7bb4a276e","toSide":"bottom","fromEnd":"arrow"},
-		{"id":"28777ba8f7e2be72","fromNode":"f4459dd4e6fb7c11","fromSide":"bottom","toNode":"142614e7bb4a276e","toSide":"bottom","fromEnd":"arrow"}
+		{"id":"28777ba8f7e2be72","fromNode":"f4459dd4e6fb7c11","fromSide":"bottom","toNode":"142614e7bb4a276e","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"0e481f07506a4b11","fromNode":"fe5a8596bf704f12","fromSide":"bottom","toNode":"9f908caaa3c81319","toSide":"top"}
 	]
 }
