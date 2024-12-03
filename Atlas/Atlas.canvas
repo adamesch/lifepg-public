@@ -1,36 +1,17 @@
 {
 	"nodes":[
-		{"id":"c04b2cb830db57a6","type":"file","file":"Atlas/mansionoftherake.md","x":5040,"y":-7120,"width":400,"height":400},
-		{"id":"ed99e7257ccddc17","type":"file","file":"Atlas/mindofevil.md","x":5040,"y":-6160,"width":400,"height":400},
-		{"id":"f2b65ab59206a414","type":"file","file":"Atlas/voorzzt.md","x":4560,"y":-6160,"width":400,"height":400},
-		{"id":"b6fd5ece47a6b7ca","type":"file","file":"Atlas/garavond.md","x":5520,"y":-6160,"width":400,"height":400},
-		{"id":"3a6427758ba4f7bf","type":"file","file":"Atlas/ironwastes.md","x":5040,"y":-6640,"width":400,"height":400},
-		{"id":"269b2bb8617a0a60","type":"file","file":"Atlas/gutteringgrove.md","x":5040,"y":-5680,"width":400,"height":400},
-		{"id":"7e59c114df30ecbf","type":"file","file":"Atlas/grandabyss.md","x":5040,"y":-5200,"width":400,"height":400},
-		{"id":"e6a74c38472ebe9a","type":"file","file":"Atlas/belistor.md","x":6000,"y":-6160,"width":400,"height":400},
-		{"id":"4038ae5735f0b707","type":"file","file":"Atlas/slimepits.md","x":6960,"y":-6160,"width":400,"height":400},
-		{"id":"6b37a953ae800abf","type":"file","file":"Atlas/plainsofgallenshu.md","x":6480,"y":-5680,"width":400,"height":400},
-		{"id":"9d1e130a733cf82a","type":"file","file":"Atlas/endlessmaze.md","x":6480,"y":-6160,"width":400,"height":400},
-		{"id":"36bbb0eb6556afeb","type":"file","file":"Atlas/spirac.md","x":6480,"y":-6640,"width":400,"height":400},
-		{"id":"c4d43eb5e94bf3ee","type":"file","file":"Atlas/layer-500.md","x":4560,"y":-7120,"width":400,"height":400},
-		{"id":"26343eaa34d3d2db","type":"file","file":"Atlas/sulfanorum.md","x":7440,"y":-6160,"width":400,"height":400},
-		{"id":"17a2542c29bcf00c","type":"file","file":"Atlas/realmofamillioneyes.md","x":7920,"y":-6160,"width":400,"height":400},
-		{"id":"8af396057bc86191","type":"file","file":"Atlas/rottingplain.md","x":8400,"y":-6160,"width":400,"height":400},
-		{"id":"bc5a519e3acce73b","type":"file","file":"Atlas/noisomevale.md","x":4960,"y":-3360,"width":400,"height":400},
-		{"id":"2cd3461044e922bf","type":"file","file":"Atlas/layer-099.md","x":4080,"y":-7120,"width":400,"height":400},
-		{"id":"6771f18fbd6e7df5","type":"file","file":"Atlas/fieldsofconsumption.md","x":6480,"y":-7120,"width":400,"height":400},
-		{"id":"55f6c394852ce950","type":"file","file":"Atlas/plainofinfiniteportals.md","x":6480,"y":-7600,"width":400,"height":400},
-		{"id":"f39621a8343c52f5","type":"file","file":"Atlas/dreaminggulf.md","x":6480,"y":-8080,"width":400,"height":400},
-		{"id":"303806763260f931","type":"file","file":"Atlas/guttlevetch.md","x":6480,"y":-9040,"width":400,"height":400},
-		{"id":"da7b5ef105e93a1e","type":"file","file":"Atlas/shendilavri.md","x":6973,"y":-9040,"width":400,"height":400},
-		{"id":"c9d95e95c76381da","type":"file","file":"Atlas/torturoustruth.md","x":5986,"y":-8560,"width":400,"height":400},
-		{"id":"f89f6624bf83a4ca","type":"file","file":"Atlas/arcofeternity.md","x":6480,"y":-8560,"width":400,"height":400},
-		{"id":"4695b0c77dd63448","type":"file","file":"Atlas/brokenscale.md","x":6973,"y":-8560,"width":400,"height":400},
-		{"id":"11111ca2ab5d047e","type":"file","file":"Atlas/stinkingrealm.md","x":6000,"y":-7120,"width":400,"height":400},
-		{"id":"38933c24f73bb571","type":"file","file":"Atlas/steamingfen.md","x":6000,"y":-6640,"width":400,"height":400},
-		{"id":"c588a153c0b44cb6","type":"file","file":"Atlas/torremor.md","x":4080,"y":-5200,"width":400,"height":400},
-		{"id":"e40cb3d40c629bf7","type":"file","file":"Atlas/wellsofdarkness.md","x":4560,"y":-5200,"width":400,"height":400},
-		{"id":"a61beb1973a6b1e7","type":"file","file":"Atlas/indifference.md","x":6480,"y":-5200,"width":400,"height":400}
+		{"id":"77057a7aea8b5d2c","type":"file","file":"Atlas/plainofinfiniteportals.md","x":3294,"y":-2935,"width":400,"height":400},
+		{"id":"142614e7bb4a276e","type":"file","file":"Atlas/stinkingrealm.md","x":3840,"y":-2935,"width":400,"height":400},
+		{"id":"005b4eb2bfdd623a","type":"file","file":"Atlas/steamingfen.md","x":4400,"y":-2935,"width":400,"height":400},
+		{"id":"f95c62d213f4f025","type":"file","file":"Atlas/fieldsofconsumption.md","x":4960,"y":-2935,"width":400,"height":400},
+		{"id":"f439f10dae5780d8","type":"file","file":"Atlas/spirac.md","x":5520,"y":-2935,"width":400,"height":400},
+		{"id":"46c638fdaf1ee34c","type":"file","file":"Atlas/wellsofdarkness.md","x":6080,"y":-2935,"width":400,"height":400}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"28588c81154ad75b","fromNode":"77057a7aea8b5d2c","fromSide":"right","toNode":"142614e7bb4a276e","toSide":"left"},
+		{"id":"b57ccce1b899f9a4","fromNode":"142614e7bb4a276e","fromSide":"right","toNode":"005b4eb2bfdd623a","toSide":"left"},
+		{"id":"4fee6bc993ebb35e","fromNode":"005b4eb2bfdd623a","fromSide":"right","toNode":"f95c62d213f4f025","toSide":"left"},
+		{"id":"1d71510f038fa79f","fromNode":"f95c62d213f4f025","fromSide":"right","toNode":"f439f10dae5780d8","toSide":"left"},
+		{"id":"ff8e5526ec51b444","fromNode":"f439f10dae5780d8","fromSide":"right","toNode":"46c638fdaf1ee34c","toSide":"left"}
+	]
 }
