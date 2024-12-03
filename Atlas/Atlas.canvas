@@ -5,7 +5,10 @@
 		{"id":"005b4eb2bfdd623a","type":"file","file":"Atlas/steamingfen.md","x":4400,"y":-2935,"width":400,"height":400},
 		{"id":"f95c62d213f4f025","type":"file","file":"Atlas/fieldsofconsumption.md","x":4960,"y":-2935,"width":400,"height":400},
 		{"id":"f439f10dae5780d8","type":"file","file":"Atlas/spirac.md","x":5520,"y":-2935,"width":400,"height":400},
-		{"id":"46c638fdaf1ee34c","type":"file","file":"Atlas/wellsofdarkness.md","x":6080,"y":-2935,"width":400,"height":400}
+		{"id":"46c638fdaf1ee34c","type":"file","file":"Atlas/wellsofdarkness.md","x":6080,"y":-2935,"width":400,"height":400},
+		{"id":"56f5979158d8e725","x":6080,"y":-2360,"width":400,"height":400,"type":"file","file":"Atlas/belistor.md"},
+		{"id":"bdc54764f1eb4513","x":6640,"y":-2360,"width":400,"height":400,"type":"file","file":"Atlas/plainsofgallenshu.md"},
+		{"id":"f4459dd4e6fb7c11","x":7200,"y":-2360,"width":400,"height":400,"type":"file","file":"Atlas/slimepits.md"}
 	],
 	"edges":[
 		{"id":"28588c81154ad75b","fromNode":"77057a7aea8b5d2c","fromSide":"right","toNode":"142614e7bb4a276e","toSide":"left"},
