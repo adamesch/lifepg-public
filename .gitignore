@@ -1,6 +1,0 @@
-# Ignore system files that are specific to MacOS or Windows
-.DS_Store
-Thumbs.db
-
-# Ignore workspace.json
-.obsidian/workspace.json

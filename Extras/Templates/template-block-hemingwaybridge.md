@@ -1,4 +1,0 @@
-
-# hemingway bridge
-
-- [ ] 
