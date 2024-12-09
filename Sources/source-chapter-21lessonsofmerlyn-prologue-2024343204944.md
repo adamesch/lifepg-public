@@ -1,7 +1,9 @@
 ---
 aliases:
   - "2024343204944"
-tags: []
+tags:
+  - source
+  - chapter
 related:
 ---
 
