@@ -1,0 +1,35 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "YYYY-MM-DD",
+    "template": "Extras/Templates/template-dailynote.md",
+    "folder": "Calendar/01 Daily Notes",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "[cal]-[y]YYYY-[w]WW",
+    "template": "Extras/Templates/template-weeklynote.md",
+    "folder": "Calendar/02 Weekly Notes",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "[cal]-[y]YYYY-[m]MM",
+    "template": "Extras/Templates/template-monthlynote.md",
+    "folder": "Calendar/03 Monthly Notes",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "[cal]-[y]YYYY-[q]Q",
+    "template": "Extras/Templates/template-quarterlynote.md",
+    "folder": "Calendar/04 Quarterly Notes",
+    "enabled": true
+  },
+  "yearly": {
+    "format": "[cal]-[y]YYYY",
+    "template": "Extras/Templates/template-yearlynote.md",
+    "folder": "Calendar/05 Yearly Notes",
+    "enabled": true
+  }
+}
