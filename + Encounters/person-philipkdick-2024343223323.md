@@ -1,7 +1,8 @@
 ---
 aliases:
   - "2024343223323"
-tags: []
+  - Philip K. Dick
+tags: 
 related:
 ---
 
@@ -12,7 +13,7 @@ related:
 up:: 
 back:: 
 forward:: 
-layer:: [[layer-099]]
+layer:: 
 
 ***
 

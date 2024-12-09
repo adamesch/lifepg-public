@@ -1,10 +1,12 @@
 ---
 aliases:
-  - "2024343222440"
-  - The Magician
-tags: 
+  - "2024343223602"
+  - Do Androids Dream of Electic Sheep
+tags:
+  - source
+  - book
 related: 
-author: "[[person-michaelscott-2024343222318|Michael Scott]]"
+author: "[[person-philipkdick-2024343223323|Philip K. Dick]]"
 ---
 
 
@@ -12,7 +14,7 @@ author: "[[person-michaelscott-2024343222318|Michael Scott]]"
 ***
 
 up:: 
-back:: [[source-book-michaelscott-thealchemyst-2024343222402|The Alchemyst]]
+back:: 
 forward:: 
 layer:: [[wellsofdarkness|layer-073]]
 

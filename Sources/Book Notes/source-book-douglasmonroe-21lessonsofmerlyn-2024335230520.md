@@ -2,9 +2,11 @@
 aliases:
   - "2024335230520"
   - The 21 Lessons of Merlyn
-tags: 
+tags:
+  - source
+  - book
 author: "[[person-douglasmonroe-2024335230624|Douglas Monroe]]"
-related:
+related: 
 ---
 
 

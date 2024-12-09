@@ -2,7 +2,9 @@
 aliases:
   - "2024343222402"
   - The Alchemyst
-tags: 
+tags:
+  - source
+  - book
 related: 
 author: "[[person-michaelscott-2024343222318|Michael Scott]]"
 ---

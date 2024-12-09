@@ -1,11 +1,12 @@
 ---
 aliases:
-  - "2024343221956"
+  - "2024343223452"
+  - Crown & Sceptre
 tags:
   - source
   - book
 related: 
-author: "[[person-maxwellmaltz-2024343222027|Maxwell Maltz]]"
+author: "[[person-tracyborman-2024343223239|Tracy Borman]]"
 ---
 
 

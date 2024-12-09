@@ -1,11 +1,12 @@
 ---
 aliases:
-  - "2024343221956"
+  - "2024343222440"
+  - The Magician
 tags:
   - source
   - book
 related: 
-author: "[[person-maxwellmaltz-2024343222027|Maxwell Maltz]]"
+author: "[[person-michaelscott-2024343222318|Michael Scott]]"
 ---
 
 
@@ -13,7 +14,7 @@ author: "[[person-maxwellmaltz-2024343222027|Maxwell Maltz]]"
 ***
 
 up:: 
-back:: 
+back:: [[source-book-michaelscott-thealchemyst-2024343222402|The Alchemyst]]
 forward:: 
 layer:: [[wellsofdarkness|layer-073]]
 

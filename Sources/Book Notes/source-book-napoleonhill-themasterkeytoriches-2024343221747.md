@@ -2,7 +2,9 @@
 aliases:
   - "2024343221747"
   - The Master Key to Riches
-tags: 
+tags:
+  - source
+  - book
 related: 
 author: "[[person-napoleonhill-2024343221851|Napoleon Hill]]"
 ---
