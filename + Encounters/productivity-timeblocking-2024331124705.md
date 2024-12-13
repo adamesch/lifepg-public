@@ -7,7 +7,20 @@ related:
 
 # recap
 
-- timeblocking is an advanced productivity technique to visually structure **and** budget
+- timeblocking is an advanced productivity technique used to visually structure **and** budget your available time
+	- everything you need to do on a particular day should be scheduled in advance
+	- tie specific routines to specific timeblocks
+	- multitasking is a lie. whole ass one thing at a time.
+- the key to timeblocking is actually following
+
+# tips
+
+- use multiple calendars to stay organized, and layer those calendars on top of each other using an app like [[app-fantastical-2024327092140|Fantastical]]
+- if you're new to timeblocking, start by adding "sleep" as a calendar event and repeating it out to infinity. ideally, your sleep schedule should be the same **every day**. your body craves consistency.
+	- continue by adding a "work" event on the days/hours you are committed to work
+	- add smaller and more granular blocks to fill out the rest of your day
+	- in addition to "sleep," don't
+- structure your day around your energy levels. if you are a night owl, scheduling productive things in morning will only make your hate yourself.
 
 ***
 
