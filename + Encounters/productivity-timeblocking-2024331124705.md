@@ -5,7 +5,9 @@ tags: []
 related:
 ---
 
+# recap
 
+- timeblocking is an advanced productivity technique to visually structure **and** budget
 
 ***
 
