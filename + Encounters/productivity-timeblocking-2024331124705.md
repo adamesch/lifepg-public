@@ -1,7 +1,9 @@
 ---
 aliases:
   - "2024331124705"
-tags: []
+  - timeblocking
+tags:
+  - productivity
 related:
 ---
 
@@ -11,7 +13,7 @@ related:
 	- everything you need to do on a particular day should be scheduled in advance
 	- tie specific routines to specific timeblocks
 	- multitasking is a lie. whole ass one thing at a time.
-- the key to timeblocking is actually following
+- the key to timeblocking is actually following the schedule you set for yourself. don't timeblock a thing if you don't intend on actually doing it then.
 
 # tips
 
@@ -19,15 +21,17 @@ related:
 - if you're new to timeblocking, start by adding "sleep" as a calendar event and repeating it out to infinity. ideally, your sleep schedule should be the same **every day**. your body craves consistency.
 	- continue by adding a "work" event on the days/hours you are committed to work
 	- add smaller and more granular blocks to fill out the rest of your day
-	- in addition to "sleep," don't
+	- in addition to "sleep," don't forget to add other required human functions like eating, showering, etc
 - structure your day around your energy levels. if you are a night owl, scheduling productive things in morning will only make your hate yourself.
+- add a location to each timeblock to reinforce it being blocked -- the idea being that you go to a specific place to do a specific thing.
+- optionally, use the notes section of calendar events as a todo list. there are better task management methods, but you do you.
 
 ***
 
 up:: 
 back:: 
 forward:: 
-layer:: [[layer-099]]
+layer:: [[arcofeternity|layer-359]]
 
 ***
 
