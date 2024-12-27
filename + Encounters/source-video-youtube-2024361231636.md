@@ -2,9 +2,13 @@
 aliases:
   - "2024361231636"
   - This is What the Future of Social Media & Technology Looks Like
-tags: 
+tags:
+  - source
+  - video
+  - youtube
 related:
   - "[[source-channel-youtube-garyvee-2024362100953|GaryVee]]"
+url: https://youtu.be/CD4aLYMWHUE?si=IIhxX1HYbI8vYZSL
 ---
 
 ## SUMMARY
@@ -255,7 +259,7 @@ Embrace accountability, intuition, and creativity for authentic growth and resil
 up:: 
 back:: 
 forward:: 
-layer:: [[layer-099]]
+layer:: [[wellsofdarkness|layer-073]]
 
 ***
 
