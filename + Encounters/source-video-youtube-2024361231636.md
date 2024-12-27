@@ -1,8 +1,10 @@
 ---
 aliases:
   - "2024361231636"
-tags: []
+  - This is What the Future of Social Media & Technology Looks Like
+tags: 
 related:
+  - "[[source-channel-youtube-garyvee-2024362100953|GaryVee]]"
 ---
 
 ## SUMMARY
