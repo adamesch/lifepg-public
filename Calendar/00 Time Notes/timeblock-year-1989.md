@@ -9,7 +9,7 @@ tags:
 related:
 ---
 
-![[year-of-our-lord.png]]
+
 
 ***
 
