@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Demonweb Pits
 tags:
   - moc
 related:

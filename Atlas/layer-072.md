@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Darklight
 tags:
   - moc
 related:

@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Spirac
 tags:
   - moc
 related:

@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Blood Shallows
 tags:
   - moc
 related:

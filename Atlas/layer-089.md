@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Shadowsea
 tags:
   - moc
 related:

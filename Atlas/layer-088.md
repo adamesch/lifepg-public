@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Gaping Maw
 tags:
   - moc
 related:

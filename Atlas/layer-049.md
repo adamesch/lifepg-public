@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Shaddonon
 tags:
   - moc
 related:

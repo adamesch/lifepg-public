@@ -1,6 +1,7 @@
 ---
 aliases:
   - Sholo-Tovoth
+  - Fields of Consumption
 tags:
   - moc
 related:

@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Thanatos
 tags:
   - moc
 related:

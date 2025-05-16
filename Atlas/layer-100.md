@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Barrens
 tags:
   - moc
 related:

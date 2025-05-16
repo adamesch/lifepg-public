@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Swallowed Void
 tags:
   - moc
 related:

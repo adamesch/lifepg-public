@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Smaragd
 tags:
   - moc
 related:

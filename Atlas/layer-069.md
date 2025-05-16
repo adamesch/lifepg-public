@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Gibbering Hollow
 tags:
   - moc
 related:

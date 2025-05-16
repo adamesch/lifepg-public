@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Torturous Truth
 tags:
   - moc
 related:

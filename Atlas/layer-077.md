@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Gates of Heaven
 tags:
   - moc
 related:

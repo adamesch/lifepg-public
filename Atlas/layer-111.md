@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Mind of Evil
 tags:
   - moc
 related:

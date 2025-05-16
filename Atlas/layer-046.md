@@ -1,8 +1,11 @@
 ---
-aliases: 
+aliases:
+  - Shadowsky
 tags:
   - moc
 related:
+  - "[[layer-045|Rauwend]]"
+  - "[[layer-047|Voorz'zt]]"
 ---
 
 ***

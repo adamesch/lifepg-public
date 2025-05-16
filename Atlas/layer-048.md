@@ -1,5 +1,7 @@
 ---
-aliases: 
+aliases:
+  - Skeiqulac
+  - Ocean of Tears
 tags:
   - moc
 related:

@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Ice Floe
 tags:
   - moc
 related:
