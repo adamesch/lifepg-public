@@ -23,7 +23,7 @@ related:
 
 ***
 
-up:: 
+up:: [[layer-010]]
 back:: 
 forward:: 
 layer:: [[layer-487]]
