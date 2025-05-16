@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Vudra
 tags:
   - moc
 related:

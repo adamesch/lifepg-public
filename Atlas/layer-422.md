@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Death Dells
 tags:
   - moc
 related:

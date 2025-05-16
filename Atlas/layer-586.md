@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Prison of the Mad God
 tags:
   - moc
 related:

@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Rift of Corrosion
 tags:
   - moc
 related:

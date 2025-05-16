@@ -1,7 +1,6 @@
 ---
 aliases:
-  - Goranthis
-  - True Paradise
+  - Xulregg
 tags:
   - moc
 related:

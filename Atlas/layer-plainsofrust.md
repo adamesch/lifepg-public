@@ -1,7 +1,6 @@
 ---
 aliases:
-  - Goranthis
-  - True Paradise
+  - Plains of Rust
 tags:
   - moc
 related:

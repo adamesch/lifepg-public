@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Shendilavri
 tags:
   - moc
 related:

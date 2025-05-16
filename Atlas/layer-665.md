@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Void
 tags:
   - moc
 related:

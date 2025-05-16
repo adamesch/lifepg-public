@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Steeping Isle
 tags:
   - moc
 related:

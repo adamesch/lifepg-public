@@ -1,5 +1,7 @@
 ---
-aliases: 
+aliases:
+  - Molor
+  - Stinking Realm
 tags:
   - moc
 related:

@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Garavond
 tags:
   - moc
 related:

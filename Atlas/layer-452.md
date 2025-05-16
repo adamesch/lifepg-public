@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Ahriman-abad
 tags:
   - moc
 related:

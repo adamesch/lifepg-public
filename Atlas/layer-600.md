@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Endless Maze
 tags:
   - moc
 related:

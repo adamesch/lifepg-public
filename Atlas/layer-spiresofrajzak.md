@@ -1,7 +1,6 @@
 ---
 aliases:
-  - Goranthis
-  - True Paradise
+  - Spires of Rajzak
 tags:
   - moc
 related:

@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Androlynne
 tags:
   - moc
 related:

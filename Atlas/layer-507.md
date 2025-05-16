@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Occipitus
 tags:
   - moc
 related:

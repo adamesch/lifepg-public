@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Marched of Pierced Men
 tags:
   - moc
 related:

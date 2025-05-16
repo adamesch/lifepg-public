@@ -1,7 +1,6 @@
 ---
 aliases:
-  - Goranthis
-  - True Paradise
+  - Demonwing
 tags:
   - moc
 related:

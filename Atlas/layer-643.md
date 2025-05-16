@@ -1,8 +1,10 @@
 ---
-aliases: 
+aliases:
+  - Caverns of the Skull
 tags:
   - moc
 related:
+  - "[[layer-500]]"
 ---
 
 ***

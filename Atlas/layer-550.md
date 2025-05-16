@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Forest of Living Tongues
 tags:
   - moc
 related:

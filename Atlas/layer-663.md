@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Zionym
 tags:
   - moc
 related:

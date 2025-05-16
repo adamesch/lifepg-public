@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Soulfreeze
 tags:
   - moc
 related:

@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - White Kingdom
 tags:
   - moc
 related:

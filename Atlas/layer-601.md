@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Conflagratum
 tags:
   - moc
 related:

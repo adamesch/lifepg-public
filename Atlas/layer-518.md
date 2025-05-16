@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Melantholep
 tags:
   - moc
 related:

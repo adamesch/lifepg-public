@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Vallashan
 tags:
   - moc
 related:

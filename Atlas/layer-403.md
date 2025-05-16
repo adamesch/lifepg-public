@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Rainless Waste
 tags:
   - moc
 related:

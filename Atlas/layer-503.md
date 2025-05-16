@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Torremor
 tags:
   - moc
 related:

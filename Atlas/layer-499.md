@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Carroristo
 tags:
   - moc
 related:

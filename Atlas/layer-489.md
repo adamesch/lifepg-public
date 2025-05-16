@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Noisome Vale
 tags:
   - moc
 related:

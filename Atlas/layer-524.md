@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Shatterstone
 tags:
   - moc
 related:

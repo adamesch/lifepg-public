@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Guttlevetch
 tags:
   - moc
 related:
