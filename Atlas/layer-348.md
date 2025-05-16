@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Indifference
 tags:
   - moc
 related:

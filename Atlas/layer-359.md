@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Arc of Eternity
 tags:
   - moc
 related:

@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Hidden Layer
 tags:
   - moc
 related:

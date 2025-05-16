@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Worm Realm
 tags:
   - moc
 related:

@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Slugbed
 tags:
   - moc
 related:

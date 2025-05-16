@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Hallow's Heart
 tags:
   - moc
 related:

@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Durao
 tags:
   - moc
 related:

@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Fountain of Screams
 tags:
   - moc
 related:

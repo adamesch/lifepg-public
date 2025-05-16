@@ -1,5 +1,7 @@
 ---
-aliases: 
+aliases:
+  - Offalmound
+  - Rarandreth
 tags:
   - moc
 related:

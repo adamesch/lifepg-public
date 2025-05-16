@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Rotting Plain
 tags:
   - moc
 related:

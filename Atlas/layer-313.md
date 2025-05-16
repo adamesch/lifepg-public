@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Gorrion's Grasp
 tags:
   - moc
 related:

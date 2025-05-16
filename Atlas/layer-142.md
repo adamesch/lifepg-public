@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Lifebane
 tags:
   - moc
 related:

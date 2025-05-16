@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Outcasts' End
 tags:
   - moc
 related:

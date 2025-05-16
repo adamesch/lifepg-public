@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Feng-Tu
 tags:
   - moc
 related:

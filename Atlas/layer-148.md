@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Torrent
 tags:
   - moc
 related:

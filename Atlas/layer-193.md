@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Vulgarea
 tags:
   - moc
 related:

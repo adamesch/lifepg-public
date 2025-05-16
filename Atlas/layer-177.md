@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Writing Realm
 tags:
   - moc
 related:

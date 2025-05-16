@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Broken Scale
 tags:
   - moc
 related:

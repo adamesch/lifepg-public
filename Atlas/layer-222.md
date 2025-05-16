@@ -1,5 +1,7 @@
 ---
-aliases: 
+aliases:
+  - Shedaklah
+  - Slime Pits
 tags:
   - moc
 related:

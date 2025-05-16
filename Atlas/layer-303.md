@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Sulfanorum
 tags:
   - moc
 related:

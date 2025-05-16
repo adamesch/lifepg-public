@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Hungry Tarns
 tags:
   - moc
 related:

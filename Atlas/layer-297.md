@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Sighing Cliffs
 tags:
   - moc
 related:

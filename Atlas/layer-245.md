@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Scalding Sea
 tags:
   - moc
 related:

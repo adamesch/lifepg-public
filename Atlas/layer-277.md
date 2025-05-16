@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Belistor
 tags:
   - moc
 related:

@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Black Blizzard
 tags:
   - moc
 related:

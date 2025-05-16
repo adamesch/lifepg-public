@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Plains of Gallenshu
 tags:
   - moc
 related:
