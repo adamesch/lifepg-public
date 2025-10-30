@@ -10,7 +10,7 @@ related:
 
 up:: 
 back:: 
-forward:: 
+forward:: [[2025303130132|On Wednesdays, we wear pink]]
 layer:: 
 
 ***
