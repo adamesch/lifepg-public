@@ -5,6 +5,7 @@ tags:
   - moc
   - thread
   - home14/gray
+  - home14/purple
 related:
   - "[[2025303132044|Neitherlands]]"
 ---
@@ -12,6 +13,8 @@ related:
 # home14
 
 - [ ] #task connect your PS3 to the TV in the gray room  [created:: 2025-10-30]
+- [ ] #task connect your PS4 to the TV in the gray room  [created:: 2025-10-30]
+- [ ] #task connect your PS5 to the TV in the purple room  [created:: 2025-10-30]
 
 # media
 
