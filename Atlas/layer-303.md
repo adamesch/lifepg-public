@@ -3,6 +3,7 @@ aliases:
   - Sulfanorum
 tags:
   - moc
+  - thread
 related:
 ---
 

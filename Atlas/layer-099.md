@@ -1,7 +1,8 @@
 ---
-aliases: 
+aliases:
 tags:
   - moc
+  - thread
 related:
 ---
 
