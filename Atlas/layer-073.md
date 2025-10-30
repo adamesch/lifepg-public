@@ -10,7 +10,7 @@ related:
 
 ***
 
-up:: 
+up:: [[2025303105520|Golden Retriever Energy]]
 back:: 
 forward:: 
 layer:: 
