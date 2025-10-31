@@ -3,6 +3,7 @@ aliases:
   - "2025303204750"
 tags: []
 related:
+  - "[[2025303131346|Nullspire]]"
 ---
 
 
