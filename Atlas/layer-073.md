@@ -13,9 +13,9 @@ related:
 
 # home14
 
-- [ ] #task connect your PS3 to the TV in the gray room  [created:: 2025-10-30]
-- [ ] #task connect your PS4 to the TV in the gray room  [created:: 2025-10-30]
-- [ ] #task connect your PS5 to the TV in the purple room  [created:: 2025-10-30]
+- [x] #task connect your PS3 to the TV in the gray room  [created:: 2025-10-30]  [completion:: 2025-11-01]
+- [x] #task connect your PS4 to the TV in the gray room  [created:: 2025-10-30]  [completion:: 2025-11-01]
+- [x] #task connect your PS5 to the TV in the purple room  [created:: 2025-10-30]  [completion:: 2025-11-01]
 
 # media
 
