@@ -5,6 +5,7 @@
     "tags": "tags",
     "xp": "number",
     "related": "multitext",
-    "status": "text"
+    "status": "text",
+    "url": "multitext"
   }
 }
