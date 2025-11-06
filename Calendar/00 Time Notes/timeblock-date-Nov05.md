@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "Nov 05"
+  - Nov 05
 tags:
   - timeblock/date
   - temporalanchor
