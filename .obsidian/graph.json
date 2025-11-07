@@ -3,7 +3,7 @@
   "search": "",
   "showTags": true,
   "showAttachments": true,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -11,7 +11,7 @@
       "query": "tag:#moc",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 255
       }
     },
     {
@@ -19,20 +19,6 @@
       "color": {
         "a": 1,
         "rgb": 65280
-      }
-    },
-    {
-      "query": "tag:#task  ",
-      "color": {
-        "a": 1,
-        "rgb": 255
-      }
-    },
-    {
-      "query": "tag:#thread  ",
-      "color": {
-        "a": 1,
-        "rgb": 16744448
       }
     }
   ],
@@ -46,6 +32,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.05658513357317031,
+  "scale": 1.6769950692441873,
   "close": true
 }
